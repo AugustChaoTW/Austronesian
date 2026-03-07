@@ -30,17 +30,20 @@
 \maketitle
 
 \begin{abstract}
-We present an end-to-end pipeline for reconstructing Austronesian language relationships using lexical distance measures and classical phylogenetic algorithms. Leveraging the ABVD Lexibank corpus (2{,}036 languages, 346k word tokens), we normalize IPA to ASJP, compute multiple distance variants (Levenshtein, sound-class, weighted), and build Neighbor-Joining/UPGMA trees with clustering diagnostics. Our results show high correlation among distance variants (r=0.97) and recover known Formosan roots while enabling rapid experimentation for comparative linguistics.
+We present an end-to-end, reproducible pipeline for reconstructing Austronesian language relationships using lexical distance measures and classical phylogenetic algorithms. Leveraging the ABVD Lexibank corpus (2{,}036 languages, 210 concepts, 346k tokens), we normalize IPA to ASJP, compute three distance variants (Levenshtein, sound-class, weighted), and build Neighbor-Joining/UPGMA trees. Our results show strong cross-metric correlation (r=0.97 between Levenshtein and weighted) and recover expected Formosan groupings, providing a practical baseline for comparative and historical linguistics.
 \end{abstract}
 
 \keywords{Computational Linguistics, Historical Linguistics, Austronesian, Phylogenetics, Lexical Distance}
 
 \section{Introduction}
-Historical-comparative linguistics benefits from reproducible pipelines that transform raw wordlists into phylogenetic hypotheses. We aim to (1) provide a transparent computational baseline for Austronesian language relationships and (2) quantify agreement across lexical distance metrics.
+Historical-comparative linguistics benefits from reproducible pipelines that transform raw wordlists into phylogenetic hypotheses. We aim to (1) provide a transparent computational baseline for Austronesian language relationships and (2) quantify agreement across lexical distance metrics, using only open data and released code.
 
 \paragraph{Contributions} (i) An open, reproducible pipeline from ABVD Lexibank (2{,}036 languages, 210 concepts) to cleaned ASJP-form wordlists; (ii) three lexical distance variants (Levenshtein, sound-class, weighted) with systematic correlation analysis (r=0.97 between Levenshtein and weighted); (iii) phylogenetic reconstructions via Neighbor Joining (NJ) and UPGMA that recover expected Formosan groupings; (iv) release of distance matrices (200×200, 100×100), Newick trees, and scripts for end-to-end replication.
 
+\paragraph{Paper organization} Section~\ref{sec:data} describes the corpus and preprocessing; Section~\ref{sec:methods} details distance computation and tree building; Section~\ref{sec:results} reports correlations and tree findings; Section~\ref{sec:discussion} discusses robustness and limitations; Section~\ref{sec:conclusion} concludes and outlines future work.
+
 \section{Data}
+\label{sec:data}
 \subsection{Corpus}
 We use the Austronesian Basic Vocabulary Database (ABVD) in Lexibank format: 2{,}036 languages, 210 concepts, and 346{,}635 word tokens with cognate annotations.
 
@@ -50,9 +53,16 @@ IPA forms are normalized to ASJP; noisy or empty forms are removed. Processed ta
 \subsection{Availability}
 All processed tables (wordlist, languages, meanings) and derived outputs (distance matrices, trees) are released in this repository under \texttt{data/processed/} and \texttt{results/}.
 
+\subsection{Limitations}
+Data completeness varies across languages and concepts; we retain pairs with sufficient overlap after filtering empty/noisy forms. Future versions will incorporate explicit missing-data handling and Glottolog-aligned identifiers for cross-resource comparison.
+
 \section{Methods}
+\label{sec:methods}
 \subsection{Lexical Distance}
 We compute (i) normalized Levenshtein, (ii) sound-class distance, and (iii) weighted Levenshtein with phonological costs. Distances are aggregated per language pair over aligned concept lists.
+
+\subsection{Data pipeline}
+Processing steps and scripts: (1) \texttt{process\_abvd.py} (clean/normalize forms); (2) \texttt{normalize\_phonetics.py} (IPA \textrightarrow{} ASJP); (3) \texttt{compute\_distances.py} (distance matrices, 100×100 and 200×200); (4) \texttt{tree\_building.py} (NJ/UPGMA, Newick export); (5) \texttt{visualization.py} (dendrograms/plots); (6) \texttt{compare\_methods.py} (correlation analysis). Outputs reside in \texttt{data/processed/} and \texttt{results/}.
 
 \subsection{Tree Construction}
 Neighbor Joining and UPGMA are applied to the distance matrices. We export Newick trees and evaluate clustering consistency.
@@ -60,14 +70,27 @@ Neighbor Joining and UPGMA are applied to the distance matrices. We export Newic
 \subsection{Evaluation}
 We report Pearson correlations across distance variants and inspect nearest-neighbor pairs for plausibility (e.g., Formosan clusters).
 
+\subsection{Reproducibility}
+All scripts and artifacts are released in-repo. Default environment: Python 3.12 with pandas, numpy, scipy, matplotlib, ete3, tqdm. Distance matrices (100×100, 200×200) and Newick trees are versioned under \texttt{results/}.
+
 \section{Results}
-Distance variants are strongly correlated (Levenshtein vs. weighted: r=0.97). NJ/UPGMA trees recover expected groupings; recent Formosan branches remain distinct. Detailed matrices and Newick files are under \texttt{results/}.
+\label{sec:results}
+\subsection{Distance correlations}
+Distance variants are strongly correlated (Levenshtein vs. weighted: r=0.97; sound-class vs. others similar). Summary statistics and pairwise correlations are documented in \texttt{results/method\_comparison.md}; matrices are available as 100×100 and 200×200 CSVs.
+
+\subsection{Phylogenetic trees}
+NJ and UPGMA trees (\texttt{austronesian\_tree.nwk}, \texttt{austronesian\_tree\_upgma.nwk}) recover expected regional groupings; Formosan branches remain distinct. These Newick files can be rendered as figures; full-resolution plots are provided in the supplemental materials.
+
+\subsection{Nearest neighbors and clustering}
+Nearest-neighbor inspection shows plausible pairs within regional clusters; clustering consistency is summarized in \texttt{results/evaluation.md}. Further visual diagnostics are produced via \texttt{visualization.py}.
 
 \section{Discussion}
-The convergence of distance variants suggests robustness to cost choices. Future work includes Glottolog-based Robinson--Foulds comparisons and improved visualizations.
+\label{sec:discussion}
+The convergence of distance variants suggests robustness to cost choices. Limitations include incomplete concept coverage and lack of gold-standard phylogenies for evaluation. Future work: (i) Robinson--Foulds comparisons against Glottolog; (ii) improved visualization (e.g., truncated dendrograms, interactive plots); (iii) incorporation of cognate-aware or probabilistic models.
 
 \section{Conclusion}
-We provide a reproducible CL-style template and pipeline outputs for Austronesian phylogeny. Next steps are enriching the manuscript with figures, tables, and expanded error analysis.
+\label{sec:conclusion}
+We provide a reproducible CL-style template and pipeline outputs for Austronesian phylogeny. Next steps include adding figures/tables from released matrices and trees, aligning with Glottolog for structural comparisons, and expanding error analysis.
 
 \begin{acknowledgments}
 We thank collaborators and the Lexibank/ABVD maintainers. This draft follows the Computational Linguistics (clv2025) template.
