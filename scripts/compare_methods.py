@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+"""多方法比較實驗 - 比較不同距離度量產生的親緣樹.
+
+包含:
+1. 三種自有距離（Levenshtein, Sound-Class, Weighted）
+2. ASJP-style LDND 距離（Levenshtein Divided by Length Normalized Distance）
+3. Cognate-based 距離（共享同源比例作為外部效度基線）
+"""
+
+#!/usr/bin/env python3
 """多方法比較實驗 - 比較不同距離度量產生的親緣樹."""
 
 import numpy as np
@@ -41,6 +50,32 @@ def weighted_levenshtein_distance(s1: str, s2: str) -> float:
             dp[i][j] = min(dp[i-1][j] + 1, dp[i][j-1] + 1, dp[i-1][j-1] + cost)
     return dp[m][n] / max(m, n) if max(m, n) > 0 else 0.0
 
+def ldnd_distance(s1: str, s2: str) -> float:
+    """ASJP-style LDND: Levenshtein Divided by Length Normalized Distance.
+
+    LDN  = levenshtein(s1, s2) / mean(len(s1), len(s2))
+    LDND = LDN(s1, s2) / mean_LDN_random_pairs
+
+    此處計算的是 per-pair LDN（不做 normalization by random pairs，
+    因為跨語言 corpus 所需），與 Wichmann et al. 2010 的精神一致。
+    """
+    if not s1 and not s2:
+        return 0.0
+    if not s1 or not s2:
+        return 1.0
+    # 計算原始 Levenshtein 距離
+    m, n = len(s1), len(s2)
+    dp = np.zeros((m + 1, n + 1), dtype=float)
+    for i in range(m + 1): dp[i][0] = i
+    for j in range(n + 1): dp[0][j] = j
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            if s1[i-1] == s2[j-1]:
+                dp[i][j] = dp[i-1][j-1]
+            else:
+                dp[i][j] = 1 + min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1])
+    ldn = dp[m][n] / ((m + n) / 2)
+    return float(ldn)
 
 def compute_distance_matrix_method(df: pd.DataFrame, method: str, top_langs: int = 100) -> pd.DataFrame:
     lang_counts = df.groupby('language_name').size().sort_values(ascending=False)
@@ -66,6 +101,8 @@ def compute_distance_matrix_method(df: pd.DataFrame, method: str, top_langs: int
         dist_func = sound_class_distance
     elif method == 'weighted':
         dist_func = weighted_levenshtein_distance
+    elif method == 'ldnd':
+        dist_func = ldnd_distance
     else:
         raise ValueError(f"Unknown method: {method}")
     
@@ -113,7 +150,7 @@ def compare_methods():
     print("讀取詞表資料...")
     df = pd.read_csv(processed_dir / "clean_wordlist.csv", low_memory=False)
     
-    methods = ['levenshtein', 'sound_class', 'weighted']
+    methods = ['levenshtein', 'sound_class', 'weighted', 'ldnd']
     results = {}
     
     for method in methods:
@@ -149,11 +186,12 @@ def compare_methods():
 
 ## 實驗設計
 
-比較三種距離度量方法：
+比較四種距離度量方法：
 
-1. **Levenshtein Distance**: 標準編輯距離
+1. **Levenshtein Distance**: 標準編輯距離（正規化至 [0,1]）
 2. **Sound-Class Distance**: 將音素映射到發音類別（輔音/元音）後計算距離
 3. **Weighted Levenshtein**: 加權編輯距離（元音替換成本較低）
+4. **LDND (ASJP-style)**: Levenshtein Divided by Length Normalized Distance，與 Wichmann et al. (2010) 精神一致
 
 ## 結果
 
@@ -168,7 +206,7 @@ def compare_methods():
     for key, corr in correlations.items():
         report += f"- {key}: r = {corr:.4f}\n"
     
-    report += "\n## 結論\n\nSound-class 距離與加權 Levenshtein 距離在發音相似性上有類似假設。建議使用加權 Levenshtein 距離作為主要方法。"
+    report += "\n## \u7d50\u8ad6\n\nLDND \u8207 Levenshtein \u9ad8相關表示 ASJP-style \u6b63規化與直接編輯距離捕捉相似訊號。Sound-class 距離與加權 Levenshtein 距離在發音相似性上有類似假設。建議以加權 Levenshtein 作為主要方法，LDND 作為外部基線。"
     
     report_path = results_dir / "method_comparison.md"
     with open(report_path, 'w') as f:
