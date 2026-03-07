@@ -1,0 +1,2037 @@
+id,name,glottocode,iso639_3,macroarea,latitude,longitude,family
+1,Balinese,bali1278,ban,Papunesia,-8.35714,115.075,Austronesian
+2,Banggai (W.dialect),bang1368,bgz,Papunesia,-1.58305,123.171,Austronesian
+3,Banggi,bong1289,bdg,Papunesia,7.29249,117.174,Austronesian
+4,Banoni,bann1247,bcm,Papunesia,-6.23061,155.128,Austronesian
+5,Bantik,bant1286,bnq,Papunesia,1.44586,124.846,Austronesian
+6,Gayo,gayo1244,gay,Papunesia,4.3733,97.3456,Austronesian
+7,Gedaged,geda1237,gdd,Papunesia,-5.18175,145.781,Austronesian
+8,Geser,gese1240,ges,Papunesia,-3.8016,130.701,Austronesian
+9,Ghari,ghar1239,gri,Papunesia,-9.4791,159.917,Austronesian
+10,Gimán,gane1237,gzn,Papunesia,-0.42618,127.976,Austronesian
+11,Fijian (Bau),bauu1243,fij,Papunesia,,,Austronesian
+12,Gorontalo (Hulondalo),goro1259,gor,Papunesia,0.62689,122.288,Austronesian
+13,Hanunóo,hanu1241,hnn,Papunesia,12.4159,121.221,Austronesian
+14,Bima,bima1247,bhp,Papunesia,-8.57376,118.445,Austronesian
+15,Bintulu,bint1246,bny,Papunesia,3.867,113.634,Austronesian
+16,Bobot,bobo1254,bty,Papunesia,-3.43514,130.179,Austronesian
+17,Bonerate,bone1254,bna,Papunesia,-7.37657,121.792,Austronesian
+18,Chamorro,cham1312,cha,Papunesia,13.438011,144.74474,Austronesian
+19,Canala,xara1244,ane,Papunesia,-21.7034,165.996,Austronesian
+20,Javanese,java1254,jav,Papunesia,-7.001,109.287,Austronesian
+21,Kilokaka (Ysabel),zaza1245,jaj,Papunesia,-8.18719,159.255,Austronesian
+22,Timugon (Murut),timu1262,tih,Papunesia,5.1796,115.826,Austronesian
+23,Kis,kiss1246,kis,Papunesia,-3.83909,143.96,Austronesian
+24,Mor,morm1235,mhz,Papunesia,-2.87055,135.95,Austronesian
+25,Mota,mota1237,mtt,Papunesia,-13.835361,167.690924,Austronesian
+26,Motu,motu1246,meu,Papunesia,-9.67492,147.424,Austronesian
+27,Muna (Katobu-Tongkuno Dialect),muna1247,mnb,Papunesia,-5.40419,122.541,Austronesian
+28,Iban,iban1264,iba,Papunesia,2.09041,112.934,Austronesian
+29,Kaidipang,kaid1239,kzp,Papunesia,0.85641,123.217,Austronesian
+30,Kairiru,kair1263,kxa,Papunesia,-3.34608,143.558,Austronesian
+31,Kakiduge:n Ilongot,ilon1239,ilk,Papunesia,16.3785,121.547,Austronesian
+32,Kambera,kamb1299,xbr,Papunesia,-9.88447,120.235,Austronesian
+33,Kapampangan,pamp1243,pam,Papunesia,14.9603,120.502,Austronesian
+34,Lamaholot Ile Mandiri (Flores Timur),lama1277,slp,Papunesia,-8.36439,122.803,Austronesian
+35,Iliun (Erai),eray1237,ilu,Papunesia,,,Austronesian
+36,"Bontok, Guina-ang",guin1256,lbk,Papunesia,,,Austronesian
+37,Bughotu,bugh1239,bgt,Papunesia,-8.47948,159.802,Austronesian
+38,Marquesan,nort2845,mrq,Papunesia,-8.89412,-140.108,Austronesian
+39,Ali,kapp1237,ykm,Papunesia,-3.28761,142.659,Austronesian
+40,Ambai (Yapen),amba1265,amk,Papunesia,-1.88126,136.526,Austronesian
+41,Mori,mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+42,Atoni,uabm1237,aoz,Papunesia,-9.77284,124.144,Austronesian
+43,Aklanon - Bisayan,akla1241,akl,Papunesia,11.5543,122.354,Austronesian
+44,Babatana,baba1268,baa,Papunesia,-7.22281,157.149,Austronesian
+45,Berawan (Long Terawan),west2564,zbw,Papunesia,3.9815,114.528,Austronesian
+46,Biga (Misool),matb1237,xmt,Papunesia,-1.8801,130.075,Austronesian
+47,Bikol (Naga City),cent2087,bcl,Papunesia,13.7574,123.403,Austronesian
+48,Buginese (Soppeng Dialect),bugi1244,bug,Papunesia,-4.47,119.977,Austronesian
+49,Buli,buli1255,bzq,Papunesia,1.0008,128.443,Austronesian
+50,Buru [Namrole Bay],buru1303,mhs,Papunesia,-3.43957,126.632,Austronesian
+51,Bwaidoga,bwai1243,bwd,Papunesia,,,Austronesian
+52,Hawaiian,hawa1245,haw,Papunesia,19.6297,-155.43,Austronesian
+53,Hitu (Ambon),hitu1239,htu,Papunesia,-3.57478,128.186,Austronesian
+54,Hoava,hoav1238,hoa,Papunesia,-8.19679,157.595,Austronesian
+55,Kasira (Irahutu),irar1238,irh,Papunesia,-2.94438,133.586,Austronesian
+56,Kaulong (Au Village),kaul1240,pss,Papunesia,-6.08192,149.696,Austronesian
+57,Kayupulau [Kajupulau],kayu1243,kzu,Papunesia,-2.54415,140.626,Austronesian
+58,Rarotongan,raro1241,rar,Papunesia,-21.23,-159.78,Austronesian
+59,Kei (Tanimbar-Kei),keii1239,kei,Papunesia,-5.63948,133.02,Austronesian
+60,Kelabit (Bario),kela1258,kzi,Papunesia,3.31783,115.428,Austronesian
+61,Kemak,kema1243,kem,Papunesia,-9.00299,125.159,Austronesian
+62,Kenyah (Long Anap),main1275,xkl,Papunesia,3.42975,116.47431,Austronesian
+63,Kerinci,keri1250,kvr,Papunesia,-1.93668,101.403,Austronesian
+64,Nukuoro,nuku1260,nkr,Papunesia,3.84,154.975,Austronesian
+65,Kusaie,kosr1238,kos,Papunesia,5.31,162.98,Austronesian
+66,Kwaio,kwai1243,kwd,Papunesia,-8.93744,160.965,Austronesian
+67,Lamogai (Mulakaino),lamo1244,lmg,Papunesia,-5.87071,149.321,Austronesian
+68,Lau,lauu1247,llu,Papunesia,-8.51018,160.872,Austronesian
+69,Leipon,leip1237,lek,Papunesia,-1.9665,147.226,Austronesian
+70,Letinese,leti1246,lti,Papunesia,-8.19808,127.674,Austronesian
+71,Levei,kheh1237,tlx,Papunesia,-2.06626,146.746,Austronesian
+72,Likum,liku1243,lib,Papunesia,-2.16157,146.695,Austronesian
+73,Loniu,loni1238,los,Papunesia,-2.06124,147.35,Austronesian
+74,Lou,louu1245,loj,Papunesia,-2.38659,147.346,Austronesian
+75,Madurese,nucl1460,mad,Papunesia,-7.0,113.0,Austronesian
+76,Nêlêmwa,kuma1276,nee,Papunesia,-20.4035,164.193,Austronesian
+77,Yapese,yape1248,yap,Papunesia,9.55811,138.125,Austronesian
+78,Yamdena,yamd1240,jmd,Papunesia,-7.73722,131.44,Austronesian
+79,Mussau,muss1248,emi,Papunesia,,,Austronesian
+80,Murnaten (Alune),alun1238,alp,Papunesia,-3.11477,128.394,Austronesian
+81,Mono,mono1274,mte,Papunesia,,,Austronesian
+82,Maleu,male1289,mgl,Papunesia,-5.61613,148.445,Austronesian
+83,Maloh,emba1238,emb,Papunesia,1.3156,112.63,Austronesian
+84,Manggarai,mang1405,mqy,Papunesia,-8.55748,120.329,Austronesian
+85,Maori,maor1246,mri,Papunesia,-38.2881,176.541,Austronesian
+86,Maranao,mara1404,mrw,Papunesia,7.79414,124.175,Austronesian
+87,Marovo,maro1244,mvo,Papunesia,-8.37943,157.747,Austronesian
+88,Masiwang,masi1266,bnf,Papunesia,-3.29547,130.601,Austronesian
+89,Mekeo,meke1243,mek,Papunesia,-8.23853,146.586,Austronesian
+90,Melanau (Mukah),cent2101,mel,Papunesia,2.524086,111.346451,Austronesian
+91,Mengen,meng1267,mee,Papunesia,-5.47036,151.373,Austronesian
+92,Merina (Malagasy),meri1243,plt,Africa,,,Austronesian
+93,Minyaifuin (Gebe),gebe1237,gei,Papunesia,-0.07877,129.424,Austronesian
+94,Misima,misi1243,mpx,Papunesia,-10.6821,152.696,Austronesian
+95,Moken,moke1242,mwt,Eurasia,10.1474,98.6765,Austronesian
+96,Nauna,naun1237,ncn,Papunesia,-2.21213,148.201,Austronesian
+97,Nauru,naur1243,nau,Papunesia,-0.52957,166.922,Austronesian
+98,Nehan Hape,neha1247,nsn,Papunesia,-4.56875,154.2,Austronesian
+99,Nengone,neng1238,nen,Papunesia,-21.5305,167.964,Austronesian
+100,Ngadha,ngad1261,nxg,Papunesia,-8.79508,120.976,Austronesian
+101,Ngaibor (S.Aru),west2538,txn,Papunesia,-6.62046,134.168,Austronesian
+102,Nggela,gela1263,nlg,Papunesia,-9.04587,160.186,Austronesian
+103,Nguna,ngun1274,llp,Papunesia,,,Austronesian
+104,Nias,nias1242,nia,Papunesia,0.90691,97.4961,Austronesian
+105,Nissan,neha1247,nsn,Papunesia,-4.56875,154.2,Austronesian
+106,Numfor,biak1248,bhw,Papunesia,-0.9523,135.879,Austronesian
+107,Ogan,cent2053,pse,Papunesia,-3.79673,103.137,Austronesian
+108,Paamese (South),sout2858,pma,Papunesia,,,Austronesian
+109,Palauan,pala1344,pau,Papunesia,7.34138,134.476678,Austronesian
+110,Paulohi,paul1238,plh,Papunesia,-3.25404,128.779,Austronesian
+111,Peterara (Maewo),pete1237,mwo,Papunesia,,,Austronesian
+112,Popalia,tuka1249,bhq,Papunesia,-5.7478,123.948,Austronesian
+113,Raga,hano1246,lml,Papunesia,-15.5432,168.167,Austronesian
+114,Rejang Rejang,reja1240,rej,Papunesia,-3.33056,102.434,Austronesian
+115,Roti (Termanu Dialect),term1237,twu,Papunesia,-10.7326,123.169,Austronesian
+116,Rotuman,rotu1241,rtm,Papunesia,-12.5008,177.066,Austronesian
+117,Roviana,rovi1238,rug,Papunesia,-8.20493,157.408,Austronesian
+118,Samoan,samo1305,smo,Papunesia,-13.92,-171.83,Austronesian
+119,Savu,sabu1255,hvn,Papunesia,-10.5522,121.847,Austronesian
+120,"Ambrym, South-East",sout2859,tvk,Papunesia,-16.2975,168.211,Austronesian
+121,Seimat,seim1238,ssg,Papunesia,-1.2666667,144.25,Austronesian
+122,Selaru,sela1259,slu,Papunesia,-8.18376,130.961,Austronesian
+123,Sengseng,seng1281,ssz,Papunesia,-6.16474,149.784,Austronesian
+124,Sika,sika1262,ski,Papunesia,-8.67302,122.38,Austronesian
+125,Singhi,baub1235,sne,Papunesia,1.54467,109.985,Austronesian
+126,Sobei,sobe1238,sob,Papunesia,-1.86998,138.75,Austronesian
+127,Soboyo,tali1262,tlv,Papunesia,-1.79516,124.869,Austronesian
+128,Rurutuan,ruru1237,aut,Papunesia,,,Austronesian
+129,Tabar,taba1261,tbf,Papunesia,,,Austronesian
+130,Tahitian (18th Century),tahi1242,tah,Papunesia,-17.6485,-149.45,Austronesian
+131,Tangga,tang1348,hrc,Papunesia,-4.08824,153.611,Austronesian
+132,Tarpia,tarp1240,tpf,Papunesia,-2.322279,140.115497,Austronesian
+133,Tboli (Tagabili),tbol1240,tbl,Papunesia,6.20377,124.538,Austronesian
+134,Tetum,tetu1246,tdt,Papunesia,-8.58405,125.583,Austronesian
+135,Tigak,tiga1245,tgc,Papunesia,-2.70951,150.893,Austronesian
+136,Tongan,tong1325,ton,Papunesia,-21.17,-175.25,Austronesian
+137,Tontemboan,tont1239,tnt,Papunesia,1.24813,124.654,Austronesian
+138,Tsou T63,tsou1248,tsu,Papunesia,23.216,120.787,Austronesian
+139,Vaghua,vagh1249,tva,Papunesia,-6.68712,156.542,Austronesian
+140,Vitu,mudu1242,wiv,Papunesia,-4.69751,149.489,Austronesian
+141,Wampar,wamp1247,lbq,Papunesia,-6.67364,146.662,Austronesian
+142,Waropen,waro1242,wrp,Papunesia,-2.31142,136.633,Austronesian
+143,Watubela,watu1247,wah,Papunesia,-4.47294,131.641,Austronesian
+144,Western Bukidnon Manobo,west2555,mbb,Papunesia,7.6682,124.825,Austronesian
+145,Windesi Wandamen,wand1267,wad,Papunesia,-2.25622,133.996,Austronesian
+146,Wogeo,woge1237,woc,Papunesia,-3.20238,144.089,Austronesian
+147,Wuna,muna1247,mnb,Papunesia,-5.40419,122.541,Austronesian
+148,Wuvulu,wuvu1240,wuv,Papunesia,,,Austronesian
+149,Anejom (Aneityum),anei1239,aty,Papunesia,-20.1864,169.825,Austronesian
+150,Banjarese Malay,banj1239,bjn,Papunesia,0.747105,115.79,Austronesian
+151,Belait,bela1260,beg,Papunesia,4.96207,114.933,Austronesian
+152,Pukapuka,puka1242,pkp,Papunesia,-10.91,-165.83,Austronesian
+153,Cebuano,cebu1242,ceb,Papunesia,8.38799,124.367,Austronesian
+154,Dayak Ngaju,ngaj1237,nij,Papunesia,-1.58463,112.794,Austronesian
+155,Tikopia,tiko1237,tkp,Papunesia,-12.2766,168.822,Austronesian
+156,Futuna-Aniwa,futu1245,fut,Papunesia,-19.5303,170.215,Austronesian
+157,Itbayaten,ivat1242,ivv,Papunesia,20.77,121.85,Austronesian
+158,Katingan,ngaj1237,nij,Papunesia,-1.58463,112.794,Austronesian
+159,Kilivila,kili1267,kij,Papunesia,-8.72574,151.072,Austronesian
+160,Kisar,kisa1266,kje,Papunesia,-8.05122,127.18,Austronesian
+161,Koiwai (Irian Jaya),kowi1239,kwh,Papunesia,-4.21954,133.468,Austronesian
+162,Lenakel,lena1238,tnl,Papunesia,-19.4763,169.261,Austronesian
+163,Tuvalu,tuva1244,tvl,Papunesia,-8.520813,179.198088,Austronesian
+164,Magori (South East Papua),mago1248,zgr,Papunesia,-10.2321,149.26,Austronesian
+165,Maisin,mais1250,mbq,Papunesia,-9.22853,148.731,Austronesian
+166,Makassar,maka1311,mak,Papunesia,-5.65551,119.838,Austronesian
+167,Mambai,mamb1306,mgm,Papunesia,-9.19552,125.475,Austronesian
+168,Manam,mana1295,mva,Papunesia,-4.07921,145.033,Austronesian
+169,Marshallese (E. Dialect),rata1243,mah,Papunesia,,,Austronesian
+170,Melayu Ambon,ambo1250,abs,Papunesia,-3.71342,128.184,Austronesian
+171,Lamusong,lamu1255,lbv,Papunesia,,,Austronesian
+172,Minangkabau,mina1268,min,Papunesia,-0.896,100.44,Austronesian
+173,Tahitian (Modern),tahi1242,tah,Papunesia,-17.6485,-149.45,Austronesian
+174,Pulo Anna,pulo1240,sov,Papunesia,,,Austronesian
+175,Chuukese,chuu1238,chk,Papunesia,7.346993,151.598607,Austronesian
+176,Nakanai (Bileki Dialect),bile1245,nak,Papunesia,,,Austronesian
+177,Paiwan (Kulalao F82),paiw1248,pwn,Papunesia,22.3271,120.806,Austronesian
+178,Patpatar,patp1243,gfk,Papunesia,-3.74711,152.493,Austronesian
+179,Ponapean,pohn1238,pon,Papunesia,6.87212,158.223,Austronesian
+180,Pulau (Arguni),argu1237,agf,Papunesia,-2.645798,132.5556,Austronesian
+181,Punan Kelai,sega1243,sge,Papunesia,1.97695,116.954,Austronesian
+182,Ririo,riri1237,rri,Papunesia,-6.88927,156.92,Austronesian
+183,Sangir,sang1336,sxn,Papunesia,3.50554,125.56523,Austronesian
+184,Santa Ana,sant1414,stn,Papunesia,,,Austronesian
+185,Sasak,sasa1249,sas,Papunesia,-8.58349,116.284,Austronesian
+186,Sekar,seka1247,skz,Papunesia,-2.65849,132.469,Austronesian
+187,Teop,teop1238,tio,Papunesia,-5.67474,154.971,Austronesian
+188,Toba Batak,bata1289,bbc,Papunesia,2.35498,99.1761,Austronesian
+189,Tunjung,tunj1244,tjg,Papunesia,-0.29048,115.883,Austronesian
+190,Ujir (N.Aru),ujir1237,udj,Papunesia,-5.69329,134.257,Austronesian
+191,Varisi,vari1239,vrs,Papunesia,-6.83443,156.655,Austronesian
+192,Wolio,woli1241,wlo,Papunesia,-5.33,122.67,Austronesian
+193,Hiligaynon,hili1240,hil,Papunesia,10.4018,122.974,Austronesian
+194,Bonfia,masi1266,bnf,Papunesia,-3.29547,130.601,Austronesian
+195,Bukat,buka1261,bvk,Papunesia,1.29075,113.246,Austronesian
+196,Dehu,dehu1237,dhv,Papunesia,-20.8892,167.229,Austronesian
+197,"Elat, Kei Besar",keib1237,bnd,Papunesia,,,Austronesian
+198,Woleai,wole1240,woe,Papunesia,7.37957,143.916,Austronesian
+199,Alune,alun1238,alp,Papunesia,-3.11477,128.394,Austronesian
+200,Yakan,yaka1277,yka,Papunesia,6.531023,122.021729,Austronesian
+201,Carolinian,caro1242,cal,Papunesia,15.205,145.765,Austronesian
+202,"Bunun F69, Southern",bunu1267,bnn,Papunesia,23.4116,121.025,Austronesian
+203,Kanakanabu F69,kana1286,xnb,Papunesia,23.3235,120.887,Austronesian
+204,"Lio, Flores Tongah",lioo1240,ljl,Papunesia,-8.68615,121.832,Austronesian
+205,Lahanan,laha1253,lhn,Papunesia,2.72734,113.947,Austronesian
+206,Rennellese,mung1271,mnv,Papunesia,,,Austronesian
+207,As,asss1237,asz,Papunesia,-0.75267,131.728,Austronesian
+208,Bare'e,pamo1252,pmf,Papunesia,-1.62663,121.268,Austronesian
+209,Cheke Holo,chek1238,mrn,Papunesia,-8.27055,159.625,Austronesian
+210,"Futuna, East",east2447,fud,Papunesia,-14.278717,-178.137222,Austronesian
+211,Gapapaiwa,gapa1238,pwg,Papunesia,-9.73317,149.854,Austronesian
+212,Jawe,jawe1237,jaz,Papunesia,-20.6648,164.676,Austronesian
+213,Kwara'ae (Solomon Islands'),kwar1239,kwf,Papunesia,-8.75779,160.804,Austronesian
+214,Lampung,lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+215,Ma'anyan,maan1238,mhy,Papunesia,-2.1239,115.092,Austronesian
+216,Mailu,mail1248,mgu,Papunesia,-10.3657,149.521,Mailuan
+217,Kapingamarangi,kapi1249,kpg,Papunesia,1.039166,154.797223,Austronesian
+218,Dobuan,dobu1241,dob,Papunesia,-9.63239,150.825,Austronesian
+219,Molima,moli1248,mox,Papunesia,-9.57457,150.614,Austronesian
+220,Roro,waim1251,rro,Papunesia,-8.67145,146.544,Austronesian
+221,Sa'a,saaa1240,apb,Papunesia,-9.60258,161.467,Austronesian
+222,Ubir,ubir1237,ubr,Papunesia,-9.59044,149.396,Austronesian
+223,To'ambaita,toab1237,mlu,Papunesia,-8.39233,160.619,Austronesian
+224,Teanu,tean1237,tkw,Papunesia,-11.6752,166.868,Austronesian
+225,Taiof,sapo1253,sps,Papunesia,-5.64103,154.732,Austronesian
+226,Tae' (S.Toraja),tora1261,sda,Papunesia,-2.97144,119.829,Austronesian
+227,Suau,suau1242,swp,Papunesia,-10.6606,150.21,Austronesian
+228,"Tanna, Southwest",sout2869,nwi,Papunesia,-19.57953,169.35603,Austronesian
+229,Emae,emae1237,mmw,Papunesia,-17.052,168.399,Austronesian
+230,Sakao (Port-Olry),saka1289,sku,Papunesia,-15.0757,167.051,Austronesian
+231,Numbami (Siboma),numb1247,sij,Papunesia,-7.52806,147.298,Austronesian
+232,Modang,moda1244,mxd,Papunesia,0.80793,116.573,Austronesian
+233,Malay (Bahasa Indonesia),indo1316,ind,Papunesia,-7.33458,109.716,Austronesian
+234,Zabana (Kia),zaba1237,kji,Papunesia,-7.74311,158.753,Austronesian
+235,Penrhyn,penr1237,pnh,Papunesia,-9.082238,-157.922908,Austronesian
+236,Kédang,keda1252,ksx,Papunesia,-8.23039,123.77,Austronesian
+237,Kayan (Uma Juman),reja1241,ree,Papunesia,2.71903,114.169,Austronesian
+238,Luangiua,onto1237,ojv,Papunesia,-5.49029,159.701,Austronesian
+239,Mangareva,mang1401,mrv,Papunesia,-23.1095,-134.97,Austronesian
+240,Bolaang Mongondow,mong1342,mog,Papunesia,0.64616,124.114,Austronesian
+241,Thao B96,thao1240,ssf,Papunesia,23.8333,120.93,Austronesian
+242,Ifira-Mele (Mele-Fila),mele1250,mxe,Papunesia,-17.6841,168.275,Austronesian
+243,Sikaiana,sika1261,sky,Papunesia,-8.37701,162.72522,Austronesian
+244,Takuu,taku1257,nho,Papunesia,-4.773094,157.032085,Austronesian
+245,Tokelau,toke1240,tkl,Papunesia,-9.227642,-171.780833,Austronesian
+246,Tuamotu,tuam1242,pmt,Papunesia,-16.17259,-146.321755,Austronesian
+247,Niue,niue1239,niu,Papunesia,-19.06,-169.86,Austronesian
+248,Iraralay,ivat1242,ivv,Papunesia,20.77,121.85,Austronesian
+249,Itbayat,ivat1242,ivv,Papunesia,20.77,121.85,Austronesian
+250,Imorod,ivat1242,ivv,Papunesia,20.77,121.85,Austronesian
+251,Ivasay,ivat1242,ivv,Papunesia,20.77,121.85,Austronesian
+252,Isamorong,ivat1242,ivv,Papunesia,20.77,121.85,Austronesian
+253,Anuta,anut1237,aud,Papunesia,-11.61,169.85,Austronesian
+254,Yami,yami1254,tao,Papunesia,22.055,121.544,Austronesian
+255,Atayal - Squliq F69,atay1247,tay,Papunesia,24.5209,121.388,Austronesian
+256,Atayal - C'uli' F69 (Bandai),atay1247,tay,Papunesia,24.5209,121.388,Austronesian
+257,Favorlang F69,babu1240,bzg,Papunesia,24.0017,120.585,Austronesian
+258,"Uvea, East",wall1257,wls,Papunesia,-13.2903,-176.207,Austronesian
+259,"Uvea, West",west2516,uve,Papunesia,-20.4145,166.589,Austronesian
+260,Kavalan F69,kava1241,ckv,Papunesia,24.6947,121.645,Austronesian
+262,Ida'an,idaa1241,dbj,Papunesia,5.29059,118.515,Austronesian
+263,Melayu Brunei (Dialect),brun1242,kxd,Papunesia,4.456045,114.429505,Austronesian
+264,Rapanui (Easter Island),rapa1244,rap,Papunesia,-27.113,-109.342,Austronesian
+265,Palawan Batak,bata1301,plw,Papunesia,10.1115,119.025,Austronesian
+266,Pazih F69,kulo1237,uun,Papunesia,23.7562,120.976,Austronesian
+267,Proto-Central Eastern Malayo Polynesian,ruka1240,dru,Papunesia,22.7738,120.844,Austronesian
+268,Proto-Central Malayo Polynesian,cent2245,,,,,
+269,Proto-Malayo-Polynesian,mala1545,,,,,Austronesian
+270,Proto-Oceanic (Blust),ocea1241,,,,,Austronesian
+271,Puyuma (Chihpen F69),puyu1239,pyu,Papunesia,22.643,120.996,Austronesian
+272,Rukai (Budai F69),ruka1240,dru,Papunesia,22.7738,120.844,Austronesian
+273,Saaroa F69,saar1237,sxr,Papunesia,23.2632,120.711,Austronesian
+274,Saisiyat F69,sais1237,xsy,Papunesia,24.6043,121.067,Austronesian
+275,Seediq F69 (Sakura),taro1264,trv,Papunesia,23.9032,121.358,Austronesian
+276,Siraya F69,sira1267,fos,Papunesia,22.9777,120.315,Austronesian
+277,Tagalog,taga1270,tgl,Papunesia,14.06,121.747,Austronesian
+278,Werinama,bobo1254,bty,Papunesia,-3.43514,130.179,Austronesian
+279,Ibanag,iban1267,ibg,Papunesia,17.4201,121.891,Austronesian
+280,Proto-Austronesian,aust1307,,,,,Austronesian
+281,Lakalai,naka1262,nak,Papunesia,-5.59931,150.888,Austronesian
+282,Kove,kove1237,kvc,Papunesia,-5.58623,149.63,Austronesian
+283,Yogya,java1254,jav,Papunesia,-7.001,109.287,Austronesian
+284,Sundanese,sund1252,sun,Papunesia,-6.89708,107.106,Austronesian
+285,Amara,amar1272,aie,Papunesia,-5.55778,148.68,Austronesian
+286,Mouk,mouk1240,mwh,Papunesia,,,Austronesian
+287,Aria,mouk1239,mwh,Papunesia,-5.71155,149.158,Austronesian
+288,Ilokano,ilok1237,ilo,Papunesia,15.9361,120.993,Austronesian
+289,Babuyan,babu1242,ivv,Papunesia,19.48,121.96,Austronesian
+290,Old Javanese,java1254,jav,Papunesia,-7.001,109.287,Austronesian
+291,Koronadal Blaan,koro1310,bpr,Papunesia,6.20529,125.007,Austronesian
+292,Proto-Southern Mindanaon,,,,,,
+293,Sarangani Blaan,sara1326,bps,Papunesia,6.03691,125.354,Austronesian
+294,'Auhelawa,auhe1237,kud,Papunesia,-10.0959,151.002,Austronesian
+295,Oirata,oira1263,oia,Papunesia,-8.09044,127.201,Timor-Alor-Pantar
+296,Iliun,iliu1237,ilu,Papunesia,-7.84385,125.902,Austronesian
+297,Tugun,tugu1245,tzn,Papunesia,-7.72555,126.7,Austronesian
+298,Perai,pera1257,wet,Papunesia,-7.62349,126.576,Austronesian
+299,Aputai,aput1237,apx,Papunesia,-7.84732,126.496,Austronesian
+300,Galolen (Talur),galo1243,gal,Papunesia,-8.61074,125.959,Austronesian
+301,Luang,luan1263,lex,Papunesia,-8.18378,127.944,Austronesian
+302,East Damar,east2472,dmr,Papunesia,-7.16991,128.636,Austronesian
+303,Teun,teun1241,tve,Papunesia,-6.97086,129.143718,Austronesian
+304,Serua,seru1245,srw,Papunesia,-6.31107,130.017294,Austronesian
+305,Nila,nila1244,nil,Papunesia,-6.734956,129.512131,Austronesian
+306,West Damar,west2548,drn,Papunesia,-7.12065,128.585,Austronesian
+307,Dawera-Daweloor,dawe1237,ddw,Papunesia,-7.76324,130.06,Austronesian
+308,Dai,daii1240,dij,Papunesia,-7.55894,129.687,Austronesian
+309,North Babar,nort2860,bcd,Papunesia,-7.84311,129.743,Austronesian
+310,South-East Babar,sout2883,vbb,Papunesia,-7.94359,129.8,Austronesian
+311,Serili,seri1255,sve,Papunesia,-8.11241,129.901,Austronesian
+312,East Masela,east2462,vme,Papunesia,-8.13455,129.873,Austronesian
+313,Central Masela,cent2072,mxz,Papunesia,-8.15414,129.865,Austronesian
+314,Emplawas,empl1237,emw,Papunesia,-8.03209,129.721,Austronesian
+315,Tela-Masbuar,tela1241,tvm,Papunesia,-8.01195,129.687,Austronesian
+316,Imroing,imro1237,imr,Papunesia,-7.96772,129.651,Austronesian
+317,Pondok,anak1240,akg,Papunesia,-9.63425,119.605,Austronesian
+318,Kodi,kodi1247,kod,Papunesia,-9.6373,119.114,Austronesian
+319,Wanukaka,wanu1241,wnk,Papunesia,-9.69834,119.468,Austronesian
+320,Anakalang,anak1240,akg,Papunesia,-9.63425,119.605,Austronesian
+321,Baliledo,anak1240,akg,Papunesia,-9.63425,119.605,Austronesian
+322,South Efate,sout2856,erk,Papunesia,-17.7006,168.377,Austronesian
+323,Lamboya,lamb1273,lmy,Papunesia,-9.70434,119.344,Austronesian
+324,Mamboru,mamb1305,mvd,Papunesia,-9.42302,119.55,Austronesian
+325,Gaura Nggaura,kodi1247,kod,Papunesia,-9.6373,119.114,Austronesian
+326,Wewewa (Tana Righu dialect),weje1237,wew,Papunesia,-9.55099,119.349,Austronesian
+327,So'a,cent2074,ssq,Papunesia,-8.6778,121.04764,Austronesian
+328,"East Sumbanese Kambera, Southern dialect",kamb1299,xbr,Papunesia,-9.88447,120.235,Austronesian
+329,"East Sumbanese, Lewa dialect",kamb1299,xbr,Papunesia,-9.88447,120.235,Austronesian
+330,"East Sumbanese, Umbu Ratu Nggai dialect",kamb1299,xbr,Papunesia,-9.88447,120.235,Austronesian
+331,Old Chinese,oldc1244,och,Eurasia,36.12,114.32,Sino-Tibetan
+332,Roma,roma1332,rmm,Papunesia,-7.58643,127.428,Austronesian
+333,Komering,kome1238,kge,Papunesia,-3.79215,105.107,Austronesian
+334,Yabem,yabe1254,jae,Papunesia,-6.67052,147.81,Austronesian
+335,Yami,yami1254,tao,Papunesia,22.055,121.544,Austronesian
+336,Puluwatese,pulu1242,puw,Papunesia,7.35695,149.2005,Austronesian
+337,Pulo-Annan,pulo1240,sov,Papunesia,,,Austronesian
+338,Saipan Carolinian,caro1242,cal,Papunesia,15.205,145.765,Austronesian
+339,Saipan Carolinian Tanapag,tana1281,cal,Papunesia,15.237,145.757,Austronesian
+340,Proto-Micronesian,micr1243,,,,,Austronesian
+341,Nage,nage1237,nxe,Papunesia,-8.70513,121.31,Austronesian
+342,Mokilese,moki1238,mkj,Papunesia,6.65651,159.776,Austronesian
+343,Satawalese,sata1237,stw,Papunesia,7.36084,147.038,Austronesian
+344,Marshallese,mars1254,mah,Papunesia,8.72,167.73,Austronesian
+345,Mortlockese,mort1237,mrl,Papunesia,5.50735,153.710778,Austronesian
+346,Kiribati,gilb1244,gil,Papunesia,0.179,173.64,Austronesian
+347,Woleaian,wole1240,woe,Papunesia,7.37957,143.916,Austronesian
+348,Proto-Chuukic,truk1243,,,,,Austronesian
+349,Chuukese,chuu1238,chk,Papunesia,7.346993,151.598607,Austronesian
+350,Amis (Central),amis1246,ami,Papunesia,23.0917,121.348,Austronesian
+351,Buyang (Langjia),emab1235,yzg,Eurasia,23.604572,106.030277,Tai-Kadai
+352,Nembao,amba1266,utp,Papunesia,-11.2958,166.498,Austronesian
+353,Asumboa,asum1237,aua,Papunesia,-11.2969,166.499,Austronesian
+354,Tanimbili,tani1255,tbe,Papunesia,-11.2975,166.507,Austronesian
+355,Buma,tean1237,tkw,Papunesia,-11.6752,166.868,Austronesian
+356,Vano,vano1237,vnk,Papunesia,-11.6107,166.7984,Austronesian
+357,Tanema,tane1237,tnx,Papunesia,-11.68,166.97,Austronesian
+358,Amahai,amah1245,amq,Papunesia,-3.32028,128.939,Austronesian
+359,Tungag / Tungak / Lavongai,tung1290,lcm,Papunesia,-2.52188,150.198,Austronesian
+360,Dayak Ngaju,ngaj1237,nij,Papunesia,-1.58463,112.794,Austronesian
+361,Hainan Cham,tsat1238,huq,Eurasia,18.3192,109.336,Austronesian
+362,Indonesian,indo1316,ind,Papunesia,-7.33458,109.716,Austronesian
+363,Sisingga,sisi1250,baa,Papunesia,-7.0,156.83,Austronesian
+364,Siar,siar1238,sjr,Papunesia,-4.62059,152.892,Austronesian
+365,Kokota,koko1269,kkk,Papunesia,-8.16481,159.191,Austronesian
+366,Takia,taki1248,tbc,Papunesia,-4.69057,145.975,Austronesian
+367,Sudest,sude1239,tgo,Papunesia,-11.5229,153.488,Austronesian
+368,Nalik,nali1244,nal,Papunesia,-2.94411,151.332,Austronesian
+369,Basay TsYM91,basa1287,byq,Papunesia,25.0046,121.857,Austronesian
+370,Nalik,nali1244,nal,Papunesia,-2.94411,151.332,Austronesian
+371,Phan Rang Cham (Eastern Cham),east2563,cjm,Eurasia,11.2853,108.49,Austronesian
+372,Madara,mand1440,tbf,Papunesia,-2.7828,151.956,Austronesian
+373,Savosavo,savo1255,svs,Papunesia,-9.12853,159.814,Savosavo
+374,Diodio,diod1237,ddi,Papunesia,-9.38654,150.168,Austronesian
+375,Vaeakau-Taumako,pile1238,piv,Papunesia,-10.173335,166.247188,Austronesian
+376,Mwotlap,motl1237,mlv,Papunesia,-13.655015,167.706277,Austronesian
+377,Haku,hako1237,hao,Papunesia,-5.06832,154.594,Austronesian
+378,Japhug Rgyalrong,jiar1240,jya,Eurasia,31.60295,102.22875,Sino-Tibetan
+379,Sou Amana Teru,tule1244,tlu,Papunesia,-3.57785,128.31,Austronesian
+380,Vilirupu,sina1266,snc,Papunesia,-9.79791,147.861,Austronesian
+381,Wedau,weda1241,wed,Papunesia,-10.1246,150.172,Austronesian
+382,Tolai,kuan1248,ksd,Papunesia,-4.30986,152.114,Austronesian
+383,Madak,mada1285,mmx,Papunesia,-3.34342,151.967,Austronesian
+384,Kara (West),west2524,leu,Papunesia,,,Austronesian
+385,Lihir (Sunglik),lihi1237,lih,Papunesia,-3.18895,152.606,Austronesian
+386,Lunga Lunga  (Minigir),mini1251,vmg,Papunesia,-4.31803,152.005,Austronesian
+387,Barok,baro1253,bjk,Papunesia,-3.47672,152.193,Austronesian
+388,Kandas,kand1301,kqw,Papunesia,-4.3652,152.781,Austronesian
+389,Tagalog,taga1270,tgl,Papunesia,14.06,121.747,Austronesian
+390,Torau,tora1259,ttu,Papunesia,-6.19922,155.496,Austronesian
+391,Tiang,tian1237,tbj,Papunesia,-2.95505,150.935,Austronesian
+392,Bilur,bilu1244,bxf,Papunesia,-4.39732,152.334,Austronesian
+393,Kuni,kuni1263,kse,Papunesia,-8.66368,146.874,Austronesian
+394,Maututu,maut1237,nak,Papunesia,,,Austronesian
+395,Lala,lala1268,nrz,Papunesia,-8.93195,146.749,Austronesian
+396,Doura,tour1243,don,Papunesia,-9.10008,146.988,Austronesian
+397,Gabadi,abad1241,kbt,Papunesia,-9.03389,146.992,Austronesian
+398,Solos,solo1257,sol,Papunesia,-5.41042,154.624,Austronesian
+399,Megiar,megi1245,tbc,Papunesia,,,Austronesian
+400,Matukar,matu1261,mjk,Papunesia,-4.9078,145.779,Austronesian
+401,Riwo,geda1237,gdd,Papunesia,-5.18175,145.781,Austronesian
+402,Bilibil,bilb1241,brz,Papunesia,-5.26505,145.764,Austronesian
+403,Tetun Terik (Fehan dialect),tetu1245,tet,Papunesia,-9.11217,125.528,Austronesian
+404,Saliba,sali1295,sbe,Papunesia,-10.6148,150.727,Austronesian
+405,Pangasinan,pang1290,pag,Papunesia,15.9377,120.365,Austronesian
+406,Chru,chru1239,cje,Eurasia,11.6625,108.529,Austronesian
+407,"Hmong, White",hmon1333,mww,Eurasia,21.5461,103.164,Hmong-Mien
+408,Tagalog (Anthony dela Paz),taga1270,tgl,Papunesia,14.06,121.747,Austronesian
+409,Agta,cent2084,agt,Papunesia,17.9571,121.857,Austronesian
+410,"Atta, Pamplona",pamp1244,att,Papunesia,18.4738,121.3,Austronesian
+411,Balangaw,bala1310,blw,Papunesia,17.0994,121.272,Austronesian
+412,"Batak, Palawan",bata1301,bya,Papunesia,10.1115,119.025,Austronesian
+413,"Bilaan, Koronadal",koro1310,bpr,Papunesia,6.20529,125.007,Austronesian
+414,"Bilaan, Sarangani",sara1326,bps,Papunesia,6.03691,125.354,Austronesian
+415,Binukid,binu1244,bkd,Papunesia,8.15933,124.892,Austronesian
+416,"Bontok, Guina-ang",guin1256,lbk,Papunesia,,,Austronesian
+417,"Dumagat, Casiguran",casi1235,dgc,Papunesia,16.2176,121.878,Austronesian
+418,Gaddang,gadd1244,gad,Papunesia,16.5468,121.177,Austronesian
+419,"Ifugao, Amganad",amga1235,ifa,Papunesia,16.9016,121.042,Austronesian
+420,"Ifugao, Batad",bata1298,ifb,Papunesia,16.8266,121.23,Austronesian
+421,"Ifugao, Bayninan",kele1259,ify,Papunesia,16.7099,121.035,Austronesian
+422,"Ilongot, Kakiduge:n",ilon1239,ilk,Papunesia,16.3785,121.547,Austronesian
+423,Inibaloi,ibal1244,ibl,Papunesia,16.4263,120.695,Austronesian
+424,"Isneg, Dibagat-Kabugao-Isneg",isna1241,isd,Papunesia,18.2139,121.16,Austronesian
+425,Itbayaten,ivat1242,ivv,Papunesia,20.77,121.85,Austronesian
+426,"Itneg, Binongan",bino1237,itb,Papunesia,17.5972,120.876,Austronesian
+427,"Ivatan, Basco Dialect",ivat1242,ivv,Papunesia,20.77,121.85,Austronesian
+428,Kalagan,kala1388,kqe,Papunesia,6.8126,125.328,Austronesian
+429,"Kalinga, Guinaang, Lubuagan Dialect",lubu1243,knb,Papunesia,17.3879,121.0365,Austronesian
+430,"Kallahan, Kayapa Proper",kaya1320,kak,Papunesia,16.321,120.9,Austronesian
+431,"Kallahan, Keleyqiq",kele1259,ify,Papunesia,16.7099,121.035,Austronesian
+432,"Kankanay, Northern",nort2877,xnn,Papunesia,17.1057,120.786,Austronesian
+433,Mamanwa,mama1275,mmn,Papunesia,9.44744,125.548,Austronesian
+434,"Manobo, Ata (up-river)",atam1240,atd,Papunesia,7.7789,125.499,Austronesian
+435,"Manobo, Ata (down-river)",atam1240,atd,Papunesia,7.7789,125.499,Austronesian
+436,"Manobo, Dibabawon",diba1242,mbd,Papunesia,7.85664,126.018,Austronesian
+437,"Manobo, Ilianen (Kibudtungan Dialect)",ilia1236,mbi,Papunesia,7.34448,124.766,Austronesian
+438,"Manobo, Kalamansig Cotabato (Paril Dialect)",cota1241,mta,Papunesia,6.39417,124.234,Austronesian
+439,"Manobo, Sarangani, Kayaponga Dialect",sara1327,mbs,Papunesia,5.84903,125.499,Austronesian
+440,"Manobo, Tigwa, Iglogsad Dialect",mati1250,mbt,Papunesia,7.72124,125.16,Austronesian
+441,"Manobo, Western Bukidnon",west2555,mbb,Papunesia,7.6682,124.825,Austronesian
+442,Mansaka,mans1262,msk,Papunesia,6.79221,126.181,Austronesian
+443,"Samal, Siasi Dialect",cent2092,sml,Papunesia,7.004574,118.455978,Austronesian
+444,"Sambal, Botolan",boto1242,sbl,Papunesia,15.2315,120.164,Austronesian
+445,"Sangil, Saragani Islands",sang1337,snl,Papunesia,5.40229,125.378,Austronesian
+446,"Sangir, Tabukang Dialect",sang1336,sxn,Papunesia,3.50554,125.56523,Austronesian
+447,"Subanun, Sindangan",cent2089,syb,Papunesia,8.12701,123.018,Austronesian
+448,"Subanon, Siocon",west2557,suc,Papunesia,7.79964,122.341,Austronesian
+449,Tagabili,tbol1240,tbl,Papunesia,6.20377,124.538,Austronesian
+450,"Tagbanwa, Aborlan Dialect",cent2090,tgt,Papunesia,10.6519,119.338,Austronesian
+451,"Tagbanwa, Kalamian, Coron Island Dialect",cala1258,tbk,Papunesia,12.0716,120.094,Austronesian
+452,"Tausug, Jolo Dialect",taus1251,tsg,Papunesia,5.12236,118.88,Austronesian
+453,Nahavaq,sout2857,sns,Papunesia,-16.5116,167.477,Austronesian
+454,Amami,nort2935,ryn,Eurasia,28.20991,129.45346,Japonic
+455,Miyako,miya1259,mvi,Eurasia,24.7564,125.363,Japonic
+456,Avava,katb1237,tmb,Papunesia,-16.2701,167.484,Austronesian
+457,Naman,litz1237,lzl,Papunesia,-16.1331,167.415,Austronesian
+458,Iranun,iran1262,ill,Papunesia,4.3362,118.224,Austronesian
+459,Nese,nese1235,,Papunesia,-15.952608,167.222769,Austronesian
+460,Tape,mara1399,mrs,Papunesia,-16.0695,167.33,Austronesian
+461,Fataluku,fata1247,ddg,Papunesia,-8.49464,127.08,Timor-Alor-Pantar
+462,Makasae,maka1316,mkz,Papunesia,-8.65843,126.507,Timor-Alor-Pantar
+463,Sye (Erromangan),siee1239,erg,Papunesia,-18.8181,169.166,Austronesian
+464,Ura,urav1235,uur,Papunesia,-18.6747,169.084,Austronesian
+465,Araki (Southwest Santo),arak1252,akr,Papunesia,-15.632997,166.952542,Austronesian
+466,Surigaonon,suri1273,sgd,Papunesia,9.0,126.0,Austronesian
+467,Ilonggo,hili1240,hil,Papunesia,10.4018,122.974,Austronesian
+468,Melayu,stan1306,zsm,Eurasia,3.08896,101.699,Austronesian
+469,Tolo,tolo1254,tlr,Papunesia,,,Austronesian
+470,Merei,mere1242,lmb,Papunesia,-15.2839,166.905,Austronesian
+471,Iaai,iaai1238,iai,Papunesia,-20.6301,166.59,Austronesian
+472,Nehan,neha1247,nsn,Papunesia,-4.56875,154.2,Austronesian
+473,Simbo,simb1256,sbb,Papunesia,-8.26947,156.541,Austronesian
+474,Uruava,urua1242,urv,Papunesia,-6.23314,155.573,Austronesian
+475,Namakir,nama1268,nmk,Papunesia,-16.8979,168.569,Austronesian
+476,Orkon,orko1234,fnb,Papunesia,-16.210501,168.212109,Austronesian
+477,Kwamera,kwam1252,tnk,Papunesia,-19.5954,169.442,Austronesian
+478,Low Malay (1773),stan1306,zsm,Eurasia,3.08896,101.699,Austronesian
+479,Maori (1773),maor1246,mri,Papunesia,-38.2881,176.541,Austronesian
+480,Guguyimidjir (1773),gugu1255,kky,Australia,-14.9424,144.831,Pama-Nyungan
+481,Tahiti (1773),tahi1242,tah,Papunesia,-17.6485,-149.45,Austronesian
+482,Savu (1773),sabu1255,hvn,Papunesia,-10.5522,121.847,Austronesian
+483,Butuanon,butu1244,btw,Papunesia,8.87009,125.418,Austronesian
+484,Neve'ei,vinm1237,vnm,Papunesia,-16.2253,167.427,Austronesian
+485,Nāti,nati1244,,Papunesia,-16.468709,167.496054,Austronesian
+486,Lamalera (lembata),lama1278,lmr,Papunesia,-8.53225,123.442,Austronesian
+487,Kadorih,otda1235,otd,Papunesia,-0.3955,113.469,Austronesian
+488,Dayak Bakatiq-Sara/Riok,beka1241,bei,Papunesia,1.3307,109.576,Austronesian
+489,Bajo,indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+490,Inabaknon,inab1237,abx,Papunesia,12.4264,124.166,Austronesian
+491,Mapun,mapu1244,sjm,Papunesia,6.09061,118.75,Austronesian
+492,Enggano (Malakoni Village),engg1245,eno,Papunesia,-5.38846,102.245,Austronesian
+493,Enggano (Banjar Sari),engg1245,eno,Papunesia,-5.38846,102.245,Austronesian
+494,S.W. Palawano,sout2916,plv,Papunesia,8.67624,117.36,Austronesian
+495,Bundu Dusun (Central Dusun),cent2100,dtp,Papunesia,6.02998,116.681,Austronesian
+496,Tonsea,tons1240,txs,Papunesia,1.51393,125.052,Austronesian
+497,Biliau,awad1244,bcu,Papunesia,-5.59896,146.355,Austronesian
+498,Pingilapese,ping1243,pif,Papunesia,6.20743,160.711,Austronesian
+499,Sonsorolese,sons1243,sov,Papunesia,,,Austronesian
+500,Arosi,aros1241,aia,Papunesia,-10.2441,161.432,Austronesian
+501,Äiwoo,ayiw1239,nfl,Papunesia,-10.30387,166.32344,Austronesian
+502,Nanggu,nang1262,ngr,Papunesia,-10.7441,165.887,Austronesian
+503,Ende,ende1246,end,Papunesia,-8.70998,121.555,Austronesian
+504,"Malo, Santa Cruz",malo1246,ntu,Papunesia,,,Austronesian
+505,"Lwepe, Santa Cruz",natu1246,ntu,Papunesia,-10.6771,165.835,Austronesian
+506,Tetun (Dili),tetu1246,tdt,Papunesia,-8.58405,125.583,Austronesian
+507,Melayu Sarawak (dialect),mala1479,zlm,Eurasia,1.85856,103.0,Austronesian
+508,Kubokota,kubo1244,ghn,Papunesia,,,Austronesian
+509,Luqa,lung1249,lga,Papunesia,-8.17469,156.573,Austronesian
+510,Sivisa Titan,tita1241,ttv,Papunesia,-2.18168,146.888,Austronesian
+511,Gumawana,guma1254,gvs,Papunesia,-9.28497,150.762,Austronesian
+512,Western Fijian (Navosa),west2519,wyy,Papunesia,-17.8355,177.657,Austronesian
+513,Waray-Waray,wara1300,war,Papunesia,11.4911,125.012,Austronesian
+514,Kahua (Mami),kahu1241,agw,Papunesia,-10.6963,162.191,Austronesian
+515,Kahua,kahu1241,agw,Papunesia,-10.6963,162.191,Austronesian
+516,Tawaroga,kahu1241,agw,Papunesia,-10.6963,162.191,Austronesian
+517,Fagani,faga1239,faf,Papunesia,-10.4479,161.662,Austronesian
+518,Ughele,ughe1237,uge,Papunesia,-8.45725,157.341,Austronesian
+519,Lavukaleve,lavu1241,lvk,Papunesia,-9.05569,159.119,Lavukaleve
+520,Lengo (Paripao),pari1257,lgr,Papunesia,,,Austronesian
+521,Nduke,duke1237,nke,Papunesia,-7.97768,157.064,Austronesian
+522,Babatana (Katazi),kata1267,baa,Papunesia,,,Austronesian
+523,Mbilua (Ndovele),bilu1245,blb,Papunesia,-7.92388,156.663,Bilua
+524,Mbilua,bilu1245,blb,Papunesia,-7.92388,156.663,Bilua
+525,Ghanongga,ghan1242,ghn,Papunesia,-8.02035,156.552,Austronesian
+526,Mbaniata (Lokuru),touo1238,tqu,Papunesia,-8.58405,157.296,Touo
+527,Mbaniata,touo1238,tqu,Papunesia,-8.58405,157.296,Touo
+528,Kusaghe,kusa1251,ksg,Papunesia,-8.04056,157.463,Austronesian
+529,Mono (Fauro),faur1237,mte,Papunesia,,,Austronesian
+530,Mono (Alu),aluu1243,mte,Papunesia,,,Austronesian
+531,Lengo (Ghaimuta),ghai1237,lgr,Papunesia,,,Austronesian
+532,Dori'o,dori1246,dor,Papunesia,-9.11536,160.897,Austronesian
+533,Sa'a (Ulawa),ulaw1237,apb,Papunesia,,,Austronesian
+534,Sa'a (Uki Ni Masi),ukin1237,apb,Papunesia,,,Austronesian
+535,Vangunu,vang1243,mpr,Papunesia,-8.66826,157.997,Austronesian
+536,Babatana (Avasö),avas1237,baa,Papunesia,,,Austronesian
+537,Ghari (Nggae),gaee1238,gri,Papunesia,,,Austronesian
+538,Ghari (Ndi),ndii1241,gri,Papunesia,,,Austronesian
+539,Ghari (Nggeri),geri1237,gri,Papunesia,,,Austronesian
+540,Ghari (Tandai),tand1254,gri,Papunesia,,,Austronesian
+541,Ghari (Nginia),ngin1246,gri,Papunesia,,,Austronesian
+542,Malango,mala1484,mln,Papunesia,-9.61383,160.118,Austronesian
+543,Talise (Koo),kooo1245,tlr,Papunesia,,,Austronesian
+544,Talise (Malagheti),mala1483,tlr,Papunesia,,,Austronesian
+545,Talise (Moli),moli1247,tlr,Papunesia,,,Austronesian
+546,Talise (Poleo),pole1240,tlr,Papunesia,,,Austronesian
+547,Talise,tali1259,tlr,Papunesia,-9.76764,160.231,Austronesian
+548,Mbirao,bira1254,brr,Papunesia,-9.73716,160.52,Austronesian
+549,Langalanga,wala1266,lgl,Papunesia,-8.81936,160.741,Austronesian
+550,Kwai,gula1270,gmb,Papunesia,-8.74742,161.023,Austronesian
+551,Varisi (Ghone),bare1273,vrs,Papunesia,,,Austronesian
+552,Babatana (Lömaumbi),loma1262,baa,Papunesia,,,Austronesian
+553,Laghu (Samasodu),lagh1246,lgb,Papunesia,-8.00509,158.961,Austronesian
+554,Mbareke,bare1273,mpr,Papunesia,,,Austronesian
+555,Nggao (Poro),gaoo1237,gga,Papunesia,-8.35163,159.789,Austronesian
+556,Fagani (Rihu'a),rihu1237,faf,Papunesia,,,Austronesian
+557,Oroha,oroh1237,ora,Papunesia,-9.7386,161.513,Austronesian
+558,Santa Catalina,sant1413,stn,Papunesia,,,Austronesian
+559,Bellona,mung1270,mnv,Papunesia,,,Austronesian
+560,Kazukuru,kazu1245,kzk,Papunesia,-8.23886,157.687,Austronesian
+561,Longgu,long1395,lgu,Papunesia,-9.75258,160.663,Austronesian
+562,Lungga,lung1249,lga,Papunesia,-8.17469,156.573,Austronesian
+563,Lengo,leng1259,lgr,Papunesia,-9.56425,160.42,Austronesian
+564,Mbaelelea,bael1237,bvc,Papunesia,-8.41627,160.721,Austronesian
+565,Mbaengguu,baeg1237,bvd,Papunesia,-8.49014,160.771,Austronesian
+566,Fataleka,fata1245,far,Papunesia,-8.59041,160.861,Austronesian
+567,Bauro (Haununu),haun1237,bxa,Papunesia,,,Austronesian
+568,Marau (Guadalcanal),area1240,alu,Papunesia,-9.20699,161.158,Austronesian
+569,Babatana (Tunöe),baba1268,baa,Papunesia,-7.22281,157.149,Austronesian
+570,Fagani (Agufi),aguf1237,faf,Papunesia,,,Austronesian
+571,Sengga,seng1280,baa,Papunesia,,,Austronesian
+572,Rawo,rawo1242,bxa,Papunesia,,,Austronesian
+573,Maringe (Tataba),mari1427,mrn,Papunesia,,,Austronesian
+574,Maringe (Leleghia),mari1427,mrn,Papunesia,,,Austronesian
+575,Sa'a (Sa'a Village),saaa1240,apb,Papunesia,-9.60258,161.467,Austronesian
+576,Sa'a (A'ulu Village),saaa1240,apb,Papunesia,-9.60258,161.467,Austronesian
+577,Maringe (Kmagha),mari1427,mrn,Papunesia,,,Austronesian
+578,Blablanga (Ghove),blab1237,blp,Papunesia,-8.15058,159.419,Austronesian
+579,Mbughotu (Dhadhaje),bugh1239,bgt,Papunesia,-8.47948,159.802,Austronesian
+580,Blablanga,blab1237,blp,Papunesia,-8.15058,159.419,Austronesian
+581,Bauro (Pawa Village),baur1252,bxa,Papunesia,-10.5826,161.863,Austronesian
+582,Bauro (Baroo Village),baur1252,bxa,Papunesia,-10.5826,161.863,Austronesian
+583,Arosi (Oneibia Village),aros1241,aia,Papunesia,-10.2441,161.432,Austronesian
+584,Arosi (Tawatana Village),aros1241,aia,Papunesia,-10.2441,161.432,Austronesian
+585,'Are'are (Ma'asupa Village),area1240,alu,Papunesia,-9.20699,161.158,Austronesian
+586,'Are'are (Waiahaa Village),area1240,alu,Papunesia,-9.20699,161.158,Austronesian
+587,Lau (Walade),lauu1247,llu,Papunesia,-8.51018,160.872,Austronesian
+588,Lau (North),lauu1247,llu,Papunesia,-8.51018,160.872,Austronesian
+589,Manihiki,raka1237,rkh,Papunesia,-10.03,-161.09,Austronesian
+590,Kuot,kuot1243,kto,Papunesia,-3.06952,151.537,Kuot
+591,Tarangan Barat (Feruni),west2538,txn,Papunesia,-6.62046,134.168,Austronesian
+592,Palu'e (Nitung),palu1252,ple,Papunesia,-8.32877,121.718,Austronesian
+593,Qabiao,qabi1235,laq,Eurasia,23.2384,104.812,Tai-Kadai
+594,Komering (Kayu Agung Asli),kome1238,kge,Papunesia,-3.79215,105.107,Austronesian
+595,"Komering (Ulu), Adumanis Village",kome1238,kge,Papunesia,-3.79215,105.107,Austronesian
+596,"Komering (Ilir), Palau Gemantung Village",kome1238,kge,Papunesia,-3.79215,105.107,Austronesian
+597,"Komering (Ulu), Perjaya Village",kome1238,kge,Papunesia,-3.79215,105.107,Austronesian
+598,"Komering (Ulu), Damarpura Village",kome1238,kge,Papunesia,-3.79215,105.107,Austronesian
+599,Lampung Api (Daya),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+600,Lampung Api (Ranau),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+601,Lampung Api (Sukau),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+602,Lampung Api (Krui),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+603,Lampung Api (Belalau),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+604,Lampung Api (Way Kanan),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+605,Lampung Api (Kota Agung),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+606,Lampung Api (Talang Padang),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+607,Lampung Api (Way Lima),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+608,Lampung Api (Sungkai),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+609,Lampung Api (Pubian),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+610,Lampung Api (Kalianda),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+611,Lampung Nyo (Melinting),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+612,Lampung Api (Jabung),lamp1243,ljp,Papunesia,-5.73463,105.037,Austronesian
+613,Komering (Kayu Agung Pendatang),kome1238,kge,Papunesia,-3.79215,105.107,Austronesian
+614,Lampung Nyo (Abung/Sukadana),lamp1242,abl,Papunesia,-4.43957,105.397,Austronesian
+615,Lampung Nyo (Abung/Kotabumi),lamp1242,abl,Papunesia,-4.43957,105.397,Austronesian
+616,Lampung Nyo (Menggala/Tulang Bawang),lamp1242,abl,Papunesia,-4.43957,105.397,Austronesian
+617,Sewa,sewa1251,sew,Papunesia,-10.0277,150.956,Austronesian
+618,Buol,buol1237,blf,Papunesia,0.97727,121.519,Austronesian
+619,Bajo (Kolo Bawah),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+620,Bajo (Padei Laut),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+621,Bajo (Kayuadi),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+622,Bajo (Pitulua),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+623,Bajo (Bajoe),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+624,Bajo (Lauru),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+625,Bajo (Moramo),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+626,Bajo (Boepinang),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+627,Bajo (Lakaramba),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+628,Bajo (Kaleroang),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+629,Bajo (Lakonea),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+630,Bajo (Langara Laut),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+631,Bajo (Lapulu),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+632,Bajo (Luwuk),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+633,Bajo (Anaiwoi),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+634,Bajo (Lemo Bajo),indo1317,bdl,Papunesia,-3.68664,122.253,Austronesian
+635,Babuza Ts82,babu1240,bzg,Papunesia,24.0017,120.585,Austronesian
+636,Hoanya Ts82,papo1239,ppu,Papunesia,24.324,120.577,Austronesian
+637,Papora Ts82,papo1239,ppu,Papunesia,24.324,120.577,Austronesian
+638,Taokas Ts82,babu1240,bzg,Papunesia,24.0017,120.585,Austronesian
+639,Hiw,hiww1237,hiw,Papunesia,-13.126367,166.584857,Austronesian
+640,Eskayan,eska1234,esy,Papunesia,,,Artificial Language
+641,Apma (Suru Mwerani),apma1240,app,Papunesia,-15.8559,168.189,Austronesian
+642,Apma (Suru Kavian),apma1240,app,Papunesia,-15.8559,168.189,Austronesian
+643,Sa (south-eastern dialect),saaa1241,sax,Papunesia,-15.9534,168.228,Austronesian
+644,Sowa,sowa1244,sww,Papunesia,-15.82653,168.18653,Austronesian
+645,Ske (Seke),seke1241,ske,Papunesia,-15.8839,168.197,Austronesian
+646,Muyuw,muyu1244,myw,Papunesia,-9.195,152.731,Austronesian
+647,Halia (Selau),hali1244,hla,Papunesia,-5.26603,154.662,Austronesian
+648,Acehnese,achi1257,ace,Papunesia,3.90757,96.6032,Austronesian
+649,Lungchow,nung1283,nut,Eurasia,20.8965,104.286,Tai-Kadai
+650,Besemah,cent2053,pse,Papunesia,-3.79673,103.137,Austronesian
+651,Tawala,tawa1275,tbo,Papunesia,-10.3115,150.644,Austronesian
+652,Ternate (Pasar-Lingua franca),nort2828,max,Papunesia,-0.86437,128.323,Austronesian
+653,Fijian (Suva Dialect),sout2864,fij,Papunesia,,,Austronesian
+654,Marquesan (Nukuhiva dialect),nuku1261,mrq,Papunesia,,,Austronesian
+655,Palembang Malay,mala1479,zlm,Eurasia,1.85856,103.0,Austronesian
+656,Dusun Tuhauon (Tambunan),tamb1254,kzt,Papunesia,5.68284,116.373,Austronesian
+657,Kinaray-a,kina1250,krj,Papunesia,10.8131,122.297,Austronesian
+658,Proto-Polynesian,poly1242,,,,,Austronesian
+659,Niuafo'ou,niua1240,num,Papunesia,-15.6014,-175.64,Austronesian
+660,Capisano,capi1239,cps,Papunesia,11.4122,122.954,Austronesian
+661,Karo Batak,bata1293,btx,Papunesia,2.12787,98.2517,Austronesian
+662,"Thai, Siamese",thai1261,tha,Eurasia,14.192,100.671,Tai-Kadai
+663,Sumbawa,sumb1241,smw,Papunesia,-8.71919,117.472,Austronesian
+664,Rapa,rapa1245,ray,Papunesia,-27.6304,-144.338,Austronesian
+665,Proto-Oceanic (Pawley),ocea1241,,,,,Austronesian
+666,Vietnamese,viet1252,vie,Eurasia,20.681188,105.774071,Austroasiatic
+667,Khmer,cent1989,khm,Eurasia,12.0515,105.015,Austroasiatic
+668,Proto-Central Pacific,cent2060,,,,,Austronesian
+669,Nimoa,nimo1246,nmw,Papunesia,-11.2297,153.158,Austronesian
+670,Kalaw Kawaw Ya,kala1377,mwp,Australia,-10.6748,142.196,Pama-Nyungan
+671,"Kalinga, Southern",sout2908,ksc,Papunesia,17.2936,121.068,Austronesian
+672,"Kalinga, Limos",limo1248,kmk,Papunesia,17.6081,121.381,Austronesian
+673,"Bontok, Eastern",cent2292,ebk,Papunesia,17.08,120.92,Austronesian
+674,Tolaki,tola1247,lbw,Papunesia,-4.03577,121.888,Austronesian
+675,Nuguria,nuku1259,nur,Papunesia,-3.40038,154.731,Austronesian
+676,Mooriori,mori1267,,Papunesia,-44.0,-176.5,Austronesian
+677,"Dong, Southern",sout2741,kmc,Eurasia,25.8874,109.222,Tai-Kadai
+678,Itawis,itaw1240,itv,Papunesia,17.7329,121.58,Austronesian
+679,Ibaloi,ibal1244,ibl,Papunesia,16.4263,120.695,Austronesian
+680,Shan,shan1277,shn,Eurasia,21.5995,98.0342,Tai-Kadai
+681,Kankanaey,kank1243,kne,Papunesia,16.8548,120.689,Austronesian
+682,Proto-Greater Central Philippines,grea1284,,,,,Austronesian
+683,Mon,monn1252,mnw,Eurasia,15.49394,98.122465,Austroasiatic
+684,Proto-Southwestern Tai,wenm1239,,,,,Tai-Kadai
+685,Maguindanaon,magu1243,mdh,Papunesia,6.9453,124.509,Austronesian
+686,Sinauna,remo1247,agv,Papunesia,14.6254,121.453,Austronesian
+687,Romblon,romb1245,rol,Papunesia,12.4047,122.56,Austronesian
+688,Cuyonon,cuyo1237,cyo,Papunesia,10.3201,119.3,Austronesian
+689,Tày (Cao Bằng),tayy1238,tyz,Eurasia,21.6448,106.167,Tai-Kadai
+690,Proto-Kra,kada1291,,,,,Tai-Kadai
+691,Gelao (Niupo),whit1267,giw,Eurasia,23.0196,105.07,Tai-Kadai
+692,Proto-Hlai (Norquest),hlai1238,,,,,Tai-Kadai
+693,Buyang (Ecun),baha1256,yha,Eurasia,23.0105,104.449,Tai-Kadai
+694,Paha,baha1256,yha,Eurasia,23.0105,104.449,Tai-Kadai
+695,Gelao (Zhenfeng),gree1278,giq,Eurasia,22.5632,104.698,Tai-Kadai
+696,Lemerig,leme1238,lrz,Papunesia,-13.739697,167.420676,Austronesian
+697,Proto-Lakkja,lakk1238,lbc,Eurasia,24.1169,110.106,Tai-Kadai
+698,Proto-Tai,kamt1241,,,,,Tai-Kadai
+699,Gelao (Wanzi),gree1278,giq,Eurasia,22.5632,104.698,Tai-Kadai
+700,Gelao (Sanchong),gree1278,giq,Eurasia,22.5632,104.698,Tai-Kadai
+701,Laha (Ta Mit),laha1250,lha,Eurasia,21.55149,103.86379,Tai-Kadai
+702,Japanese (Tokyo),nucl1643,jpn,Eurasia,35.0,135.0,Japonic
+703,Japanese (Kyoto),nucl1643,jpn,Eurasia,35.0,135.0,Japonic
+704,Shuri,cent2126,ryu,Eurasia,26.14854,127.7816,Japonic
+705,Naha,cent2126,ryu,Eurasia,26.14854,127.7816,Japonic
+706,Yonamine,kuni1268,xug,Eurasia,26.5911,128.068,Japonic
+707,Tiruray,tiru1241,tiy,Papunesia,6.77321,124.127,Austronesian
+708,Bantoanon (Banton),bant1288,bno,Papunesia,12.5194,122.034,Austronesian
+709,Proto-Bisayan,bisa1268,,,,,Austronesian
+710,Bikol (Buhinon),buhi1243,ubl,Papunesia,13.17,123.5,Austronesian
+711,Kalinga (Minangali),lowe1412,kml,Papunesia,17.3441,121.311,Austronesian
+712,Lundayeh,lund1271,lnd,Papunesia,4.25064,115.5,Austronesian
+713,Yogad,yoga1237,yog,Papunesia,16.7015,121.718,Austronesian
+714,Ai-Cham (Diwo),aich1238,aih,Eurasia,25.4908,107.844,Tai-Kadai
+715,Proto-Kam-Sui,kams1241,,,,,Tai-Kadai
+716,Mak (Yangfeng),makc1235,mkg,Eurasia,25.5946,107.726,Tai-Kadai
+717,Chadong,chad1240,cdy,Eurasia,25.23532,109.96041,Tai-Kadai
+718,Proto-Austronesian (Zorc),aust1307,,,,,Austronesian
+719,Then,tenn1245,tct,Eurasia,25.6717,107.309,Tai-Kadai
+720,Kavalan LTs,kava1241,ckv,Papunesia,24.6947,121.645,Austronesian
+721,Proto-Malayo-Polynesian (Zorc),mala1545,,,,,Austronesian
+722,Bikol (Rinconada),irig1242,bto,Papunesia,13.3896,123.331,Austronesian
+723,Proto-Atayalic,atay1246,,,,,Austronesian
+724,Ong Be (Lincheng),ling1262,onb,Eurasia,19.885536,109.691664,Tai-Kadai
+725,Proto-Rukai,ruka1240,dru,Papunesia,22.7738,120.844,Austronesian
+726,Bunun (Takituduh L88),bunu1267,bnn,Papunesia,23.4116,121.025,Austronesian
+727,Proto-Tibeto-Burman,,,,,,
+728,Gelao (Judu),whit1267,giw,Eurasia,23.0196,105.07,Tai-Kadai
+729,Gelao (Hongfeng),whit1267,giw,Eurasia,23.0196,105.07,Tai-Kadai
+730,Dupaningan Agta,dupa1235,duo,Papunesia,17.3748,122.188,Austronesian
+731,Bouyei (Wangmo),bouy1240,pcc,Eurasia,24.8484,106.187,Tai-Kadai
+732,Sama (Sibutu),sout2918,ssb,Papunesia,4.755836,119.483887,Austronesian
+733,Sama (Pangutaran),pang1291,slm,Papunesia,6.27167,120.536,Austronesian
+734,Lao,laoo1244,lao,Eurasia,19.0,102.46,Tai-Kadai
+735,Chewong,chew1245,cwg,Eurasia,3.83331,102.081,Austroasiatic
+736,Sui,suii1243,swi,Eurasia,24.0488,106.563,Tai-Kadai
+737,Santali,sant1410,sat,Eurasia,25.0317,87.8185,Austroasiatic
+738,Proto-Chamic,cham1330,,,,,Austronesian
+739,Proto-Hmong-Mien,hmon1336,,,,,Hmong-Mien
+740,Proto-Malayic,mala1538,,,,,Austronesian
+741,Rhade,rade1240,rad,Eurasia,12.979,108.41,Austronesian
+742,Atayal - C'uli' L04 (Mayrinax),atay1247,tay,Papunesia,24.5209,121.388,Austronesian
+743,Proto-Puyuma,puyu1239,pyu,Papunesia,22.643,120.996,Austronesian
+744,Jarai,jara1266,jra,Eurasia,13.6161,107.813,Austronesian
+745,"Roglai, Northern",nort2994,rog,Eurasia,12.1967,108.849,Austronesian
+746,Proto-Hmongic,hmon1337,,,,,Hmong-Mien
+747,Proto-Mienic,mien1242,,,,,Hmong-Mien
+748,Totoli,toto1304,txe,Papunesia,1.14995,120.875,Austronesian
+749,Proto-Tsouic,tsou1248,tsu,Papunesia,23.216,120.787,Austronesian
+750,Saek,saek1240,skb,Eurasia,17.4558,104.787,Tai-Kadai
+751,Biao (Shidong),biao1253,byk,Eurasia,23.656,113.391,Tai-Kadai
+752,Tomini (Tialo),tomi1243,txm,Papunesia,0.42569,120.89,Austronesian
+753,Nanumea,nort2844,tvl,Papunesia,,,Austronesian
+754,Lakkja (Jinxiu),lakk1238,lbc,Eurasia,24.1169,110.106,Tai-Kadai
+755,Masbatenyo,masb1238,msb,Papunesia,12.21453,123.63579,Austronesian
+756,Younuo (Xiaozhai),youn1235,buh,Eurasia,25.7638,110.474,Hmong-Mien
+757,Pa-Hng (Gundong),pahn1237,pha,Eurasia,22.8049,105.165,Hmong-Mien
+758,Proto-East Mindanao,,,,,,
+759,Puyuma (Nanwang Cq),puyu1239,pyu,Papunesia,22.643,120.996,Austronesian
+760,Pazih LTs (Auran),kulo1237,uun,Papunesia,23.7562,120.976,Austronesian
+761,Mulam (Dongmen),mula1253,mlm,Eurasia,24.8151,108.928,Tai-Kadai
+762,She (Lianhua),shee1238,shx,Eurasia,23.0399,114.814,Hmong-Mien
+763,South Island Maori,sout2867,mri,Papunesia,,,Austronesian
+764,Proto-Lampungic,lamp1241,,,,,Austronesian
+765,Dongnu Bunu (Nongjing),buna1273,bwx,Eurasia,24.1025,107.711,Hmong-Mien
+766,Mulao,gela1264,giu,Eurasia,26.574605,107.239537,Tai-Kadai
+767,Zhuang (Wuming),yong1276,zyb,Eurasia,23.1,108.15,Tai-Kadai
+768,Jiongnai (Longhua),jion1236,pnu,Eurasia,23.8692,110.007,Hmong-Mien
+769,Mak (Laliu),makc1235,mkg,Eurasia,25.5946,107.726,Tai-Kadai
+770,Ai-Cham (Taiyang),aich1238,aih,Eurasia,25.4908,107.844,Tai-Kadai
+771,She (Haifeng),shee1238,shx,Eurasia,23.0399,114.814,Hmong-Mien
+772,Hlai (Baoding),hlai1239,lic,Eurasia,18.8062,109.459,Tai-Kadai
+773,Dzao Min (Daping),dzao1238,bpn,Eurasia,24.9754,112.326,Hmong-Mien
+774,Mien (Jiangdi),iumi1238,ium,Eurasia,20.83,101.17,Hmong-Mien
+775,Mien (Changping),biao1256,bmt,Eurasia,24.6451,113.469,Hmong-Mien
+776,Biao Min (Dongshan),biao1256,bmt,Eurasia,24.6451,113.469,Hmong-Mien
+777,Proto-Koiarian,koia1260,,,,,Koiarian
+778,Dehong,tain1252,tdd,Eurasia,21.7837,99.722,Tai-Kadai
+779,Enga,enga1252,enq,Papunesia,-5.45619,143.685,Nuclear Trans New Guinea
+780,Proto-Bungku-Tolaki,bung1268,,,,,Austronesian
+781,Proto-Trans-New Guinea,nucl1709,,,,,Nuclear Trans New Guinea
+782,Lachi (Tân Lợi),whit1266,lwh,Eurasia,22.726,104.66,Tai-Kadai
+783,Samar-Leyte,wara1300,war,Papunesia,11.4911,125.012,Austronesian
+784,Maonan,maon1241,mmd,Eurasia,25.0169,108.024,Tai-Kadai
+785,Proto-Ongan,,,,,,
+786,Kim Mun (Hainan),kimm1245,mji,Eurasia,22.9856,105.024,Hmong-Mien
+787,Proto-Sino-Tibetan,sino1245,,,,,Sino-Tibetan
+788,Marinduque Tagalog,taga1270,tgl,Papunesia,14.06,121.747,Austronesian
+789,"Dong, Northern",nort2735,doc,Eurasia,26.9944,109.204,Tai-Kadai
+790,Asilulu,asil1242,asl,Papunesia,-3.67302,127.952,Austronesian
+791,Lachi (Jinchang),whit1266,lwh,Eurasia,22.726,104.66,Tai-Kadai
+792,Proto-Hlai (Ostapirat),hlai1238,,,,,Tai-Kadai
+793,Urak Lawoi',urak1238,urk,Eurasia,7.5258,99.0768,Austronesian
+794,Pingilapese,ping1243,pif,Papunesia,6.20743,160.711,Austronesian
+795,Proto-Minahasan,mina1272,,,,,Austronesian
+796,Proto-Sangiric,sang1335,,,,,Austronesian
+797,Proto-Sumba-Hawu,sumb1242,,,,,Austronesian
+798,"Daa kaka (West Ambrym, Vanuatu)",daka1243,bpa,Papunesia,-16.2696,168.013,Austronesian
+799,Amis (Fata'an),amis1246,ami,Papunesia,23.0917,121.348,Austronesian
+800,Amis (Farang),amis1246,ami,Papunesia,23.0917,121.348,Austronesian
+801,Sakizaya,nata1254,ais,Papunesia,23.9386,121.59,Austronesian
+802,Atayal - C'uli' L04 (Skikun),atay1247,tay,Papunesia,24.5209,121.388,Austronesian
+803,Bunun (Takituduh L04),bunu1267,bnn,Papunesia,23.4116,121.025,Austronesian
+804,Bunun (Takbanuaz),bunu1267,bnn,Papunesia,23.4116,121.025,Austronesian
+805,Bunun (Iskubun),bunu1267,bnn,Papunesia,23.4116,121.025,Austronesian
+806,Paiwan (Butanglu L04),paiw1248,pwn,Papunesia,22.3271,120.806,Austronesian
+807,Paiwan (Stimul L04),paiw1248,pwn,Papunesia,22.3271,120.806,Austronesian
+808,Paiwan (Tjubar L04),paiw1248,pwn,Papunesia,22.3271,120.806,Austronesian
+809,Puyuma (Pilam L04),puyu1239,pyu,Papunesia,22.643,120.996,Austronesian
+810,Puyuma (Lower Pinlang L04),puyu1239,pyu,Papunesia,22.643,120.996,Austronesian
+811,Puyuma (Katipul L04),puyu1239,pyu,Papunesia,22.643,120.996,Austronesian
+812,Rukai (Tanan L04),ruka1240,dru,Papunesia,22.7738,120.844,Austronesian
+813,Rukai (Budai L04),ruka1240,dru,Papunesia,22.7738,120.844,Austronesian
+814,Rukai (Maga L04),ruka1240,dru,Papunesia,22.7738,120.844,Austronesian
+815,Rukai (Tona),ruka1240,dru,Papunesia,22.7738,120.844,Austronesian
+816,Rukai (Mantauran L04),ruka1240,dru,Papunesia,22.7738,120.844,Austronesian
+817,Saisiyat L04 (Tungho),sais1237,xsy,Papunesia,24.6043,121.067,Austronesian
+818,Saisiyat L04 (Ta'ai),sais1237,xsy,Papunesia,24.6043,121.067,Austronesian
+819,Atayal - Squliq L04,atay1247,tay,Papunesia,24.5209,121.388,Austronesian
+820,Seediq L04 (Paran),taro1264,trv,Papunesia,23.9032,121.358,Austronesian
+821,Seediq L04 (Toda),taro1264,trv,Papunesia,23.9032,121.358,Austronesian
+822,Seediq L04 (Hecuo),taro1264,trv,Papunesia,23.9032,121.358,Austronesian
+823,Seediq L04 (Truku),taro1264,trv,Papunesia,23.9032,121.358,Austronesian
+824,Tsou (Duhtu L04),tsou1248,tsu,Papunesia,23.216,120.787,Austronesian
+825,Kanakanabu L04,kana1286,xnb,Papunesia,23.3235,120.887,Austronesian
+826,Saaroa L04,saar1237,sxr,Papunesia,23.2632,120.711,Austronesian
+827,Proto-Mon-Khmer,,,,,,
+828,Proto-Ainu,ainu1252,ain,,,,Ainu
+829,Old Japanese,nucl1643,jpn,Eurasia,35.0,135.0,Japonic
+830,"Cham, Western",west2650,cja,Eurasia,12.4771,104.026,Austronesian
+831,Favorlang OL03,babu1240,bzg,Papunesia,24.0017,120.585,Austronesian
+832,Basay L04,basa1287,byq,Papunesia,25.0046,121.857,Austronesian
+833,Daxin,yong1275,zyn,Eurasia,22.8,108.0,Tai-Kadai
+834,Debao,yong1275,zyn,Eurasia,22.8,108.0,Tai-Kadai
+835,Fusui (Central),cent2009,zch,Eurasia,23.95,108.0,Tai-Kadai
+836,Guangnan Nong,yong1275,zyn,Eurasia,22.8,108.0,Tai-Kadai
+837,Guigang,cent2009,zch,Eurasia,23.95,108.0,Tai-Kadai
+838,Jingxi,yong1275,zyn,Eurasia,22.8,108.0,Tai-Kadai
+839,Laibin,cent2009,zch,Eurasia,23.95,108.0,Tai-Kadai
+840,Lianshan,cent2009,zch,Eurasia,23.95,108.0,Tai-Kadai
+841,Long'an,cent2009,zch,Eurasia,23.95,108.0,Tai-Kadai
+842,Longzhou,yong1275,zyn,Eurasia,22.8,108.0,Tai-Kadai
+843,Ningming,yong1275,zyn,Eurasia,22.8,108.0,Tai-Kadai
+844,Qinzhou,cent2009,zch,Eurasia,23.95,108.0,Tai-Kadai
+845,Shanglin,cent2009,zch,Eurasia,23.95,108.0,Tai-Kadai
+846,Shangsi,yong1275,zyn,Eurasia,22.8,108.0,Tai-Kadai
+847,Wenma Tu,yong1275,zyn,Eurasia,22.8,108.0,Tai-Kadai
+848,Yanshan Nong,yong1275,zyn,Eurasia,22.8,108.0,Tai-Kadai
+849,Yongnan,cent2009,zch,Eurasia,23.95,108.0,Tai-Kadai
+850,Chongzuo,yong1275,zyn,Eurasia,22.8,108.0,Tai-Kadai
+851,Klon,kelo1247,kyo,Papunesia,-8.40688,124.429,Timor-Alor-Pantar
+852,Maybrat,maib1239,ayz,Papunesia,-1.3679,132.591,Maybratic
+853,Wetan,luan1263,lex,Papunesia,-8.18378,127.944,Austronesian
+854,Sahu,sahu1245,saj,Papunesia,1.00742,127.493,North Halmahera
+855,Taba,east2440,mky,Papunesia,0.07337,127.423,Austronesian
+856,West Makian,west2600,mqs,Papunesia,0.45332,127.63,North Halmahera
+857,East Makian,east2440,mky,Papunesia,0.07337,127.423,Austronesian
+858,Piva,lawu1237,tgi,Papunesia,-6.15201,155.129,Austronesian
+859,Bikol (Bisakol),cent2087,bcl,Papunesia,13.7574,123.403,Austronesian
+860,Kagayanen,kaga1256,cgc,Papunesia,10.4656,119.872,Austronesian
+861,Proto-South Sulawesi,sout2923,,,,,Austronesian
+862,Saek,saek1240,skb,Eurasia,17.4558,104.787,Tai-Kadai
+863,Angkola,bata1290,akb,Papunesia,1.66127,99.60248,Austronesian
+864,Mentawai,ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+865,Tidore,tido1248,tvo,Papunesia,0.02461,127.746,North Halmahera
+866,Red Gelao,redg1235,gir,Eurasia,23.1868,104.993,Tai-Kadai
+867,Kazakh,kaza1248,kaz,Eurasia,51.17,71.454,Turkic
+868,Salar,sala1264,slr,Eurasia,35.5457,102.819,Turkic
+869,Tatar,tata1255,tat,Eurasia,55.79592,49.11577,Turkic
+870,Uighur,uigh1240,uig,Eurasia,43.88,87.38,Turkic
+871,Uzbek,nort2690,uzn,Eurasia,40.886,69.211,Turkic
+872,Western Yugu,west2402,ybe,Eurasia,39.0548,99.3112,Turkic
+873,Kirgiz,kirg1245,kir,Eurasia,42.0,74.0,Turkic
+875,Bahonsuai,baho1237,bsu,Papunesia,-2.22572,121.707,Austronesian
+876,Bungku,bung1269,bkz,Papunesia,-3.22197,122.212,Austronesian
+877,Bungku (Landawe),bung1269,bkz,Papunesia,-3.22197,122.212,Austronesian
+878,Bungku (Routa),bung1269,bkz,Papunesia,-3.22197,122.212,Austronesian
+879,Bungku (Torete),bung1269,bkz,Papunesia,-3.22197,122.212,Austronesian
+880,Bungku (Tulambatu),bung1269,bkz,Papunesia,-3.22197,122.212,Austronesian
+881,Bungku (Waia),bung1269,bkz,Papunesia,-3.22197,122.212,Austronesian
+882,Kodeoha,bung1269,bkz,Papunesia,-3.22197,122.212,Austronesian
+883,Koroni,koro1311,xkq,Papunesia,-2.6367,121.977,Austronesian
+884,Kulisusu,kuli1254,vkl,Papunesia,-4.58411,123.045,Austronesian
+885,Mori Atas (Doule),mori1269,mzq,Papunesia,-2.2555,121.035,Austronesian
+886,Mori Atas (Impo),mori1269,mzq,Papunesia,-2.2555,121.035,Austronesian
+887,Mori Atas (Kolo-Kolo),mori1269,mzq,Papunesia,-2.2555,121.035,Austronesian
+888,Mori Atas (Lolonggoio),mori1269,mzq,Papunesia,-2.2555,121.035,Austronesian
+889,Mori Atas (Molio'A),mori1269,mzq,Papunesia,-2.2555,121.035,Austronesian
+890,Mori Atas (Molongkuni),mori1269,mzq,Papunesia,-2.2555,121.035,Austronesian
+891,Mori Atas (Olota),mori1269,mzq,Papunesia,-2.2555,121.035,Austronesian
+892,Mori Atas (Tambee),mori1269,mzq,Papunesia,-2.2555,121.035,Austronesian
+893,Mori Atas (Ulu'Uwoi),mori1269,mzq,Papunesia,-2.2555,121.035,Austronesian
+894,Mori Atas (Wulanderi),mori1269,mzq,Papunesia,-2.2555,121.035,Austronesian
+895,Mori Bawah (Bahano),mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+896,Mori Bawah (Kangua),mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+897,Mori Bawah (Karunsi'E),mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+898,Mori Bawah (Mo'Iki),mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+899,Mori Bawah (Petasia),mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+900,Mori Bawah (Roda),mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+901,Mori Bawah (Soroako),mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+902,Mori Bawah (Watu),mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+903,Mori Bawah (Ŋgusumbatu),mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+904,Moronene,moro1287,mqn,Papunesia,-4.62361,121.824,Austronesian
+905,Moronene (Mornene),moro1287,mqn,Papunesia,-4.62361,121.824,Austronesian
+906,Moronene (Tokotu'A),moro1287,mqn,Papunesia,-4.62361,121.824,Austronesian
+907,Padoe,pado1242,pdo,Papunesia,-2.60642,121.236,Austronesian
+908,Taloki,talo1252,tlk,Papunesia,-4.6478,122.872,Austronesian
+909,Tolaki (Asera),tola1247,lbw,Papunesia,-4.03577,121.888,Austronesian
+910,Tolaki (Konawe),tola1247,lbw,Papunesia,-4.03577,121.888,Austronesian
+911,Tolaki (Laiwui),tola1247,lbw,Papunesia,-4.03577,121.888,Austronesian
+912,Tolaki (Mekongga),tola1247,lbw,Papunesia,-4.03577,121.888,Austronesian
+913,Tolaki (Wiwirano),tola1247,lbw,Papunesia,-4.03577,121.888,Austronesian
+914,Tomadino,toma1248,tdi,Papunesia,-2.56493,121.944,Austronesian
+915,Waru,waru1266,wru,Papunesia,-3.412,122.058,Austronesian
+916,Waru (Lalomerui),waru1266,wru,Papunesia,-3.412,122.058,Austronesian
+917,Wawonii,wawo1239,wow,Papunesia,-4.13587,123.1,Austronesian
+918,Wawonii (Menui),wawo1239,wow,Papunesia,-4.13587,123.1,Austronesian
+919,Wiau,raha1237,raz,Papunesia,-3.24627,121.059,Austronesian
+920,Yi (Dafang),wusa1235,yig,Eurasia,25.7707,102.367,Sino-Tibetan
+921,Tai Phake,phak1238,phk,Eurasia,27.8197,95.8131,Tai-Kadai
+922,Tai Aiton,aito1238,aio,Eurasia,26.5145,92.3169,Tai-Kadai
+923,Mortlockese (Lukunosh),mort1237,mrl,Papunesia,5.50735,153.710778,Austronesian
+924,Gelao (Fengyan),whit1267,giw,Eurasia,23.0196,105.07,Tai-Kadai
+925,Gelao (Wantao),whit1267,giw,Eurasia,23.0196,105.07,Tai-Kadai
+926,Red Gelao (Vietnam),redg1235,gir,Eurasia,23.1868,104.993,Tai-Kadai
+927,Laha (Noong Lay),laha1250,lha,Eurasia,21.55149,103.86379,Tai-Kadai
+928,En (Nung Ven),ennn1243,enc,Eurasia,22.8386,106.167,Tai-Kadai
+929,Buyang (Yalang),yero1238,yrn,Eurasia,23.342,105.754,Tai-Kadai
+930,Gelao (Bigong),redg1235,gir,Eurasia,23.1868,104.993,Tai-Kadai
+931,Gelao (Yueliangwan),whit1267,giw,Eurasia,23.0196,105.07,Tai-Kadai
+932,Gelao (Dagouchang),whit1267,giw,Eurasia,23.0196,105.07,Tai-Kadai
+933,Tai Mene,taim1250,tmp,Eurasia,18.34,104.729,Tai-Kadai
+934,"Kadazan Dusun of Taginambur, Kota Belud, Sabah, Malaysia",sugu1243,kzs,Papunesia,6.14235,117.176,Austronesian
+935,Wusehua (Rongshui),eeee1240,eee,Eurasia,24.7262,109.063,Tai-Kadai
+936,Mulam (Siba),mula1253,mlm,Eurasia,24.8151,108.928,Tai-Kadai
+937,Lakkja (Liula),lakk1238,lbc,Eurasia,24.1169,110.106,Tai-Kadai
+938,Gelao (Moji),whit1267,giw,Eurasia,23.0196,105.07,Tai-Kadai
+939,Dongxiang 东乡语,dong1285,sce,Eurasia,35.66354,103.38952,Mongolic-Khitan
+940,Tuzu 土族语,tuuu1240,mjg,Eurasia,36.8177,102.117,Mongolic-Khitan
+941,Eastern Yugu 东部裕固语,east2337,yuy,Eurasia,38.83687,99.61725,Mongolic-Khitan
+942,Bao'an 保安语,bona1250,peh,Eurasia,35.515,102.01778,Mongolic-Khitan
+943,Mongol 蒙古语,halh1238,khk,Eurasia,48.32397,106.28874,Mongolic-Khitan
+944,Southwestern Mandarin (Bijie),mand1415,cmn,Eurasia,40.0209,116.228,Sino-Tibetan
+945,"Gelao, Hongfeng",whit1267,giw,Eurasia,23.0196,105.07,Tai-Kadai
+946,Proto-Seko,seko1241,,,,,Austronesian
+947,Qabiao (Phó Là),qabi1235,laq,Eurasia,23.2384,104.812,Tai-Kadai
+948,Gelao (Heijiaoyan),whit1267,giw,Eurasia,23.0196,105.07,Tai-Kadai
+949,Laha,laha1250,lha,Eurasia,21.55149,103.86379,Tai-Kadai
+950,Proto-Manide-Alabat,alab1255,,,,,Austronesian
+951,Proto-Lolo-Burmese,lolo1265,,,,,Sino-Tibetan
+952,Proto-Alor-Pantar,alor1249,,,,,Timor-Alor-Pantar
+953,Mondzi,mond1267,,Eurasia,23.446095,105.416304,Sino-Tibetan
+954,Maang,maan1239,,Eurasia,23.555104,105.70091,Sino-Tibetan
+955,Gaokujiao Lolo,,,,,,
+956,White Lolo,,,,,,
+957,Black Lolo,mant1265,nty,Eurasia,23.1829,105.405,Sino-Tibetan
+958,Flowery Lolo,mant1265,nty,Eurasia,23.1829,105.405,Sino-Tibetan
+959,Qo Xiong (Jiwei),west2430,mmr,Eurasia,28.33,109.67,Hmong-Mien
+960,Bolyu,boly1239,ply,Eurasia,24.7013,104.955,Austroasiatic
+961,Bugan (Nala),buga1247,bbh,Eurasia,23.6124,104.963,Austroasiatic
+962,Bugan (Manlong),buga1247,bbh,Eurasia,23.6124,104.963,Austroasiatic
+963,Mantsi,mant1265,nty,Eurasia,23.1829,105.405,Sino-Tibetan
+964,Mo'ang,mant1265,nty,Eurasia,23.1829,105.405,Sino-Tibetan
+965,Kathu,kath1251,ykt,Eurasia,24.2,105.1,Sino-Tibetan
+966,Mang (Jinping),mang1378,zng,Eurasia,22.37,102.884,Austroasiatic
+967,Pa Na,pana1310,,Eurasia,26.263819,110.096687,Hmong-Mien
+968,Kambowa,kiok1239,ues,Papunesia,-4.99012,122.951,Austronesian
+969,Kioko,kiok1239,ues,Papunesia,-4.99012,122.951,Austronesian
+970,Mongi,wusa1235,yig,Eurasia,25.7707,102.367,Sino-Tibetan
+971,Caijia,caij1234,,Eurasia,27.284,105.292,Sino-Tibetan
+972,Mori Bawah (Tofatu),mori1268,xmz,Papunesia,-2.56016,121.37,Austronesian
+973,Waxianghua (Guzhang),waxi1236,wxa,Eurasia,28.644,110.362,Sino-Tibetan
+974,Yao (Lianmin),lian1256,,Eurasia,26.937902,110.157802,Tai-Kadai
+975,Mien (Tashi),iumi1238,ium,Eurasia,20.83,101.17,Hmong-Mien
+976,Biao (Fengkai),biao1253,byk,Eurasia,23.656,113.391,Tai-Kadai
+977,Yi (Powu),sich1238,iii,Eurasia,28.1947,102.121,Sino-Tibetan
+978,Itawis,itaw1240,itv,Papunesia,17.7329,121.58,Austronesian
+979,Proto-Nisoic,,,,,,
+980,Tangga (Feni),anir1237,hrw,Papunesia,,,Austronesian
+981,Mentawai (Madobat),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+982,Mentawai (Salappa),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+983,Mentawai (Ulubaga),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+984,Mentawai (Bariulou),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+985,Mentawai (Bosua),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+986,Mentawai (Sioban),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+987,Mentawai (Pasapuat),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+988,Mentawai (Silabu),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+989,Mentawai (Saumanganya),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+990,Mentawai (Boriai),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+991,Mentawai (Bulasat),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+992,Mentawai (Sikakap),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+993,Enggano (Meok),engg1245,eno,Papunesia,-5.38846,102.245,Austronesian
+994,Simeulue,sime1241,smr,Papunesia,2.50288,96.2757,Austronesian
+995,Papitalai,papi1254,pat,Papunesia,-2.06222,147.417,Austronesian
+996,Moor,morm1235,mhz,Papunesia,-2.87055,135.95,Austronesian
+997,Andio,andi1257,bzb,Papunesia,-0.88368,123.174,Austronesian
+998,East Kara (Lemakot),east2453,leu,Papunesia,,,Austronesian
+999,Uma (Kantewu dialect),umaa1242,ppk,Papunesia,-1.70416,119.968,Austronesian
+1000,Lelepa,lele1267,lpa,Papunesia,-17.6042,168.202,Austronesian
+1001,Vao,vaoo1237,vao,Papunesia,-15.898299,167.309973,Austronesian
+1002,Maskelynes,mask1242,klv,Papunesia,-16.5073,167.818,Austronesian
+1003,Paama (Lironesa),paam1238,pma,Papunesia,-16.47548,168.23693,Austronesian
+1004,Futuna-Aniwa (Aniwa),aniw1237,fut,Papunesia,,,Austronesian
+1005,Araki,arak1252,akr,Papunesia,-15.632997,166.952542,Austronesian
+1006,Roria,rori1237,rga,Papunesia,-15.4048,166.843,Austronesian
+1007,Bierebo (Yevali),bier1244,bnk,Papunesia,-16.6663,168.154,Austronesian
+1008,Lamenu (Visina),lame1260,lmu,Papunesia,-16.6098,168.171,Austronesian
+1009,Mpotovoro,mpot1241,mvt,Papunesia,-15.8988,167.232,Austronesian
+1010,Akei (Penantsiro),akei1237,tsr,Papunesia,-15.6377,166.767,Austronesian
+1011,Tutuba,tutu1241,tmi,Papunesia,-15.580667,167.268889,Austronesian
+1012,Uripiv-Wala-Rano-Atchin (Uripiv),urip1239,upv,Papunesia,-16.00951,167.34643,Austronesian
+1013,Lapwangtoai,sout2869,nwi,Papunesia,-19.57953,169.35603,Austronesian
+1014,Sie,siee1239,erg,Papunesia,-18.8181,169.166,Austronesian
+1015,Vunapu,vuna1239,vnp,Papunesia,-14.8477,166.691,Austronesian
+1016,"Ambrym, North (Ranon)",nort2839,mmg,Papunesia,-16.1741,168.14,Austronesian
+1017,Mwerlap (Merig),mwer1250,mrm,Papunesia,,,Austronesian
+1018,Uripiv-Wala-Rano-Atchin (Rano),urip1239,upv,Papunesia,-16.00951,167.34643,Austronesian
+1019,Lakona,lako1245,lkn,Papunesia,-14.29899,167.429382,Austronesian
+1020,Malo (South),malo1243,mla,Papunesia,-15.6835,167.16,Austronesian
+1021,"Ambrym, Southeast (Maat)",mele1255,tvk,Papunesia,,,Austronesian
+1022,Bierebo (Burupika),bier1244,bnk,Papunesia,-16.6663,168.154,Austronesian
+1023,Akei,akei1237,tsr,Papunesia,-15.6377,166.767,Austronesian
+1024,Morouas (Batunlamak),moro1286,mrp,Papunesia,-15.3498,166.891,Austronesian
+1025,Dixon Reef,dixo1238,dix,Papunesia,-16.3267,167.516,Austronesian
+1026,Lonwolwol,lonw1238,crc,Papunesia,-16.2286,168.016,Austronesian
+1027,Tangoa,tang1347,tgp,Papunesia,-15.5643,166.958,Austronesian
+1028,Kwamera (Isiai),kwam1252,tnk,Papunesia,-19.5954,169.442,Austronesian
+1029,Neve'ei,vinm1237,vnm,Papunesia,-16.2253,167.427,Austronesian
+1030,Emae (Makatea),emae1237,mmw,Papunesia,-17.052,168.399,Austronesian
+1031,Bieria (Vowa),bier1246,brj,Papunesia,-16.7867,168.232,Austronesian
+1032,Koro,koro1308,krf,Papunesia,-14.2943,167.467,Austronesian
+1033,Baki,baki1244,bki,Papunesia,-16.7096,168.165,Austronesian
+1034,Larevat,lare1249,lrv,Papunesia,-16.1971,167.387,Austronesian
+1035,Axamb (Maxbaxo),axam1237,ahb,Papunesia,-16.4838,167.707,Austronesian
+1036,Piamatsina,piam1242,ptr,Papunesia,-14.9959,166.738,Austronesian
+1037,Seke,seke1241,ske,Papunesia,-15.8839,168.197,Austronesian
+1038,Daakaka (Baiap),daka1243,bpa,Papunesia,-16.2696,168.013,Austronesian
+1039,Ikiti,sout2869,nwi,Papunesia,-19.57953,169.35603,Austronesian
+1040,Namakura (Makura),maku1276,nmk,Papunesia,,,Austronesian
+1041,Bierebo (Bonkovia),bier1244,bnk,Papunesia,-16.6663,168.154,Austronesian
+1042,Amblong,ambl1237,alm,Papunesia,-15.5169,166.95,Austronesian
+1043,Ikiyau,sout2869,nwi,Papunesia,-19.57953,169.35603,Austronesian
+1044,Lamenu (Nuvi),lame1260,lmu,Papunesia,-16.6098,168.171,Austronesian
+1045,Mae (Orap),maee1241,mme,Papunesia,-15.9914,167.288,Austronesian
+1046,Lenakel,lena1238,tnl,Papunesia,-19.4763,169.261,Austronesian
+1047,Labo (Ninde),labo1244,mwi,Papunesia,-16.4291,167.442,Austronesian
+1048,Malo (North),malo1243,mla,Papunesia,-15.6835,167.16,Austronesian
+1049,Lorediakarkar,lore1244,lnn,Papunesia,-15.334763,167.166325,Austronesian
+1050,"Ambae, East (Lolsiwoi)",east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1051,Labo (Windua),labo1244,mwi,Papunesia,-16.4291,167.442,Austronesian
+1052,Maragus,mara1399,mrs,Papunesia,-16.0695,167.33,Austronesian
+1053,Litzlitz,litz1237,lzl,Papunesia,-16.1331,167.415,Austronesian
+1054,Uripiv-Wala-Rano-Atchin (Tautu),urip1239,upv,Papunesia,-16.00951,167.34643,Austronesian
+1055,Mele,mele1251,mxe,Papunesia,,,Austronesian
+1056,Narango (Nambel),nara1263,nrg,Papunesia,-15.5259,167.047,Austronesian
+1057,Dixon Reef,dixo1238,dix,Papunesia,-16.3267,167.516,Austronesian
+1058,Hiw,hiww1237,hiw,Papunesia,-13.126367,166.584857,Austronesian
+1059,Paama (Faulili),paam1238,pma,Papunesia,-16.47548,168.23693,Austronesian
+1060,Lamenu (Nikaura),lame1260,lmu,Papunesia,-16.6098,168.171,Austronesian
+1061,Nahavaq (Lembinwen),sout2857,sns,Papunesia,-16.5116,167.477,Austronesian
+1062,Repanbitipmbangir,repa1237,rpn,Papunesia,-16.3265,167.619,Austronesian
+1063,Lenakel (Lenaukas),lena1238,tnl,Papunesia,-19.4763,169.261,Austronesian
+1064,Shark Bay,shar1244,ssv,Papunesia,-15.255284,167.138859,Austronesian
+1065,Vurës (Mosina),vure1239,msn,Papunesia,-13.905677,167.451412,Austronesian
+1066,Unua,unua1237,onu,Papunesia,-16.2638,167.599,Austronesian
+1067,Baetora (Nasawa),nasa1241,btr,Papunesia,,,Austronesian
+1068,Aore,aore1237,aor,Papunesia,-15.5753,167.166,Austronesian
+1069,Uripiv-Wala-Rano-Atchin (Uri),urip1239,upv,Papunesia,-16.00951,167.34643,Austronesian
+1070,Baetora,baet1237,btr,Papunesia,-15.2574,168.159,Austronesian
+1071,Vovo,vovo1238,,Papunesia,-15.89842,167.20213,Austronesian
+1072,Wusi (Valui),wusi1237,wsi,Papunesia,-15.2786,166.696,Austronesian
+1073,Daakaka (Sesivi),sesi1237,bpa,Papunesia,,,Austronesian
+1074,Namakura (Mataso),mata1250,nmk,Papunesia,,,Austronesian
+1075,Maii,maii1238,mmm,Papunesia,-16.7388,168.211,Austronesian
+1076,"Efate, North (Siviri)",nort2836,llp,Papunesia,-17.5774,168.375,Austronesian
+1077,Vera'a (Vatrata),vera1241,vra,Papunesia,-13.892528,167.428701,Austronesian
+1078,"Efate, North (Pwele)",nort2836,llp,Papunesia,-17.5774,168.375,Austronesian
+1079,Akei (Tasiriki),akei1237,tsr,Papunesia,-15.6377,166.767,Austronesian
+1080,"Maewo, Central (Peterara)",cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1081,Banam Bay (Vartavo),burm1263,vrt,Papunesia,-16.41653,167.73124,Austronesian
+1082,Kwamera (Yatukwey),kwam1252,tnk,Papunesia,-19.5954,169.442,Austronesian
+1083,"Tanna, North",nort2847,tnn,Papunesia,-19.3733,169.303,Austronesian
+1084,Tambotalo,tamb1253,tls,Papunesia,-15.5004,167.139,Austronesian
+1085,Port Sandwich,port1285,psw,Papunesia,-16.4952,167.78,Austronesian
+1086,Marino,mari1426,mrb,Papunesia,-14.970047,168.057941,Austronesian
+1087,Timbembe,katb1237,tmb,Papunesia,-16.2701,167.484,Austronesian
+1088,Eton,eton1255,etn,Papunesia,-17.74,168.549,Austronesian
+1089,Baetora (Tam),baet1237,btr,Papunesia,-15.2574,168.159,Austronesian
+1090,Lamenu (Mapremo),lame1260,lmu,Papunesia,-16.6098,168.171,Austronesian
+1091,Namakura (Tongariki),tong1322,nmk,Papunesia,,,Austronesian
+1092,Mota,mota1237,mtt,Papunesia,-13.835361,167.690924,Austronesian
+1093,Aulua,aulu1238,aul,Papunesia,-16.3579,167.697,Austronesian
+1094,Axamb (Avok),avok1244,,Papunesia,-16.536653,167.773866,Austronesian
+1095,Whitesands (Loniel),whit1269,tnp,Papunesia,-19.5019,169.381,Austronesian
+1096,Malua Bay,malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1097,Lelepa,lele1267,lpa,Papunesia,-17.6042,168.202,Austronesian
+1098,"Efate, North (Woraviu)",nort2836,llp,Papunesia,-17.5774,168.375,Austronesian
+1099,Letemboi,lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1100,Butmas-Tur (Butmas),butm1237,bnr,Papunesia,-15.3353,167.034,Austronesian
+1101,Morouas,moro1286,mrp,Papunesia,-15.3498,166.891,Austronesian
+1102,Naha'ai,malf1237,mlx,Papunesia,-16.5499,167.509,Austronesian
+1103,Lamenu (Nul),lewo1242,lww,Papunesia,-16.7612,168.334,Austronesian
+1104,Vurës (Vetumboso),vetu1237,msn,Papunesia,,,Austronesian
+1105,Uripiv-Wala-Rano-Atchin (Atchin),urip1239,upv,Papunesia,-16.00951,167.34643,Austronesian
+1106,Lelepa (Pango),lele1267,lpa,Papunesia,-17.6042,168.202,Austronesian
+1107,Lamenu,lame1260,lmu,Papunesia,-16.6098,168.171,Austronesian
+1108,Tasmate,tasm1246,tmt,Papunesia,-15.0792,166.664,Austronesian
+1109,Katbol,katb1237,tmb,Papunesia,-16.2701,167.484,Austronesian
+1110,"Efate, South (Eratap)",sout2856,erk,Papunesia,-17.7006,168.377,Austronesian
+1111,Mwerlap (Merlav),merl1237,mrm,Papunesia,-14.450679,168.053527,Austronesian
+1112,Lenakel (Lonasilian),lena1238,tnl,Papunesia,-19.4763,169.261,Austronesian
+1113,Navut (Matae),navu1237,nsw,Papunesia,-15.3169,166.798,Austronesian
+1114,Wailapa,wail1242,wlr,Papunesia,-15.5656,166.902,Austronesian
+1115,Navut,navu1237,nsw,Papunesia,-15.3169,166.798,Austronesian
+1116,"Ambae, East (Wailengi)",east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1117,Tiale,tial1239,mnl,Papunesia,-15.2334,166.842,Austronesian
+1118,Butmas-Tur (Tur),butm1237,bnr,Papunesia,-15.3353,167.034,Austronesian
+1119,Futuna-Aniwa (Futuna),west2515,fut,Papunesia,,,Austronesian
+1120,Namakura (Bongabonga),nama1268,nmk,Papunesia,-16.8979,168.569,Austronesian
+1121,Banam Bay (Burmbar),burm1263,vrt,Papunesia,-16.41653,167.73124,Austronesian
+1122,Wusi (Mana),wusi1237,wsi,Papunesia,-15.2786,166.696,Austronesian
+1123,Löyöp,leha1244,urr,Papunesia,-13.542726,167.343342,Austronesian
+1124,"Efate, North (Sesake)",sesa1243,llp,Papunesia,,,Austronesian
+1125,Mafea,mafe1237,mkv,Papunesia,-15.4316,167.241,Austronesian
+1126,Lamenu (Mate),lewo1242,lww,Papunesia,-16.7612,168.334,Austronesian
+1127,Kwamera (Port Resolution),kwam1252,tnk,Papunesia,-19.5954,169.442,Austronesian
+1128,Port Vato,port1286,ptv,Papunesia,-16.3083,168.046,Austronesian
+1129,Dorig,weta1242,wwo,Papunesia,-14.366666,167.545897,Austronesian
+1130,Mwotlap,motl1237,mlv,Papunesia,-13.655015,167.706277,Austronesian
+1131,"Ambrym, North (Fonah)",nort2839,mmg,Papunesia,-16.1741,168.14,Austronesian
+1132,Wusi (Kerepua),wusi1237,wsi,Papunesia,-15.2786,166.696,Austronesian
+1133,Sakao,saka1289,sku,Papunesia,-15.0757,167.051,Austronesian
+1134,Wetamut,weta1242,wwo,Papunesia,-14.366666,167.545897,Austronesian
+1135,Lamenu (Filakara),lewo1242,lmu,Papunesia,-16.7612,168.334,Austronesian
+1136,Lemerig (Bek),leme1238,lrz,Papunesia,-13.739697,167.420676,Austronesian
+1137,"Ambae, East (Lolomatui)",east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1138,Valpei,valp1237,vlp,Papunesia,-14.712,166.606,Austronesian
+1139,Whitesands (Iarkei),whit1269,tnp,Papunesia,-19.5019,169.381,Austronesian
+1140,Neverver,ling1265,lgk,Papunesia,-16.1986,167.499,Austronesian
+1141,Ura,urav1235,uur,Papunesia,-18.6747,169.084,Austronesian
+1142,"Ambrym, Southeast (Toak)",toak1237,tvk,Papunesia,,,Austronesian
+1143,Paama (Laul),paam1238,pma,Papunesia,-16.47548,168.23693,Austronesian
+1144,"Ambae, West (Ngwatua)",west2513,nnd,Papunesia,-15.4281,167.807,Austronesian
+1145,Baetora (Navenevene),baet1237,btr,Papunesia,-15.2574,168.159,Austronesian
+1146,Uripiv-Wala-Rano-Atchin (Wala),urip1239,upv,Papunesia,-16.00951,167.34643,Austronesian
+1147,Enfitena,sout2869,nwi,Papunesia,-19.57953,169.35603,Austronesian
+1148,Imreang,sout2869,nwi,Papunesia,-19.57953,169.35603,Austronesian
+1149,Valpei (Hukua),valp1237,vlp,Papunesia,-14.712,166.606,Austronesian
+1150,Rerep,rere1240,pgk,Papunesia,-16.2934,167.651,Austronesian
+1151,Polonombauk,polo1242,plb,Papunesia,-15.4653,167.09,Austronesian
+1152,Tolomako,tolo1255,tlm,Papunesia,-15.1569,166.772,Austronesian
+1153,Toga,loto1240,lht,Papunesia,-13.334872,166.634338,Austronesian
+1154,Narango,nara1263,nrg,Papunesia,-15.5259,167.047,Austronesian
+1155,Aneityum,anei1239,aty,Papunesia,-20.1864,169.825,Austronesian
+1156,Baetora (Narovorovo),naro1250,btr,Papunesia,,,Austronesian
+1157,"Efate, North (Nguna)",ngun1274,llp,Papunesia,,,Austronesian
+1158,Merei,mere1242,lmb,Papunesia,-15.2839,166.905,Austronesian
+1159,Mae,maee1241,mme,Papunesia,-15.9914,167.288,Austronesian
+1160,Banam Bay (Lepaxsivir),burm1263,vrt,Papunesia,-16.41653,167.73124,Austronesian
+1161,Nahavaq (Benour),sout2857,sns,Papunesia,-16.5116,167.477,Austronesian
+1162,Apma,apma1240,app,Papunesia,-15.8559,168.189,Austronesian
+1163,Fila,fila1237,mxe,Papunesia,,,Austronesian
+1164,V'ënen Taut (Unmet),bign1238,nmb,Papunesia,-16.0903,167.239,Austronesian
+1165,Raga,hano1246,lml,Papunesia,-15.5432,168.167,Austronesian
+1166,Nokuku,noku1237,nkk,Papunesia,-14.8974,166.603,Austronesian
+1167,Fortsenal,fort1240,frt,Papunesia,-15.4484,166.931,Austronesian
+1168,Lehali,leha1243,tql,Papunesia,-13.5043,167.332,Austronesian
+1169,V'ënen Taut (Leviamp),bign1238,nmb,Papunesia,-16.0903,167.239,Austronesian
+1170,Uripiv-Wala-Rano-Atchin (Pinalum),urip1239,upv,Papunesia,-16.00951,167.34643,Austronesian
+1171,Sa,saaa1241,sax,Papunesia,-15.9534,168.228,Austronesian
+1172,Nume,nume1241,tgs,Papunesia,-14.230149,167.593474,Austronesian
+1173,Sowa,sowa1244,sww,Papunesia,-15.82653,168.18653,Austronesian
+1174,Shark Bay,shar1244,ssv,Papunesia,-15.255284,167.138859,Austronesian
+1175,Lemerig (Sasar),leme1238,lrz,Papunesia,-13.739697,167.420676,Austronesian
+1176,Axamb,axam1237,ahb,Papunesia,-16.4838,167.707,Austronesian
+1177,Bierebo (Tavio),bier1244,bnk,Papunesia,-16.6663,168.154,Austronesian
+1178,Malua Bay (Petarmur),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1179,Wusi (Nonona),wusi1237,wsi,Papunesia,-15.2786,166.696,Austronesian
+1180,Ulithian,ulit1238,uli,Papunesia,9.961388,139.603611,Austronesian
+1181,Fatakai (Nuaulu),sout2895,nxl,Papunesia,-3.23411,129.148,Austronesian
+1182,Mentawai (Ngangan Sakalagan),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+1183,Enggano,engg1245,eno,Papunesia,-5.38846,102.245,Austronesian
+1184,Malagasy (Sakalava),saka1291,skg,Africa,-20.28,44.32,Austronesian
+1185,Mentawai (Pagai and Sipora),ment1249,mwv,Papunesia,-1.41092,98.9401,Austronesian
+1186,Malagasy (Tandroy),tand1256,tdx,Africa,-24.80155,45.9,Austronesian
+1187,Nyelâyu,nyal1254,yly,Papunesia,-19.72,163.66,Austronesian
+1188,Houaïlou,houa1234,aji,,,,Austronesian
+1189,Proto Northern Central Vanuatu,nort3195,,,,,Austronesian
+1190,Malagasy (Tanala),plat1254,plt,Africa,-19.5907,47.1211,Austronesian
+1191,Bangka Malay,bang1365,mfb,Papunesia,-1.73288,105.897,Austronesian
+1192,Jambi Malay,jamb1236,jax,Papunesia,-2.6469,103.13,Austronesian
+1193,Lom (Mapurese),bang1365,mfb,Papunesia,-1.73288,105.897,Austronesian
+1194,Hewa,sika1262,ski,Papunesia,-8.67302,122.38,Austronesian
+1195,Proto-Kimbe,,,,,,
+1196,Portuguese,port1283,por,Eurasia,39.91,-8.1,Indo-European
+1197,"Nicobarese, Central",cent1990,ncb,Eurasia,7.94812,93.3921,Austroasiatic
+1198,Ainu,ainu1251,aib,Eurasia,39.2714,76.4209,Turkic
+1199,"Gelao, Red",redg1235,gir,Eurasia,23.1868,104.993,Tai-Kadai
+1200,Kapampangan,pamp1243,pam,Papunesia,14.9603,120.502,Austronesian
+1201,Jiamao,jiam1236,jio,Eurasia,18.5548,109.854,Tai-Kadai
+1202,Bola,bola1250,bnp,Papunesia,-5.55792,150.095,Austronesian
+1203,Bulu,bulu1253,bjl,Papunesia,-5.06134,150.101,Austronesian
+1204,Lahat (Central Malay),cent2053,pse,Papunesia,-3.79673,103.137,Austronesian
+1205,Meramera,mera1242,mxm,Papunesia,-4.97468,151.528,Austronesian
+1206,Fas,fass1245,fqs,Papunesia,-3.10868,141.64,Baibai-Fas
+1207,Mangaia,mang1402,rar,Papunesia,,,Austronesian
+1208,Naga Bikol,cent2087,bcl,Papunesia,13.7574,123.403,Austronesian
+1209,Paser,lawa1257,lbx,Papunesia,-1.80261,115.876,Austronesian
+1210,Nasal,nasa1239,nsy,Papunesia,-4.8652,103.5719,Austronesian
+1211,Arta,arta1239,atz,Papunesia,16.4185,121.656,Austronesian
+1212,Nukeria,nuku1259,nur,Papunesia,-3.40038,154.731,Austronesian
+1213,Ra'ivavae,raiv1237,aut,Papunesia,-23.86742,-147.6551,Austronesian
+1214,Old Rapa (Rapa),rapa1245,ray,Papunesia,-27.6304,-144.338,Austronesian
+1215,Ponosakan,pono1240,pns,Papunesia,0.91716,124.712,Austronesian
+1216,Ninde (Opmomba),labo1244,mwi,Papunesia,-16.4291,167.442,Austronesian
+1217,Ninde (Lawa),labo1244,mwi,Papunesia,-16.4291,167.442,Austronesian
+1218,Ninde (Lorlo),labo1244,mwi,Papunesia,-16.4291,167.442,Austronesian
+1219,Ninde (Labo),labo1244,mwi,Papunesia,-16.4291,167.442,Austronesian
+1220,Ninde (Windua),labo1244,mwi,Papunesia,-16.4291,167.442,Austronesian
+1221,Avava (Tisvel),katb1237,tmb,Papunesia,-16.2701,167.484,Austronesian
+1222,Avava (Khatbol),katb1237,tmb,Papunesia,-16.2701,167.484,Austronesian
+1223,Avava (Timbibi),katb1237,tmb,Papunesia,-16.2701,167.484,Austronesian
+1224,Avava (Bangaːsak),katb1237,tmb,Papunesia,-16.2701,167.484,Austronesian
+1225,Salang (Dixon Reef),dixo1238,tmb,Papunesia,-16.3267,167.516,Austronesian
+1226,Nahavaq (Caroline Bay),sout2857,sns,Papunesia,-16.5116,167.477,Austronesian
+1227,Nahavaq (Benour),sout2857,sns,Papunesia,-16.5116,167.477,Austronesian
+1228,Nahavaq (Lembinwin),sout2857,sns,Papunesia,-16.5116,167.477,Austronesian
+1229,Na:ti (Windua),nati1244,,Papunesia,-16.468709,167.496054,Austronesian
+1230,Nombotkote (Usus - Melkin),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1231,Nombotkote (Blacksands),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1232,Nombotkote (Melaklak (Melkin)),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1233,Letemboi (Aingelemolesa),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1234,Letemboi (Natingatlang North),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1235,Letemboi (Nevatanyene),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1236,Letemboi (Newotenyene),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1237,Nasarian (Wileven tu),nasa1240,nvh,Papunesia,-16.3497,167.414,Austronesian
+1238,Angavae (Dixon Reef),dixo1238,dix,Papunesia,-16.3267,167.516,Austronesian
+1239,Novol (Usus - Dixon Reef),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1240,Novol (Usus - Dixon Reef),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1241,Novol (Usus - Dixon Reef),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1242,Novol (Melaklak),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1243,Neverver (Lingarak - Mindu),ling1265,lgk,Papunesia,-16.1986,167.499,Austronesian
+1244,Neverver (Lingarak - Sakan),ling1265,lgk,Papunesia,-16.1986,167.499,Austronesian
+1245,Pangkumu (Ndarmif),rere1240,pgk,Papunesia,-16.2934,167.651,Austronesian
+1246,Pangkumu (Datisman),rere1240,pgk,Papunesia,-16.2934,167.651,Austronesian
+1247,Unua (Noferai),unua1237,onu,Papunesia,-16.2638,167.599,Austronesian
+1248,Unua (Mbatumbo),unua1237,onu,Papunesia,-16.2638,167.599,Austronesian
+1249,Neve'ei (Vinmavis),wini1242,vnm,Papunesia,,,Austronesian
+1250,Neve'ei (Vinmavis),wini1242,vnm,Papunesia,,,Austronesian
+1251,Tesmbol (Usus),aulu1238,aul,Papunesia,-16.3579,167.697,Austronesian
+1252,Tesmbol (Melaklak),aulu1238,aul,Papunesia,-16.3579,167.697,Austronesian
+1253,Fifti (Khatbol),vivt1234,,Papunesia,-16.28,167.5,Austronesian
+1254,Nitita (Khatbol),niti1249,,Papunesia,-16.2,167.46,Austronesian
+1255,Tape (Tautu),mara1399,mrs,Papunesia,-16.0695,167.33,Austronesian
+1256,Naman (Litzlitz),litz1237,lzl,Papunesia,-16.1331,167.415,Austronesian
+1257,Ayta Mag-antsi,maga1263,sgb,Papunesia,15.1954,120.459,Austronesian
+1258,Manide,cama1250,abd,Papunesia,14.1571,122.835,Austronesian
+1259,Utudnon,bayb1234,bvy,Papunesia,10.6956,124.8086,Austronesian
+1260,Inati (Nagpana),atii1237,atk,Papunesia,11.1539,122.512,Austronesian
+1261,Umiray Dumaget,umir1236,due,Papunesia,14.8757,121.508,Austronesian
+1262,Ayta Abellen,aben1249,abp,Papunesia,15.4131,120.2,Austronesian
+1263,Ayta Ambala,amba1267,abc,Papunesia,14.8156,120.283,Austronesian
+1264,Ayta Mag-anchi,maga1263,sgb,Papunesia,15.1954,120.459,Austronesian
+1265,Bolinao,boli1256,smk,Papunesia,16.3071,119.853,Austronesian
+1266,Botolan Sambal,boto1242,sbl,Papunesia,15.2315,120.164,Austronesian
+1267,Ayta Mag-indi,magi1241,blx,Papunesia,14.9617,120.182,Austronesian
+1268,Sambal,tina1248,xsb,Papunesia,15.5797,120.095,Austronesian
+1269,Iraya,iray1237,iry,Papunesia,13.381,120.65,Austronesian
+1270,Alangan,alan1249,alj,Papunesia,13.0982,121.022,Austronesian
+1271,Tadyawan,tady1237,tdy,Papunesia,13.0211,121.305,Austronesian
+1272,Batangan,buhi1245,bku,Papunesia,12.6396,121.21,Austronesian
+1273,Buhid,buhi1245,bku,Papunesia,12.6396,121.21,Austronesian
+1274,Hanunoo,hanu1241,hnn,Papunesia,12.4159,121.221,Austronesian
+1275,Ratagnon,rata1245,btn,Papunesia,12.2785,121.187,Austronesian
+1276,Sogodnin (Boracay),atii1237,atk,Papunesia,11.1539,122.512,Austronesian
+1277,Sogodnin (Iloilo),atii1237,atk,Papunesia,11.1539,122.512,Austronesian
+1278,Malaweg,itaw1240,itv,Papunesia,17.7329,121.58,Austronesian
+1279,ßatarxobu (Benut),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1280,ßatarxobu (Lipitav),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1281,ßatarxobu (Limsak),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1282,Aulua (Loxse Lanfitfit),aulu1238,aul,Papunesia,-16.3579,167.697,Austronesian
+1283,Maraxus,mara1399,mrs,Papunesia,-16.0695,167.33,Austronesian
+1284,Venen Taute (Unmet),bign1238,nmb,Papunesia,-16.0903,167.239,Austronesian
+1285,Vao (Torono),vaoo1237,vao,Papunesia,-15.898299,167.309973,Austronesian
+1286,"Siviti (Beterbu, Jericho)",malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1287,Venen Taute (Hamax),bign1238,nmb,Papunesia,-16.0903,167.239,Austronesian
+1288,Aulua (Netimb),aulu1238,aul,Papunesia,-16.3579,167.697,Austronesian
+1289,Aitchin (Orap),atch1238,upv,Papunesia,,,Austronesian
+1290,Malua Bay (Petarmul 1),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1291,Tirax (Bakru),maee1241,mme,Papunesia,-15.9914,167.288,Austronesian
+1292,Burmbar (Fartavo),burm1263,vrt,Papunesia,-16.41653,167.73124,Austronesian
+1293,Nisvai (Blacksands),nisv1234,,Papunesia,-16.41306,167.785556,Austronesian
+1294,Uripiv (D'urpif 1),urip1240,upv,Papunesia,,,Austronesian
+1295,Alavas-Wowo (Wowo 2),mpot1241,mvt,Papunesia,-15.8988,167.232,Austronesian
+1296,Tirax (Olamb),maee1241,mme,Papunesia,-15.9914,167.288,Austronesian
+1297,Uripiv (D'urpif 2,urip1240,upv,Papunesia,,,Austronesian
+1298,Wala (Botku),wala1267,upv,Papunesia,,,Austronesian
+1299,Wala (Worprev A),wala1267,upv,Papunesia,,,Austronesian
+1300,Venen Taute (Alpalak),bign1238,nmb,Papunesia,-16.0903,167.239,Austronesian
+1301,Rano (Chinambong),wala1267,upv,Papunesia,,,Austronesian
+1302,Rano (Small Island),wala1267,upv,Papunesia,,,Austronesian
+1303,Rano (Potora),wala1267,upv,Papunesia,,,Austronesian
+1304,Vao (Peteri),vaoo1237,vao,Papunesia,-15.898299,167.309973,Austronesian
+1305,Alavas 1,mpot1241,mvt,Papunesia,-15.8988,167.232,Austronesian
+1306,Uripiv (Potnambwe),urip1240,upv,Papunesia,,,Austronesian
+1307,Nese (Matanvat),nese1235,,Papunesia,-15.952608,167.222769,Austronesian
+1308,Espiegels' Bay (Shore),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1309,ßatarxobu (Gunwar),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1310,Siviti (Womol),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1311,Espiegel's Bay (Litebral),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1312,Malua Bay (Petarmul 2),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1313,Najit,malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1314,Alavas-Wowo (Wowo 1),mpot1241,mvt,Papunesia,-15.8988,167.232,Austronesian
+1315,Aitchin (Small Island),atch1238,upv,Papunesia,,,Austronesian
+1316,Mbwenelang (Xoli),bwen1239,,Papunesia,-16.338946,167.660849,Austronesian
+1317,Tirax (Mae A),maee1241,mme,Papunesia,-15.9914,167.288,Austronesian
+1318,Malua Bay (Marasup),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1319,Tirax (Mae B),maee1241,mme,Papunesia,-15.9914,167.288,Austronesian
+1320,Burmbar,burm1263,vrt,Papunesia,-16.41653,167.73124,Austronesian
+1321,Port Sandwich (Lamap 1),port1285,psw,Papunesia,-16.4952,167.78,Austronesian
+1322,Alavas 2,mpot1241,mvt,Papunesia,-15.8988,167.232,Austronesian
+1323,Malua Bay (TipTir),malu1245,mll,Papunesia,-15.9813,167.208,Austronesian
+1324,Aulua (Loxse Asolokh),aulu1238,aul,Papunesia,-16.3579,167.697,Austronesian
+1325,Wala (Worprev B),wala1267,upv,Papunesia,,,Austronesian
+1326,Port Sandwich (Lamap 2),port1285,psw,Papunesia,-16.4952,167.78,Austronesian
+1327,Vao (Beetehul),vaoo1237,vao,Papunesia,-15.898299,167.309973,Austronesian
+1328,Paiwan (Tjatjigel Egli),paiw1248,pwn,Papunesia,22.3271,120.806,Austronesian
+1329,Mato (Ramuk dialect),mato1252,met,Papunesia,-5.91639,146.859,Austronesian
+1330,Mangap-Mbula,mbul1263,mna,Papunesia,-5.66965,148.041,Austronesian
+1331,Dobel (Koijabi dialect),dobe1238,kvo,Papunesia,-6.32531,134.638,Austronesian
+1332,Kola,kola1285,kvv,Papunesia,-5.48833,134.592,Austronesian
+1333,Tami,tami1290,tmy,Papunesia,-6.70017,147.732,Austronesian
+1334,Mumeng (Patep dialect),pate1247,ptp,Papunesia,-6.91988,146.639,Austronesian
+1335,Mangseng,mang1403,mbh,Papunesia,-5.89752,150.68,Austronesian
+1336,Bariai,bari1286,bch,Papunesia,-5.5087,148.666,Austronesian
+1337,Wogeo,woge1237,woc,Papunesia,-3.20238,144.089,Austronesian
+1338,Batuley,batu1258,bay,Papunesia,-5.814412,134.784314,Austronesian
+1339,Ujir (Schapper),ujir1237,udj,Papunesia,-5.69329,134.257,Austronesian
+1340,Label,labe1239,lbb,Papunesia,-4.46971,152.678,Austronesian
+1341,Ramoaaina,ramo1244,rai,Papunesia,-4.17306,152.451,Austronesian
+1342,Sursurunga,surs1246,sgz,Papunesia,-3.99078,152.768,Austronesian
+1343,Malalamai,mala1489,mmt,Papunesia,-5.77495,146.642,Austronesian
+1344,Ham,mari1428,dad,Papunesia,-5.349,145.59,Austronesian
+1345,Siŋorakai,sing1268,mqz,Papunesia,,,Austronesian
+1346,Wab,wabb1237,wab,Papunesia,-5.61216,146.461,Austronesian
+1347,Biliau,awad1244,bcu,Papunesia,-5.59896,146.355,Austronesian
+1348,Roinji,ronj1237,roe,Papunesia,-5.80782,146.731,Austronesian
+1349,Bali-Vitu,unea1237,bbn,Papunesia,-4.89383,149.141,Austronesian
+1350,Nenaya,nana1258,met,Papunesia,,,Austronesian
+1351,Takia,taki1248,tbc,Papunesia,-4.69057,145.975,Austronesian
+1352,Kumokio,kumu1247,kuo,Papunesia,-6.03128,147.411,Nuclear Trans New Guinea
+1353,Mindiri,mind1255,mpn,Papunesia,-5.5,146.15,Austronesian
+1354,Sialum,sial1240,slw,Papunesia,-6.07688,147.574,Nuclear Trans New Guinea
+1355,Sio,sioo1240,xsi,Papunesia,-5.96037,147.353,Austronesian
+1356,Malasanga,mala1487,mqz,Papunesia,-5.9401,147.058,Austronesian
+1357,Kinalakna,kina1251,kco,Papunesia,-6.05862,147.442,Nuclear Trans New Guinea
+1358,Mutu,mutu1242,tuc,Papunesia,-5.79405,148.014,Austronesian
+1359,Gitua,gitu1237,ggt,Papunesia,-6.0151,147.485,Austronesian
+1360,Arop,arop1242,aps,Papunesia,-3.06984,142.12,Austronesian
+1361,Bebeli,bebe1252,bek,Papunesia,-5.63282,150.323,Austronesian
+1362,Dadu'a,dadu1237,gal,Papunesia,-8.486,125.8637,Austronesian
+1363,Fordata,ford1242,frd,Papunesia,-7.28902,131.511,Austronesian
+1364,Irarutu,irar1238,irh,Papunesia,-2.94438,133.586,Austronesian
+1365,Naueti,naue1237,nxa,Papunesia,-8.70733,126.741,Austronesian
+1366,Tetun Fehan,tetu1245,tet,Papunesia,-9.11217,125.528,Austronesian
+1367,Tokodede,tuku1254,tkd,Papunesia,-8.6788,125.283,Austronesian
+1368,Waima'a,waim1252,wmh,Papunesia,-8.53416,126.317,Austronesian
+1369,Drubea,dumb1241,duf,Papunesia,-22.0947,166.531,Austronesian
+1370,Novol (Bangir),lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1371,Kaniet,kani1282,ktk,Papunesia,-1.51777,145.086,Austronesian
+1372,Ninigo,seim1238,ssg,Papunesia,-1.2666667,144.25,Austronesian
+1373,Awa,auaa1241,wuv,Papunesia,,,Austronesian
+1374,Sori,sori1242,sbh,Papunesia,-1.98384,146.642,Austronesian
+1375,Lup,herm1237,llf,Papunesia,-1.52891,145.075,Austronesian
+1376,Njada,nyin1250,lid,Papunesia,-2.1143,146.627,Austronesian
+1377,Ponam,pona1250,ncc,Papunesia,-1.91705,146.887,Austronesian
+1378,Andra,andr1248,anx,Papunesia,-2.05894,147.085,Austronesian
+1379,Hus,andr1248,anx,Papunesia,-2.05894,147.085,Austronesian
+1380,Jiriw,nali1245,nss,Papunesia,-2.14273,147.202,Austronesian
+1381,Pitilu,leip1237,lek,Papunesia,-1.9665,147.226,Austronesian
+1382,Bujan,kele1258,sbc,Papunesia,-2.09163,147.064,Austronesian
+1383,Mokaren,moke1240,mft,Papunesia,-2.01602,147.423,Austronesian
+1384,Bipi,bipi1237,biq,Papunesia,-2.11115,146.398,Austronesian
+1385,Lebei,kheh1237,tlx,Papunesia,-2.06626,146.746,Austronesian
+1386,Tulu,tulu1259,rak,Papunesia,-2.14155,146.934,Austronesian
+1387,Pak,pakt1239,pkg,Papunesia,-2.05269,147.767,Austronesian
+1388,Mbunai,tita1241,ttv,Papunesia,-2.18168,146.888,Austronesian
+1389,Baluan,balu1257,blq,Papunesia,-2.5604,147.282,Austronesian
+1390,Musau,muss1248,emi,Papunesia,,,Austronesian
+1391,Avau,avau1237,avb,Papunesia,-6.24342,150.427,Austronesian
+1392,Hote (Misim dialect),hote1245,hot,Papunesia,-7.07708,146.869,Austronesian
+1393,Nyindrou,nyin1250,lid,Papunesia,-2.1143,146.627,Austronesian
+1394,Sissano (Arop dialect),siss1243,sso,Papunesia,-3.01976,142.049,Austronesian
+1395,Akolet,akol1237,akt,Papunesia,-6.22711,150.182,Austronesian
+1396,Na'ahai (Mbatvanui) 162-85,malf1237,mlx,Papunesia,-16.5499,167.509,Austronesian
+1397,Natangan (Mbonvor) 162-86,lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1398,Axamb (Small Island-Brisbane) 162-89,axam1237,ahb,Papunesia,-16.4838,167.707,Austronesian
+1399,Na'ahai (Mbatambang) 162-83,malf1237,mlx,Papunesia,-16.5499,167.509,Austronesian
+1400,Avok (Hokai) 162-98,avok1244,,Papunesia,-16.536653,167.773866,Austronesian
+1401,Mandri (Farun) 162-91,nasv1234,,Papunesia,-16.458173,167.639563,Austronesian
+1402,Na'axai (Malfaxal) 162-84,malf1237,mlx,Papunesia,-16.5499,167.509,Austronesian
+1403,Uliveo (Palongk) 162-104,mask1242,klv,Papunesia,-16.5073,167.818,Austronesian
+1404,Nasvang (Farun) 162-93,nasv1234,,Papunesia,-16.458173,167.639563,Austronesian
+1405,Natangan (Farun) 162-95b,lete1241,nms,Papunesia,-16.4339,167.566,Austronesian
+1406,Na'ahai (Toman Island) 162-82,malf1237,mlx,Papunesia,-16.5499,167.509,Austronesian
+1407,Avok (Shiaf),avok1244,,Papunesia,-16.536653,167.773866,Austronesian
+1408,Nasvang (Farun) 162-90,nasv1234,,Papunesia,-16.458173,167.639563,Austronesian
+1409,Avok (Hokai) 162-97a,avok1244,,Papunesia,-16.536653,167.773866,Austronesian
+1410,Axamb (Small Island-Maliambur) 162-88,axam1237,ahb,Papunesia,-16.4838,167.707,Austronesian
+1411,Navwien 162-87,navw1234,,Papunesia,-16.502947,167.554419,Austronesian
+1412,Uliveo (Lurtes) 162-107,mask1242,klv,Papunesia,-16.5073,167.818,Austronesian
+1413,Axamb (Farun) 162-94,axam1237,ahb,Papunesia,-16.4838,167.707,Austronesian
+1414,Uliveo (Pescaros) 162-106,mask1242,klv,Papunesia,-16.5073,167.818,Austronesian
+1415,Mandri (Faru) 162-100,axam1237,ahb,Papunesia,-16.4838,167.707,Austronesian
+1416,Nasvang (Farun - children) 162-96,nasv1234,,Papunesia,-16.458173,167.639563,Austronesian
+1417,Uliveo (Palongk) 162-103,mask1242,klv,Papunesia,-16.5073,167.818,Austronesian
+1418,Avok (Avok) 162-101,avok1244,,Papunesia,-16.536653,167.773866,Austronesian
+1419,Uliveo (Peskaros) 162-105,mask1242,klv,Papunesia,-16.5073,167.818,Austronesian
+1420,Nasvang (Farun) 162-95a,nasv1234,,Papunesia,-16.458173,167.639563,Austronesian
+1421,Avok (Avok) 162-99,avok1244,,Papunesia,-16.536653,167.773866,Austronesian
+1422,Eastern Ngad'a,east2464,nea,Papunesia,-8.82745,121.121,Austronesian
+1423,Anuki,anuk1239,aui,Papunesia,-9.6692,149.822,Austronesian
+1424,Sinaugoro (Balawaia Dialect),bala1307,snc,Papunesia,,,Austronesian
+1425,Buhutu,buhu1237,bxh,Papunesia,-10.5074,150.18,Austronesian
+1426,Bunama,buna1276,bdd,Papunesia,-10.0761,151.066,Austronesian
+1427,Bwaidoga,bwai1243,bwd,Papunesia,,,Austronesian
+1428,Dawawa,dawa1242,dww,Papunesia,-10.1692,149.999,Austronesian
+1429,Dobu,dobu1241,dob,Papunesia,-9.63239,150.825,Austronesian
+1430,"Mekeo, East",east2455,mek,Papunesia,,,Austronesian
+1431,Gapapaiwa,gapa1238,pwg,Papunesia,-9.73317,149.854,Austronesian
+1432,Ghayavi,ghay1237,bmk,Papunesia,-10.011,149.84,Austronesian
+1433,Gumawana,guma1254,gvs,Papunesia,-9.28497,150.762,Austronesian
+1434,Hula,hula1239,hul,Papunesia,-9.99427,147.705,Austronesian
+1435,Iamalele,iama1237,yml,Papunesia,-9.45005,150.573,Austronesian
+1436,Iduna,idun1242,viv,Papunesia,-9.34361,150.24,Austronesian
+1437,Kilivila,kili1267,kij,Papunesia,-8.72574,151.072,Austronesian
+1438,Koluwawa,kolu1245,klx,Papunesia,-9.42742,150.462,Austronesian
+1439,Lala,lala1268,nrz,Papunesia,-8.93195,146.749,Austronesian
+1440,Maisin,mais1250,mbq,Papunesia,-9.22853,148.731,Austronesian
+1441,Minaveha,mina1269,mvn,Papunesia,-9.59922,150.501,Austronesian
+1442,Misima,misi1243,mpx,Papunesia,-10.6821,152.696,Austronesian
+1443,Molima,moli1248,mox,Papunesia,-9.57457,150.614,Austronesian
+1444,Motu,motu1246,meu,Papunesia,-9.67492,147.424,Austronesian
+1445,Muyuw,muyu1244,myw,Papunesia,-9.195,152.731,Austronesian
+1446,"Mekeo, North-West",nort2851,mek,Papunesia,,,Austronesian
+1447,Proto Central Papuan,cent2070,,,,,Austronesian
+1448,Proto North Mainland/D'Entrecasteaux,nort2848,,,,,Austronesian
+1449,Proto Papuan Tip,papu1253,,,,,Austronesian
+1450,Proto Suauic,suau1243,,,,,Austronesian
+1451,Roro,waim1251,rro,Papunesia,-8.67145,146.544,Austronesian
+1452,Saliba,sali1295,sbe,Papunesia,-10.6148,150.727,Austronesian
+1453,Sinaugoro (Saroa Dialect),saro1238,snc,Papunesia,,,Austronesian
+1454,Sewa,sewa1251,sew,Papunesia,-10.0277,150.956,Austronesian
+1455,Suau,suau1242,swp,Papunesia,-10.6606,150.21,Austronesian
+1456,Sudest,sude1239,tgo,Papunesia,-11.5229,153.488,Austronesian
+1457,Tawala,tawa1275,tbo,Papunesia,-10.3115,150.644,Austronesian
+1458,Tubetube,bwan1241,tte,Papunesia,-10.6599,151.034,Austronesian
+1459,Wedau,weda1241,wed,Papunesia,-10.1246,150.172,Austronesian
+1460,'Auhelawa,auhe1237,kud,Papunesia,-10.0959,151.002,Austronesian
+1461,'Oyaoya,oyao1237,oyy,Papunesia,-10.5392,150.658,Austronesian
+1462,Roon,roon1237,rnn,Papunesia,-2.43005,134.556,Austronesian
+1463,Isinay (Dupax),isin1239,inn,Papunesia,16.3299,121.12,Austronesian
+1464,Proto-Subanen,suba1253,,,,,Austronesian
+1465,Proto-Manobo,mano1276,,,,,Austronesian
+1466,Proto-Sama-Bajaw,sama1302,,,,,Austronesian
+1467,Mindoro Tagalog,taga1270,tgl,Papunesia,14.06,121.747,Austronesian
+1468,Proto North Sarawak,nort3171,,,,,Austronesian
+1469,Proto Kenyah,keny1280,,,,,Austronesian
+1470,Lebo' Vo',main1275,xkl,Papunesia,3.42975,116.47431,Austronesian
+1471,Uma' Pawe,waha1238,whk,Papunesia,1.56635,116.655,Austronesian
+1472,Lepo' Gah,main1275,xkl,Papunesia,3.42975,116.47431,Austronesian
+1473,Lepo' Laang,main1275,xkl,Papunesia,3.42975,116.47431,Austronesian
+1474,Lepo' Sawa,main1275,xkl,Papunesia,3.42975,116.47431,Austronesian
+1475,Lepo' Tau,main1275,xkl,Papunesia,3.42975,116.47431,Austronesian
+1476,Badeng,main1275,xkl,Papunesia,3.42975,116.47431,Austronesian
+1477,Ngorek,ngor1244,mxr,Papunesia,,,Austronesian
+1478,Kayan,bara1370,kys,Papunesia,3.51211,114.482,Austronesian
+1479,Paicî,paic1239,pri,Papunesia,-21.096,165.15,Austronesian
+1480,Nyelâyu (Belep Dialect),nyal1254,yly,Papunesia,-19.72,163.66,Austronesian
+1481,Ansus,ansu1237,and,Papunesia,-1.7543,135.866,Austronesian
+1482,Ajiø,ajie1238,aji,Papunesia,-21.3029,165.468,Austronesian
+1483,Anesù,xara1244,ane,Papunesia,-21.7034,165.996,Austronesian
+1484,Aro,arho1237,aok,Papunesia,-21.3183,165.161,Austronesian
+1485,Arʃa,arha1237,aqr,Papunesia,-21.2866,165.273,Austronesian
+1486,Iai,iaai1238,iai,Papunesia,-20.6301,166.59,Austronesian
+1487,ⁿDuᵐbea,dumb1241,duf,Papunesia,-22.0947,166.531,Austronesian
+1488,Jawe,jawe1237,jaz,Papunesia,-20.6648,164.676,Austronesian
+1489,Kapone,nume1242,kdk,Papunesia,-22.2689,166.705,Austronesian
+1490,Koumac,nene1250,nee,Papunesia,,,Austronesian
+1491,Moeneᵐbeŋ,caac1237,msq,Papunesia,-20.4114,164.578,Austronesian
+1492,Neku,neku1237,nek,Papunesia,-21.6524,165.578,Austronesian
+1493,Nenema,nene1250,nee,Papunesia,,,Austronesian
+1494,Neŋone,neng1238,nen,Papunesia,-21.5305,167.964,Austronesian
+1495,Nɛmi,nemi1240,nem,Papunesia,-20.6791,164.797,Austronesian
+1496,Pat̪i,paic1239,pri,Papunesia,-21.096,165.15,Austronesian
+1497,Pinje,pije1237,piz,Papunesia,-20.7824,164.942,Austronesian
+1498,Poai,fwai1237,fwa,Papunesia,-20.6873,164.901,Austronesian
+1499,Poamei,pwaa1237,pme,Papunesia,-20.8442,164.77,Austronesian
+1500,Poapoã,pwap1237,pop,Papunesia,-20.8133,164.556,Austronesian
+1501,Sirehë,zire1240,sih,Papunesia,-21.6544,165.482,Austronesian
+1502,Wamoaŋ,waam1236,wmn,Papunesia,-20.5014,164.409,Austronesian
+1503,camuki,cemu1238,cam,Papunesia,-20.8489,165.13,Austronesian
+1504,Ciri,tiri1258,cir,Papunesia,-21.8147,165.792,Austronesian
+1505,ɲua,yuag1237,nua,Papunesia,-20.5664,164.51,Austronesian
+1506,ʝalasu,bala1316,,Papunesia,-20.25,164.2,Austronesian
+1507,ʰMoaekɛ,vama1243,mkt,Papunesia,-20.7708,165.04,Austronesian
+1508,ʰMoavekɛ,hmwa1243,mrk,Papunesia,-20.9246,164.768,Austronesian
+1509,ᵐBelep,nyal1254,yly,Papunesia,-19.72,163.66,Austronesian
+1510,ᵐBonⁿde,yuag1237,nua,Papunesia,-20.5664,164.51,Austronesian
+1511,ᵐBoewe,orow1242,bpk,Papunesia,-21.6269,165.473,Austronesian
+1512,‘Aragùrɛ,xara1243,axx,Papunesia,-21.8223,166.376,Austronesian
+1513,’Aekɛ,haek1239,aek,Papunesia,-21.0735,164.869,Austronesian
+1514,’Avekɛ,have1241,hvk,Papunesia,-21.0249,164.753,Austronesian
+1515,ⁿDe’u,dehu1237,dhv,Papunesia,-20.8892,167.229,Austronesian
+1516,Siraya A,sira1267,fos,Papunesia,22.9777,120.315,Austronesian
+1517,Siraya UM (Utrecht Manuscript) dialect,sira1267,fos,Papunesia,22.9777,120.315,Austronesian
+1518,Proto Siraya,sira1267,fos,Papunesia,22.9777,120.315,Austronesian
+1519,Siraya Gospel dialect,sira1267,fos,Papunesia,22.9777,120.315,Austronesian
+1520,Kaisabu,kaes1237,cia,Papunesia,,,Austronesian
+1521,Kumbewaha,kumb1274,xks,Papunesia,-5.34485,123.154,Austronesian
+1522,Lasalimu,lasa1237,llm,Papunesia,-5.23602,123.129,Austronesian
+1523,Wakole dialect of Kumbewaha,kumb1274,xks,Papunesia,-5.34485,123.154,Austronesian
+1524,Wasambua dialect of Cia-Cia,ciac1237,cia,Papunesia,-5.68289,122.791,Austronesian
+1525,Wolowa dialect of Kumbewaha,kumb1274,xks,Papunesia,-5.34485,123.154,Austronesian
+1526,Proto Malagasy,mala1537,mlg,,,,Austronesian
+1527,Bwatoo,bwat1240,bwa,Papunesia,-21.3777,165.076,Austronesian
+1528,Pwapwâ - mBoyen,pwap1237,pop,Papunesia,-20.8133,164.556,Austronesian
+1529,Haeke,haek1239,aek,Papunesia,-21.0735,164.869,Austronesian
+1530,Haveke,have1241,hvk,Papunesia,-21.0249,164.753,Austronesian
+1531,Caac,caac1237,msq,Papunesia,-20.4114,164.578,Austronesian
+1532,Javanese (Yogyakarta),java1254,jav,Papunesia,-7.001,109.287,Austronesian
+1533,Tengger (Ngadas),teng1272,tes,Papunesia,-7.89069,113.037,Austronesian
+1534,Javanese (Malang),java1254,jav,Papunesia,-7.001,109.287,Austronesian
+1535,Old/Middle Javanese,java1254,jav,Papunesia,-7.001,109.287,Austronesian
+1536,Jizhao (Li & Wu 2017),jizh1234,,Eurasia,21.388,110.868,Tai-Kadai
+1537,"Jizhao (Shao 2016, Shao & Meng 2016)",jizh1234,,Eurasia,21.388,110.868,Tai-Kadai
+1538,Jizhao (Zhang 1992),jizh1234,,Eurasia,21.388,110.868,Tai-Kadai
+1539,Tobati,toba1266,tti,Papunesia,-2.56434,140.71,Austronesian
+1540,Ifo (Utaha),ifoo1237,iff,Papunesia,-18.7668,169.007,Austronesian
+1541,Raga,hano1246,lml,Papunesia,-15.5432,168.167,Austronesian
+1542,Sa (Ha),saaa1241,apb,Papunesia,-15.9534,168.228,Austronesian
+1543,Sa (F Yantas),saaa1241,apb,Papunesia,-15.9534,168.228,Austronesian
+1544,Sa (Bunlap),saaa1241,apb,Papunesia,-15.9534,168.228,Austronesian
+1545,Lolkasai,hano1246,lml,Papunesia,-15.5432,168.167,Austronesian
+1546,Proto-Danaw,dana1253,,,,,Austronesian
+1547,Bulalakawnon,bula1256,loc,Papunesia,,,Austronesian
+1548,Inonhan (Dispoholnon),disp1238,loc,Papunesia,,,Austronesian
+1549,Kamayo,kama1363,kyk,Papunesia,8.10796,126.314,Austronesian
+1550,Caluyanun (Semirara),semi1263,clu,Papunesia,,,Austronesian
+1551,Guiangan (Sirib),gian1241,bgi,Papunesia,6.99967,125.359,Austronesian
+1552,Guiangan (Baguio),gian1241,bgi,Papunesia,6.99967,125.359,Austronesian
+1553,Inati (Hamtic),atii1237,atk,Papunesia,11.1539,122.512,Austronesian
+1554,"Inati (Jordan, Guimaras)",atii1237,atk,Papunesia,11.1539,122.512,Austronesian
+1555,Tandaganon (Naturalis),natu1247,tgn,Papunesia,,,Austronesian
+1556,Malay,indo1316,ind,Papunesia,-7.33458,109.716,Austronesian
+1557,Kala,kela1255,kcl,Papunesia,-7.47103,147.173,Austronesian
+1558,Jiamao,jiam1236,jio,Eurasia,18.5548,109.854,Tai-Kadai
+1559,Jiamao (Lingshui),jiam1236,jio,Eurasia,18.5548,109.854,Tai-Kadai
+1560,Great Andamanese,grea1241,,,,,Great Andamanese
+1561,Proto-Austroasiatic,aust1305,,,,,Austroasiatic
+1562,Proto-Japanese,japo1237,,,,,Japonic
+1563,Proto-Nivkh,gily1242,niv,Eurasia,52.59,140.681,Nivkh
+1564,Kenaboi (I),kena1236,xbn,Eurasia,3.154162,102.01596,Kenaboi
+1565,Proto-Nicobarese,nico1262,,,,,Austroasiatic
+1566,Proto-Aslian,asli1243,,,,,Austroasiatic
+1567,Kusunda,kusu1250,kgg,Eurasia,28.33,82.6,Kusunda
+1568,Kenaboi (II),kena1236,xbn,Eurasia,3.154162,102.01596,Kenaboi
+1569,Agutyanen,agut1237,agn,Papunesia,10.5328,119.655,Austronesian
+1570,Moklen,mokl1243,mkm,Eurasia,8.16761,98.3176,Austronesian
+1571,Proto-Moken-Moklen,moke1241,,,,,Austronesian
+1572,Nihali,niha1238,nll,Eurasia,21.1886,76.3318,Nihali
+1573,Fwâi,fwai1237,fwa,Papunesia,-20.6873,164.901,Austronesian
+1574,Pije (mountain),pije1237,piz,Papunesia,-20.7824,164.942,Austronesian
+1575,Pije (Ocean),pije1237,piz,Papunesia,-20.7824,164.942,Austronesian
+1576,Xârâcùù,xara1244,ane,Papunesia,-21.7034,165.996,Austronesian
+1577,Keapara (Kalo Dialect),kalo1259,khz,Papunesia,,,Austronesian
+1578,Nguluwan,ngul1236,nuw,Papunesia,8.45,137.34,Austronesian
+1579,Sungwadia (Naomumu),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1580,North Ambae (Leonda),east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1581,North Ambae (Havai),east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1582,Sungwadia (Uta),mari1426,mrb,Papunesia,-14.970047,168.057941,Austronesian
+1583,Sungwadia (Marino),mari1426,mrb,Papunesia,-14.970047,168.057941,Austronesian
+1584,North Ambae (Leo),east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1585,Mwerlap (of N. Maewo),merl1237,mrm,Papunesia,-14.450679,168.053527,Austronesian
+1586,Sungwadaga (Roŋnawo),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1587,Sungwaloge (Tawet) as spoken at Naviso,cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1588,Sungwadaga (Lalaundi),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1589,Sungwada (Ngota),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1590,Sungwadola (Gʷaaran Uta),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1591,Sungwadoga (Rata),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1592,East Ambae (Sana),east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1593,South Ambae (Lolovele),east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1594,South Ambae (Biribiri),east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1595,South Ambae (Sakao),port1296,omb,Papunesia,,,Austronesian
+1596,Sungwaloge (Tawet) as spoken at Narovorovo,cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1597,East Ambae (Vuindondo),east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1598,Sungwaloge (Nalemba) as spoken at Narovorovo),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1599,West Ambae (Walaha),wala1268,nnd,Papunesia,,,Austronesian
+1600,East Ambae (Lolovoli),east2443,omb,Papunesia,-15.3523,167.89,Austronesian
+1601,Sungwaloge (Nalemba) as spoken at Nasawa,cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1602,Sungagage (Avanbatai),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1603,Raga,hano1246,lml,Papunesia,-15.5432,168.167,Austronesian
+1604,Sungagage (Avavanvae),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1605,Sungagage (Asanvari),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1606,Xalangi (Baetora),baet1237,mwo,Papunesia,-15.2574,168.159,Austronesian
+1607,Sungwadia (Tasmaor),mari1426,mrb,Papunesia,-14.970047,168.057941,Austronesian
+1608,Cemuhî,cemu1238,cam,Papunesia,-20.8489,165.13,Austronesian
+1609,Xârâgurè,xara1243,axx,Papunesia,-21.8223,166.376,Austronesian
+1610,Hamea,meaa1237,cir,Papunesia,-21.4939,165.771,Austronesian
+1611,Proto-Kra-Dai,kada1291,,,,,Tai-Kadai
+1612,Tîrî (Tsîrî - Tintin),tiri1261,cir,Papunesia,,,Austronesian
+1613,Nemi (Temala area),nemi1240,nem,Papunesia,-20.6791,164.797,Austronesian
+1614,Nemi (East cost area),nemi1240,nem,Papunesia,-20.6791,164.797,Austronesian
+1615,Numèè (Nââ Numèè),nume1242,kdk,Papunesia,-22.2689,166.705,Austronesian
+1616,Proto-Asmat-Kamoro,asma1256,,,,,Nuclear Trans New Guinea
+1617,Jawe,jawe1237,jaz,Papunesia,-20.6648,164.676,Austronesian
+1618,Sishëë,zire1240,sih,Papunesia,-21.6544,165.482,Austronesian
+1619,Keapara (Keapara/Kerepunu Dialect),keap1239,khz,Papunesia,-10.1342,147.95,Austronesian
+1620,Proto-Palawan,pala1354,,,,,Austronesian
+1621,Proto-Batanic,bata1315,,,,,Austronesian
+1622,Proto-Central Luzon,cent2080,,,,,Austronesian
+1623,Proto-Kalamianic,kala1389,,,,,Austronesian
+1624,Proto-Gorontalo-Mongondow,goro1257,,,,,Austronesian
+1625,Sungwadia (Naone),cent2058,mwo,Papunesia,-15.0784,168.135,Austronesian
+1626,Mangaia,mang1402,rar,Papunesia,,,Austronesian
+1627,Tokelau Fijian,fiji1243,fij,Papunesia,-18.0,178.33,Austronesian
+1628,Penrhyn (Tongareva),penr1237,pnh,Papunesia,-9.082238,-157.922908,Austronesian
+1629,Beothuk,beot1247,bue,North America,48.0,-57.0,Beothuk
+1630,Aitutaki,aitu1237,rar,Papunesia,,,Austronesian
+1631,Ma'uke,mauk1238,rar,Papunesia,,,Austronesian
+1632,Serewen,pomm1237,pmo,Papunesia,-1.64224,135.619,Austronesian
+1633,Pom,pomm1237,pmo,Papunesia,-1.64224,135.619,Austronesian
+1634,Biak (Northern),biak1248,bhw,Papunesia,-0.9523,135.879,Austronesian
+1635,Inagta Alabat,alab1246,dul,Papunesia,14.1217,122.014,Austronesian
+1636,Tahitian,tahi1242,tah,Papunesia,-17.6485,-149.45,Austronesian
+1637,Surigaonon,suri1273,sgd,Papunesia,9.0,126.0,Austronesian
+1638,Western Subanon,west2557,suc,Papunesia,7.79964,122.341,Austronesian
+1639,Tugun,tugu1245,tzn,Papunesia,-7.72555,126.7,Austronesian
+1640,"Tobian, Hatohobeian, Ramari Hatohobei",tobi1238,tox,Papunesia,3.004528,131.171295,Austronesian
+1641,Manide (Labo),cama1250,abd,Papunesia,14.1571,122.835,Austronesian
+1642,Vaha (Tanna Island),sout2869,nwi,Papunesia,-19.57953,169.35603,Austronesian
+1643,Central Sinama,cent2092,sml,Papunesia,7.004574,118.455978,Austronesian
+1644,Southern Thai,sout2746,sou,Eurasia,6.85668,99.7031,Tai-Kadai
+1645,Tai Dam 1,taid1247,blt,Eurasia,18.9572,102.928,Tai-Kadai
+1646,Tai Dam 2,taid1247,blt,Eurasia,18.9572,102.928,Tai-Kadai
+1647,Tai Nüa 1,tain1252,tdd,Eurasia,21.7837,99.722,Tai-Kadai
+1648,Tai Nüa 2,tain1252,tdd,Eurasia,21.7837,99.722,Tai-Kadai
+1649,Tai Nüa 3,tain1252,tdd,Eurasia,21.7837,99.722,Tai-Kadai
+1650,Tai Nüa 4,tain1252,tdd,Eurasia,21.7837,99.722,Tai-Kadai
+1651,Thai,thai1261,tha,Eurasia,14.192,100.671,Tai-Kadai
+1652,Lao,laoo1244,lao,Eurasia,19.0,102.46,Tai-Kadai
+1653,Shan,shan1277,shn,Eurasia,21.5995,98.0342,Tai-Kadai
+1654,Nukumanu,nuku1258,nuq,Papunesia,-4.576321,159.48537,Austronesian
+1655,Mandailing,bata1291,akb,Papunesia,0.85805,99.898,Austronesian
+1656,Ngevin,lame1259,,,,,Austronesian
+1657,Nalema,lame1259,,,,,Austronesian
+1658,Red Ston,lame1259,,,,,Austronesian
+1659,Red Ston (Nakanamanga),nort2836,llp,Papunesia,-17.5774,168.375,Austronesian
+1660,Taolia,lame1259,,,,,Austronesian
+1661,Vilakara,lame1259,,,,,Austronesian
+1662,Vilakara (Nakanamanga),nort2836,llp,Papunesia,-17.5774,168.375,Austronesian
+1663,Lopika,lame1259,,,,,Austronesian
+1664,Lopika (Nakanamanga),nort2836,llp,Papunesia,-17.5774,168.375,Austronesian
+1665,Tekelele,lame1259,,,,,Austronesian
+1666,Tekelele (Nakanamanga),nort2836,llp,Papunesia,-17.5774,168.375,Austronesian
+1667,Oreao,bier1246,brj,Papunesia,-16.7867,168.232,Austronesian
+1668,Oreao (Nakanamanga),nort2836,llp,Papunesia,-17.5774,168.375,Austronesian
+1669,Lopalis,lame1259,,,,,Austronesian
+1670,Lopalis (Nakanamanga),nort2836,llp,Papunesia,-17.5774,168.375,Austronesian
+1671,Tamalia,lame1259,,,,,Austronesian
+1672,Miapika,lame1259,,,,,Austronesian
+1673,nul nelsa 1-18,lame1259,,,,,Austronesian
+1674,sara 1-16,bier1246,brj,Papunesia,-16.7867,168.232,Austronesian
+1675,votlo 1-15,bier1246,brj,Papunesia,-16.7867,168.232,Austronesian
+1676,jakena,lame1259,,,,,Austronesian
+1677,Nouvi,lame1259,,,,,Austronesian
+1678,mate wan,lame1259,,,,,Austronesian
+1679,Lepa,lame1259,,,,,Austronesian
+1680,Maŋgalava,bier1246,brj,Papunesia,-16.7867,168.232,Austronesian
+1681,Nivenuhe,lame1259,,,,,Austronesian
+1682,Morju,lame1259,,,,,Austronesian
+1683,Maparahu,lame1259,,,,,Austronesian
+1684,Niku,lame1259,,,,,Austronesian
+1685,Laman Bay,lame1259,,,,,Austronesian
+1686,Betawi Malay (Tengahan dialect),tang1384,,Papunesia,,,Austronesian
+1687,Ulpea,,,,,,
+1688,Lewo (Mate village),mate1259,lww,Papunesia,,,Austronesian
+1689,Lewo (Nivu village),lewo1242,lww,Papunesia,-16.7612,168.334,Austronesian
+1690,Lewo (Nikaura village),lewo1242,lww,Papunesia,-16.7612,168.334,Austronesian
+1691,Buang (Headwaters dialect),mapo1242,bzh,Papunesia,-6.86672,146.774,Austronesian
+1692,Lamen Bay,lame1260,lmu,Papunesia,-16.6098,168.171,Austronesian
+1693,Proto-Atayal,atay1246,tay,,,,Austronesian
+1694,Atayal (Matu'uwal),atay1247,tay,Papunesia,24.5209,121.388,Austronesian
+1695,Atayal (Plngawan),atay1247,tay,Papunesia,24.5209,121.388,Austronesian
+1696,Atayal (Squliq),sqol1237,,Papunesia,,,Austronesian
+1697,Atayal (Skikun),atay1247,tay,Papunesia,24.5209,121.388,Austronesian
+1698,Atayal (Klesan),atay1247,tay,Papunesia,24.5209,121.388,Austronesian
+1699,Atayal (Matu'aw),atay1247,tay,Papunesia,24.5209,121.388,Austronesian
+1700,Atayal (S'uli),sqol1237,,Papunesia,,,Austronesian
+1701,Proto-Bunun,bunu1267,bnn,Papunesia,23.4116,121.025,Austronesian
+1702,South African Malay (Cape Malay),mala1538,,,,,Austronesian
+1703,Kelinjau Modang,moda1244,mxd,Papunesia,0.80793,116.573,Austronesian
+1704,Wehea (Wahau),moda1244,mxd,Papunesia,0.80793,116.573,Austronesian
+1705,Bahau,baha1257,bhv,Papunesia,0.30801,115.332,Austronesian
+1706,Mahakam Kayan,kaya1324,xay,Papunesia,0.91787,114.452,Austronesian
+1707,Kuanua (Makada),kuan1248,ksd,Papunesia,-4.30986,152.114,Austronesian
+1708,Tomoip,tomo1244,tqp,Papunesia,-5.30721,151.828,Austronesian
+1709,Lote,lote1237,uvl,Papunesia,-5.954,150.911,Austronesian
+1710,Acehnese-Lamno,achi1257,ace,Papunesia,3.90757,96.6032,Austronesian
+1711,Aneityumese,anei1239,aty,Papunesia,-20.1864,169.825,Austronesian
+1712,Dalkalaen,dalk1234,,Papunesia,-16.26246,167.93334,Austronesian
+1713,Malay (1600),stan1306,zsm,Eurasia,3.08896,101.699,Austronesian
+1714,Tamambo,malo1243,mla,Papunesia,-15.6835,167.16,Austronesian
+1715,Fijian (Rewa; Burebasaga),,,,,,
+1716,Fijian (Yasayasabeqa; Yanuca),,,,,,
+1717,Fijian (Vanualevuicake; Dogotuki),,,,,,
+1718,Fijian (Vanualevuicake; Vaturovaivanua),,,,,,
+1719,Fijian (Vanualevuiloma; Wailevuirā),,,,,,
+1720,Fijian (Rakiraki; Natokea),,,,,,
+1721,Fijian (Wainibuka; Nalawa),,,,,,
+1722,Fijian (Vanuabalavu; Lomaloma),vanu1243,llx,Papunesia,,,Austronesian
+1723,Fijian (Nadroga; Nakaria),nadr1235,wyy,Papunesia,,,Austronesian
+1724,Fijian (Ba; Votua),,,,,,
+1725,Fijian (Nadroga; Wai),nadr1235,wyy,Papunesia,,,Austronesian
+1726,Fijian (Vanualevuiloma; Nukubolu),,,,,,
+1727,Fijian (Vanuabalavu; Mualevu),vanu1243,llx,Papunesia,,,Austronesian
+1728,Fijian (Wainimala; Vuna Tailevu),,,,,,
+1729,Fijian (Nadroga; Tubaniwai/Jubaniwai),nadr1235,wyy,Papunesia,,,Austronesian
+1730,Fijian (Ovalau; Rukuruku Ovalau),,,,,,
+1731,Fijian (Vatulawa; Mabuco),,,,,,
+1732,Fijian (Vanualevuiloma; Macuata),,,,,,
+1733,Fijian (Vanualevuicake; Saqani),,,,,,
+1734,Fijian (Kadavu; Namālata),kada1285,fij,Papunesia,,,Austronesian
+1735,Fijian (Wainibuka; Nabuto),,,,,,
+1736,Fijian (Vanualevuiloma; Buca),,,,,,
+1737,Fijian (Vanualevuicake; Namuka),,,,,,
+1738,Fijian (Gau; Qalitū),,,,,,
+1739,Fijian (Wainimala; Lutu),,,,,,
+1740,Fijian (Vatulawa; Nadakeke/Narocake),,,,,,
+1741,Fijian (Bau; Batiki Tailevu),bauu1243,fij,Papunesia,,,Austronesian
+1742,Fijian (Tailevu; Kuku),,,,,,
+1743,Fijian (Kadavu; Yawe),kada1285,fij,Papunesia,,,Austronesian
+1744,Fijian (Sērua; Nadruku),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1745,Fijian (Verata; Bureta),,,,,,
+1746,Fijian (Vanualevuicake; Nadogo),,,,,,
+1747,Fijian (Naitasiri; Lami),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1748,Fijian (Kadavu; Yale),kada1285,fij,Papunesia,,,Austronesian
+1749,Fijian (Nadrau; Nadrau),nadr1234,wyy,Papunesia,,,Austronesian
+1750,Fijian (Rewa; Kiuva),,,,,,
+1751,Fijian (Vanualevuiloma; Tamonibuca),,,,,,
+1752,Fijian (Yasawa; Yasawa),,,,,,
+1753,Fijian (Wainibuka; Nakorotubu),,,,,,
+1754,Fijian (Vanualevuicake; Udu),,,,,,
+1755,Fijian (Sērua; Bajiwai/Batiwai),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1756,Fijian (Magodro; Nāloto Bā),west2519,wyy,Papunesia,-17.8355,177.657,Austronesian
+1757,Fijian (Verata; Qomā),,,,,,
+1758,Fijian (Bua; Wailevu Bua),west2514,fij,Papunesia,,,Austronesian
+1759,Fijian (Bua; Bua),west2514,fij,Papunesia,,,Austronesian
+1760,Fijian (Wainibuka; Nailuva),,,,,,
+1761,Fijian (Bua; Kubulau),west2514,fij,Papunesia,,,Austronesian
+1762,Fijian (Rakiraki; Navatu Nakorotubu),,,,,,
+1763,Fijian (Wainibuka; Nalidi),,,,,,
+1764,Fijian (Vanualevuiloma; Sēqāqāirā),,,,,,
+1765,Fijian (Nadrau; Nabōbuco),nadr1234,wyy,Papunesia,,,Austronesian
+1766,Fijian (Bua; Natokalau Kubulau),west2514,fij,Papunesia,,,Austronesian
+1767,Fijian (Yasawa; Teci),,,,,,
+1768,Fijian (Ba; Nailaga,,,,,,
+1769,Fijian (Verata; Nasēsara),,,,,,
+1770,Fijian (Wainibuka; Nausori Rā),,,,,,
+1771,Fijian (Yasayasabeqa; Sawau),,,,,,
+1772,Fijian (Rakiraki; Tokaimalo),,,,,,
+1773,Fijian (Verata; Nasinu),,,,,,
+1774,Fijian (Naitasiri; Navunokonoko),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1775,Fijian (Vanualevuiloma; Kiā),,,,,,
+1776,Fijian (Vanualevuiloma; Wailevu),,,,,,
+1777,Fijian (Vatulawa; Nasau),,,,,,
+1778,Fijian (Verata; Tokou),,,,,,
+1779,Fijian (Verata; Yanuca Moturiki),,,,,,
+1780,Fijian (Vanualevuiloma; Naqumu),,,,,,
+1781,Fijian (Vanualevuiloma; Navadra),,,,,,
+1782,Fijian (Magodro; Magodro),west2519,wyy,Papunesia,-17.8355,177.657,Austronesian
+1783,Fijian (Naitasiri; Lomaivuna),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1784,Fijian (Wainibuka; Nakida),,,,,,
+1785,Fijian (Vanualevuiloma; Sāsā),,,,,,
+1786,Fijian (Yasayasabeqa; Deuba),,,,,,
+1787,Fijian (Wainibuka; Bureivanua),,,,,,
+1788,Fijian (Nadroga; Bemana),nadr1235,wyy,Papunesia,,,Austronesian
+1789,Fijian (Wainibuka; Bureiwai),,,,,,
+1790,Fijian (Kadavu; Namara Kadavu),kada1285,fij,Papunesia,,,Austronesian
+1791,Fijian (Rewa; Visama),,,,,,
+1792,Fijian (Yasayasabeqa; Naduruvesi),,,,,,
+1793,Fijian (Nadroga; Tuva),nadr1235,wyy,Papunesia,,,Austronesian
+1794,Fijian (Rewa; Toga),,,,,,
+1795,Fijian (Bua; Navakasiga),west2514,fij,Papunesia,,,Austronesian
+1796,Fijian (Vanualevuiloma; Drakaniwai),,,,,,
+1797,Fijian (Yasawa; Marou),,,,,,
+1798,Fijian (Vatulawa; Wainikeli),,,,,,
+1799,Fijian (Bau; Kaba),bauu1243,fij,Papunesia,,,Austronesian
+1800,Fijian (Naitasiri; Navakavu),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1801,Fijian (Wainibuka; Silana),,,,,,
+1802,Fijian (Rewa; Rewa),,,,,,
+1803,Fijian (Rakiraki; Raviravi Ra),,,,,,
+1804,Fijian (Vuda; Buduka),,,,,,
+1805,Fijian (Vanualevuiloma; Dreketi),,,,,,
+1806,Fijian (Wainimala; Rārā),,,,,,
+1807,Fijian (Tailevu; Burerua),,,,,,
+1808,Fijian (Vatulawa; Naweni),,,,,,
+1809,Fijian (Wainibuka; Namena),,,,,,
+1810,Fijian (Ovalau; Cawaci),,,,,,
+1811,Fijian (Vuda; Māmānuca),,,,,,
+1812,Fijian (Waya; Viwa),waya1268,wyy,Papunesia,-17.294682,177.123396,Austronesian
+1813,Fijian (Vuda; Malolo),,,,,,
+1814,Fijian (Vanualevuiloma; Naqelelevu),,,,,,
+1815,Fijian (Vanualevuiloma; Bāravi),,,,,,
+1816,Fijian (Vanualevuicake; Batinikama),,,,,,
+1817,Fijian (Sērua; Sērua),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1818,Fijian (Rewa; Buretū),,,,,,
+1819,Fijian (Gau; Gau),,,,,,
+1820,Fijian (Rewa; Nukui),,,,,,
+1821,Fijian (Vanualevuicake; Koibau/Qoibau),,,,,,
+1822,Fijian (Vanualevuiloma; Nasavusavu,,,,,,
+1823,Fijian (Nadroga; Lomawai),nadr1235,wyy,Papunesia,,,Austronesian
+1824,Fijian (Waidina; Navuakece),waid1240,fij,Papunesia,,,Austronesian
+1825,Fijian (Nadroga; Naqwalimare),nadr1235,wyy,Papunesia,,,Austronesian
+1826,Fijian (Keiasi; Vusu),,,,,,
+1827,Fijian (Vanualevuiloma; Nabekavu),,,,,,
+1828,Fijian (Wainibuka; Nasautoka),,,,,,
+1829,Fijian (Rakiraki; Naroko),,,,,,
+1830,Fijian (Vatulawa; Qamea),,,,,,
+1831,Fijian (Nadroga; Davutukia/Davujukia),nadr1235,wyy,Papunesia,,,Austronesian
+1832,Fijian (Ba; Qaliyalatina),,,,,,
+1833,Fijian (Vanualevuiloma; Dewala),,,,,,
+1834,Fijian (Rewa; Naqarani),,,,,,
+1835,Fijian (Keiasi; Mosi),,,,,,
+1836,Fijian (Verata; Nāloto Verata),,,,,,
+1837,Fijian (Bau; Taiobau),bauu1243,fij,Papunesia,,,Austronesian
+1838,Fijian (Rewa; Vūtia),,,,,,
+1839,Fijian (Waidina; Naitavuni),waid1240,fij,Papunesia,,,Austronesian
+1840,Fijian (Vanualevuicake; Namukaicake),,,,,,
+1841,Fijian (Namosi; Vunaqumu),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1842,Fijian (Gau; Narocake),,,,,,
+1843,Fijian (Nadroga; Momi),nadr1235,wyy,Papunesia,,,Austronesian
+1844,Fijian (Tailevu; Nacovu),,,,,,
+1845,Fijian (Rewa; Noco),,,,,,
+1846,Fijian (Bau; Nairai),bauu1243,fij,Papunesia,,,Austronesian
+1847,Fijian (Vanualevuicake; Labasa),,,,,,
+1848,Fijian (Wainibuka; Nayavu),,,,,,
+1849,Fijian (Rewa; Nukutubu),,,,,,
+1850,Fijian (Verata; Savuna),,,,,,
+1851,Fijian (Kadavu; Nabukelevu),kada1285,fij,Papunesia,,,Austronesian
+1852,Fijian (Yasayasabeqa; Naturū),,,,,,
+1853,Fijian (Yasawa; Nacula),,,,,,
+1854,Fijian (Bau; Batiki),bauu1243,fij,Papunesia,,,Austronesian
+1855,Fijian (Yasayasabeqa; Kulu),,,,,,
+1856,Fijian (Ovalau; Gavo),,,,,,
+1857,Fijian (Wainibuka; Barotu),,,,,,
+1858,Fijian (Wainibuka; Nababa),,,,,,
+1859,Fijian (Nadroga; Cuvu),nadr1235,wyy,Papunesia,,,Austronesian
+1860,Fijian (Verata; Nasauvuki),,,,,,
+1861,Fijian (Tailevu; Tubalevu),,,,,,
+1862,Fijian (Rewa; Tokatoka),,,,,,
+1863,Fijian (Wainibuka; Wailotua),,,,,,
+1864,Fijian (Rewa; Nuku),,,,,,
+1865,Fijian (Bua; Lekutu),west2514,fij,Papunesia,,,Austronesian
+1866,Fijian (Rakiraki; Vatukaloko),,,,,,
+1867,Fijian (Sērua; Mami/Bajiwaiilolo),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1868,Fijian (Verata; Natokalau),,,,,,
+1869,Fijian (Yasayasamuala; Natokalau Cicia),,,,,,
+1870,Fijian (Yasayasabeqa; Raviravi),,,,,,
+1871,Fijian (Sērua; Tubai),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1872,Fijian (Rakiraki; Navatu Rā),,,,,,
+1873,Fijian (Vanualevuicake; Korotubu),,,,,,
+1874,Fijian (Yasayasabeqa; Vābea),,,,,,
+1875,Fijian (Verata; Naicabecabe),,,,,,
+1876,Fijian (Ovalau; Nasaumatua),,,,,,
+1877,Fijian (Ovalau; Levuka),,,,,,
+1878,Fijian (Rewa; Dravo),,,,,,
+1879,Fijian (Rewa; Dreketi Rewa),,,,,,
+1880,Fijian (Sērua; Vunaniu),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1881,Fijian (Vatulawa; Natewa),,,,,,
+1882,Fijian (Kadavu; Tavuki),kada1285,fij,Papunesia,,,Austronesian
+1883,Fijian (Bua; Sōlevu),west2514,fij,Papunesia,,,Austronesian
+1884,Fijian (Vuda; Vuda),,,,,,
+1885,Fijian (Ba; Nakoroboya),,,,,,
+1886,Fijian (Waidina; Waidina),waid1240,fij,Papunesia,,,Austronesian
+1887,Fijian (Tailevu; Mokani),,,,,,
+1888,Fijian (Bua; Dama),west2514,fij,Papunesia,,,Austronesian
+1889,Fijian (Lau; Oneata),lauu1248,llx,Papunesia,,,Austronesian
+1890,Fijian (Wainibuka; Nasoqo),,,,,,
+1891,Fijian (Wainibuka; Dakuinuku),,,,,,
+1892,Fijian (Vanualevuiloma; Cikobia),,,,,,
+1893,Fijian (Ba; Vitogo),,,,,,
+1894,Fijian (Bau; Bau),bauu1243,fij,Papunesia,,,Austronesian
+1895,Fijian (Vanualevuiloma; Savudrodro),,,,,,
+1896,Fijian (Vuda; Naua),,,,,,
+1897,Fijian (Rakiraki; Yadua),,,,,,
+1898,Fijian (Yasayasabeqa; Natūsara),,,,,,
+1899,Fijian (Tailevu; Nausori),,,,,,
+1900,Fijian (Nadroga; Namaqumaqua),nadr1235,wyy,Papunesia,,,Austronesian
+1901,Fijian (Bua; Kavula),west2514,fij,Papunesia,,,Austronesian
+1902,Fijian (Tailevu; Vugalei),,,,,,
+1903,Fijian (Bau; Viwa Bau),bauu1243,fij,Papunesia,,,Austronesian
+1904,Fijian (Bua; Wainunu),west2514,fij,Papunesia,,,Austronesian
+1905,Fijian (Wainibuka; Nakuailava),,,,,,
+1906,Fijian (Vanualevuicake; Nakama),,,,,,
+1907,Fijian (Vanualevuiloma; Muanivatu),,,,,,
+1908,Fijian (Ba; Bulu),,,,,,
+1909,Fijian (Vuda; Nawaka),,,,,,
+1910,Fijian (Rakiraki; Vatumali),,,,,,
+1911,Fijian (Ba; Tāvua/Tavua),,,,,,
+1912,Fijian (Verata; Navatu Bua),,,,,,
+1913,Fijian (Naitasiri; Tamavua),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1914,Fijian (Vanualevuicake; Vaturova),,,,,,
+1915,Fijian (Nadrogā; Mavua),nadr1235,wyy,Papunesia,,,Austronesian
+1916,Fijian (Rewa; Nabuli),,,,,,
+1917,Fijian (Rewa; Nakeloiwai),,,,,,
+1918,Fijian (Bau; Qalivakabau),bauu1243,fij,Papunesia,,,Austronesian
+1919,Fijian (Wainibuka; Nailega),,,,,,
+1920,Fijian (Rakiraki; Malake),,,,,,
+1921,Fijian (Naitasiri; Nasele),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1922,Fijian (Emalu; Emalu),,,,,,
+1923,Fijian (Gonedau; Macuataiwai),gone1237,goo,Papunesia,-16.5886,178.599,Austronesian
+1924,Fijian (Wainibuka; Waimarōiwai),,,,,,
+1925,Fijian (Wainimala; Wailevu Wainimala),,,,,,
+1926,Fijian (Vatulawa; Cawa),,,,,,
+1927,Fijian (Namosi; Namosi),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1928,Fijian (Vanualevuicake; Koroalau),,,,,,
+1929,Fijian (Keiasi; Nasikawa),,,,,,
+1930,Fijian (Verata; Uluibau),,,,,,
+1931,Fijian (Kadavu; Galoa),kada1285,fij,Papunesia,,,Austronesian
+1932,Fijian (Naitasiri; Maū),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1933,Fijian (Lau; Ono),lauu1248,llx,Papunesia,,,Austronesian
+1934,Fijian (Vatulawa; Boumā),,,,,,
+1935,Fijian (Vatulawa; Nabuna),,,,,,
+1936,Fijian (Keiasi; Namataku/Nabau),,,,,,
+1937,Fijian (Emalu; Nalea/Naleā),,,,,,
+1938,Fijian (Vanualevuicake; Bucaisau),,,,,,
+1939,Fijian (Wainimala; Laselevu),,,,,,
+1940,Fijian (Yasayasamuala; Muala/Moala),,,,,,
+1941,Fijian (Vanualevuiloma; Turiwai/Wainiqeu),,,,,,
+1942,Fijian (Vanualevuicake; Wairikiibuca),,,,,,
+1943,Fijian (Bua; Vuya),west2514,fij,Papunesia,,,Austronesian
+1944,Fijian (Kadavu; Tabuya),kada1285,fij,Papunesia,,,Austronesian
+1945,Fijian (Ovalau; Lovoni),,,,,,
+1946,Fijian (Nadroga; Lawalawa),nadr1235,wyy,Papunesia,,,Austronesian
+1947,Fijian (Vuda; Nadele),,,,,,
+1948,Fijian (Vatulawa; Vuna),,,,,,
+1949,Fijian (Verata; Kumī),,,,,,
+1950,Fijian (Tailevu; Tai),,,,,,
+1951,Fijian (Wainibuka; Nasau Wainibuka),,,,,,
+1952,Fijian (Vuda; Sikituru),,,,,,
+1953,Fijian (Nadroga; Conua),nadr1235,wyy,Papunesia,,,Austronesian
+1954,Fijian (Noikoro; Navatusila),west2519,wyy,Papunesia,-17.8355,177.657,Austronesian
+1955,Fijian (Rewa; Nakelo),,,,,,
+1956,Fijian (Yasayasamuala; Totoya),,,,,,
+1957,Fijian (Yasayasamuala; Matuku),,,,,,
+1958,Fijian (Wainimala; Taivugalei),,,,,,
+1959,Fijian (Vatulawa; Nacamaki),,,,,,
+1960,Fijian (Naitasiri; Vuna Naitasiri),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1961,Fijian (Lau; Lauicake),lauu1248,llx,Papunesia,,,Austronesian
+1962,Fijian (Ba; Yākete),,,,,,
+1963,Fijian (Vatulele; Vatulele),,,,,,
+1964,Fijian (Bua; Drakaniwai Bua),west2514,fij,Papunesia,,,Austronesian
+1965,Fijian (Vatulawa; Cakaudrove),,,,,,
+1966,Fijian (Vatulawa; Tunuloa),,,,,,
+1967,Fijian (Wainimala; Waimarō Naulucavu),,,,,,
+1968,Fijian (Verata; Verata),,,,,,
+1969,Fijian (Nadroga; Tabanivono),nadr1235,wyy,Papunesia,,,Austronesian
+1970,Fijian (Wainibuka; Nāloto),,,,,,
+1971,Fijian (Nadroga; Rukuruku),nadr1235,wyy,Papunesia,,,Austronesian
+1972,Fijian (Kadavu; Nakasaleka),kada1285,fij,Papunesia,,,Austronesian
+1973,Fijian (Verata; Nakodu/Naceva),,,,,,
+1974,Fijian (Vanualevuiloma; Seaqāqā/Sēqāqā),,,,,,
+1975,Fijian (Vanualevuiloma; Natuvu),,,,,,
+1976,Fijian (Kadavu; Tabanivonolevu),kada1285,fij,Papunesia,,,Austronesian
+1977,Fijian (Sērua; Narukusara),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1978,Fijian (Rewa; Vunivaivai),,,,,,
+1979,Fijian (Verata; Navuloa),,,,,,
+1980,Fijian (Namosi; Wainikoroiluva),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1981,Fijian (Sērua; Burenitū),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1982,Fijian (Tailevu; Namara),,,,,,
+1983,Fijian (Bua; Nadi Bua),west2514,fij,Papunesia,,,Austronesian
+1984,Fijian (Kadavu; Sānima),kada1285,fij,Papunesia,,,Austronesian
+1985,Fijian (Nadroga; Waicoba),nadr1235,wyy,Papunesia,,,Austronesian
+1986,Fijian (Bau; Sawaieke),bauu1243,fij,Papunesia,,,Austronesian
+1987,Fijian (Naitasiri; Suva),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1988,Fijian (Kadavu; Jioma/Tioma),kada1285,fij,Papunesia,,,Austronesian
+1989,Fijian (Vuda; Vatutū),,,,,,
+1990,Fijian (Vanualevuiloma; Wairiki),,,,,,
+1991,Fijian (Vuda; Nadi),,,,,,
+1992,Fijian (Naitasiri; Naitāsiri),namo1248,bwb,Papunesia,-18.5308,177.637,Austronesian
+1993,Fijian (Wainimala; Matailobau),,,,,,
+1994,Fijian (Wainibuka; Saivou),,,,,,
+1995,Fijian (Ovalau; Naigani),,,,,,
+1996,Fijian (Rewa; Waikete),,,,,,
+1997,Fijian (Waidina; Ovalau),waid1240,fij,Papunesia,,,Austronesian
+1998,Fijian (Vanualevuiloma; Dogoru),,,,,,
+1999,Fijian (Rakiraki; Rakiraki),,,,,,
+2000,Fijian (Vanualevuiloma; Naulana),,,,,,
+2001,Fijian (Bau; Naiviqeleqele),bauu1243,fij,Papunesia,,,Austronesian
+2002,Fijian (Wainibuka; Dawasamu),,,,,,
+2003,Fijian (Wainimala; Nabaitavo),,,,,,
+2004,Fijian (Nadroga; Nasoni/Nahoni),nadr1235,wyy,Papunesia,,,Austronesian
+2005,Fijian (Kadavu; Ravitaki),kada1285,fij,Papunesia,,,Austronesian
+2006,Fijian (Vanualevuiloma; Nabalebale),,,,,,
+2007,Fijian (Yasayasamuala; Cicia),,,,,,
+2008,Fijian (Wainibuka; Nalaba),,,,,,
+2009,Fijian (Rakiraki; Navitilevu),,,,,,
+2010,Fijian (Kadavu; Naceva/Soso),kada1285,fij,Papunesia,,,Austronesian
+2011,Fijian (Vuda; Namoli),,,,,,
+2012,Fijian (Vuda; Sabeto),,,,,,
+2013,Fijian (Wainimala; Nasalia),,,,,,
+2014,Fijian (Rewa; Waivou),,,,,,
+2015,Fijian (Verata; Moturiki),,,,,,
+2016,Fijian (Wainimala; Nadaravakawalu),,,,,,
+2017,Fijian (Vanualevuiloma; Raviravi Macuata),,,,,,
+2018,Fijian (Gonedau; Gonedau),gone1237,goo,Papunesia,-16.5886,178.599,Austronesian
+2019,Fijian (Nadroga; Sanasana/Hanahana),nadr1235,wyy,Papunesia,,,Austronesian
+2020,Fijian (Vuda; Vaturu),,,,,,
+2021,Fijian (Tailevu; Maumi),,,,,,
+2022,Fijian (Vatulawa; Navatu),,,,,,
+2023,Fijian (Bau; Cautatā),bauu1243,fij,Papunesia,,,Austronesian
+2024,Fijian (Wainibuka; Matacaucau),,,,,,
+2025,Fijian (Nadroga; Malomalo),nadr1235,wyy,Papunesia,,,Austronesian
+2026,Fijian (Wainibuka; Dere),,,,,,
+2027,Fijian (Savatu; Savatu),,,,,,
+2028,Fijian (Vuda; Navō),,,,,,
+2029,Fijian (Wainibuka; Mataso),,,,,,
+2030,Fijian (Tailevu; Nāmata),,,,,,
+2031,Fijian (Ovalau; Levukairā),,,,,,
+2032,Fijian (Noikoro; Noikoro),west2519,wyy,Papunesia,-17.8355,177.657,Austronesian
+2033,Fijian (Wainibuka; Lawaki),,,,,,
+2034,Fijian (Wainimala; Muairā),,,,,,
+2035,Fijian (Rewa; Rewa Vulagi),,,,,,
+2036,Fijian (Waya; Waya),waya1268,wyy,Papunesia,-17.294682,177.123396,Austronesian
+2037,Fijian (Yasawa; Muairā Naviti),,,,,,
+2038,Fijian (Yasayasamuala; Vanuavatu),,,,,,
