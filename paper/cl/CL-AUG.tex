@@ -38,12 +38,17 @@ We present an end-to-end pipeline for reconstructing Austronesian language relat
 \section{Introduction}
 Historical-comparative linguistics benefits from reproducible pipelines that transform raw wordlists into phylogenetic hypotheses. We aim to (1) provide a transparent computational baseline for Austronesian language relationships and (2) quantify agreement across lexical distance metrics.
 
+\paragraph{Contributions} (i) An open, reproducible pipeline from ABVD Lexibank (2{,}036 languages, 210 concepts) to cleaned ASJP-form wordlists; (ii) three lexical distance variants (Levenshtein, sound-class, weighted) with systematic correlation analysis (r=0.97 between Levenshtein and weighted); (iii) phylogenetic reconstructions via Neighbor Joining (NJ) and UPGMA that recover expected Formosan groupings; (iv) release of distance matrices (200×200, 100×100), Newick trees, and scripts for end-to-end replication.
+
 \section{Data}
 \subsection{Corpus}
 We use the Austronesian Basic Vocabulary Database (ABVD) in Lexibank format: 2{,}036 languages, 210 concepts, and 346{,}635 word tokens with cognate annotations.
 
 \subsection{Preprocessing}
 IPA forms are normalized to ASJP; noisy or empty forms are removed. Processed tables are stored in \texttt{data/processed/} (e.g., \texttt{clean\_wordlist.csv}).
+
+\subsection{Availability}
+All processed tables (wordlist, languages, meanings) and derived outputs (distance matrices, trees) are released in this repository under \texttt{data/processed/} and \texttt{results/}.
 
 \section{Methods}
 \subsection{Lexical Distance}
