@@ -1,0 +1,20 @@
+{
+  "levenshtein_vs_sound_class": {
+    "r_observed": 0.7228959971184458,
+    "p_value": 0.0001,
+    "n_permutations": 9999,
+    "n_pairs": 4950
+  },
+  "levenshtein_vs_weighted": {
+    "r_observed": 0.8872321813746977,
+    "p_value": 0.0001,
+    "n_permutations": 9999,
+    "n_pairs": 4950
+  },
+  "sound_class_vs_weighted": {
+    "r_observed": 0.7990415254452949,
+    "p_value": 0.0001,
+    "n_permutations": 9999,
+    "n_pairs": 4950
+  }
+}

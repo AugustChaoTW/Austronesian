@@ -1,0 +1,41 @@
+{
+  "levenshtein": {
+    "cophenetic_correlation": 0.9192794140423839,
+    "rf_distance": 44,
+    "max_rf": 64,
+    "norm_rf": 0.6875,
+    "n_shared_leaves": 42,
+    "pair_precision": 0.268361581920904,
+    "pair_recall": 0.06308100929614874,
+    "f1": 0.10215053763440861,
+    "mean_clade_purity": 0.7464646464646464,
+    "n_reference_groups": 35,
+    "n_predicted_clusters": 35
+  },
+  "sound_class": {
+    "cophenetic_correlation": 0.8759707959547481,
+    "rf_distance": 50,
+    "max_rf": 64,
+    "norm_rf": 0.78125,
+    "n_shared_leaves": 42,
+    "pair_precision": 0.3281004709576138,
+    "pair_recall": 0.1387782204515272,
+    "f1": 0.1950536630891274,
+    "mean_clade_purity": 0.6843434343434344,
+    "n_reference_groups": 35,
+    "n_predicted_clusters": 35
+  },
+  "weighted": {
+    "cophenetic_correlation": 0.8969858395127079,
+    "rf_distance": 40,
+    "max_rf": 64,
+    "norm_rf": 0.625,
+    "n_shared_leaves": 42,
+    "pair_precision": 0.2677725118483412,
+    "pair_recall": 0.0750332005312085,
+    "f1": 0.11721991701244815,
+    "mean_clade_purity": 0.7494949494949495,
+    "n_reference_groups": 35,
+    "n_predicted_clusters": 35
+  }
+}
