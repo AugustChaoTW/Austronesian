@@ -6,7 +6,7 @@
 \jnum{nn}
 \jyear{2026}
 \runningtitle{Austronesian Phylogeny via Lexical Distance}
-\runningauthor{Chao et al.}
+\runningauthor{Chao}
 
 % Packages
 \usepackage{amsmath}
@@ -19,11 +19,10 @@
 % Title and authors
 \title{Measuring Austronesian Language Relationships via Lexical Distance and Phylogenetic Reconstruction}
 
-\author{Chao-Yuan Fu\thanks{Equal contribution}$^{,1}$, Yi-Lun Hsu$^{*,1}$, Mei-Han Lin\thanks{Corresponding author}$^{,2}$}
+\author{August F.Y. Chao}
 
 \affilblock{
-    \affil{Institute of Computational Linguistics, Taiwan\quad \email{contact@example.com}}
-    \affil{Department of Computer Science, Taiwan\quad \email{corresponding@example.com}}
+    \affil{Department of Computer Science and Information Engineering, National Penghu University of Science and Technology, Taiwan\quad \email{augchao@gms.npu.edu.tw}}
 }
 
 \begin{document}
@@ -202,10 +201,6 @@ Several limitations warrant attention:
 We present a reproducible, open pipeline for Austronesian lexicostatistical phylogenetics, validated through cross-metric Mantel tests, bootstrap stability analysis, Glottolog tree comparison, and cognate-based external validity. Key findings: (1) three phonetic distance metrics show strong mutual agreement ($r = 0.72$--$0.89$); (2) pairwise distances are highly stable to concept resampling (CV $= 0.016$, 99.98\% stable pairs); (3) NJ trees achieve cophenetic $r = 0.92$ and normalized RF $= 0.625$ against Glottolog 5.3; (4) phonetic distance captures genealogical signal from cognate annotations (Mantel $r = 0.31$). The pipeline and all artifacts are released for replication and extension.
 
 Future work includes (i) improving Glottolog identifier alignment to increase external validity coverage; (ii) applying probabilistic tree inference methods for uncertainty quantification; (iii) extending to the full 2{,}036-language sample with explicit missing-data handling; (iv) incorporating phonological features beyond ASJP for the weighted metric.
-
-\begin{acknowledgments}
-We thank the ABVD and Lexibank maintainers for open data access, and the Glottolog team for the open reference phylogeny. This work uses only freely available data and open-source software.
-\end{acknowledgments}
 
 \bibliographystyle{compling}
 \bibliography{../../reference/main}
