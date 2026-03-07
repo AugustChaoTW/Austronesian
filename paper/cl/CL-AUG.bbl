@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Blust(2013)}]{blust2013austronesian}
+Blust, Robert. 2013.
+\newblock \emph{The Austronesian Languages}.
+\newblock Pacific Linguistics.
+
+\bibitem[{Dolgopolsky(1986)}]{dolgopolsky1986probabilistic}
+Dolgopolsky, Aron~B. 1986.
+\newblock A probabilistic hypothesis concerning the oldest relationships among
+  the language families of northern {E}urasia.
+\newblock \emph{Typology, Relationship and Time}, pages 27--50.
+
+\bibitem[{Felsenstein(2004)}]{felsenstein2004inferring}
+Felsenstein, Joseph. 2004.
+\newblock \emph{Inferring Phylogenies}.
+\newblock Sinauer.
+
+\bibitem[{Gray, Drummond, and Greenhill(2009)}]{gray2009pnas}
+Gray, Russell~D., Alexei~J. Drummond, and Simon~J. Greenhill. 2009.
+\newblock Language phylogenies reveal expansion pulses and pauses in pacific
+  settlement.
+\newblock \emph{Proceedings of the National Academy of Sciences},
+  106(48):20174--20179.
+
+\bibitem[{Greenhill, Blust, and Gray(2008)}]{greenhill2008abvd}
+Greenhill, Simon~J., Robert Blust, and Russell~D. Gray. 2008.
+\newblock The austronesian basic vocabulary database: From bioinformatics to
+  lexomics.
+\newblock \emph{Evolutionary Bioinformatics}, 4:271--283.
+
+\bibitem[{Hammarstr{"o}m et~al.(2023)Hammarstr{"o}m, Forkel, Haspelmath, and
+  Bank}]{hammarstrom_glottolog4}
+Hammarstr{"o}m, Harald, Robert Forkel, Martin Haspelmath, and Sebastian Bank.
+  2023.
+\newblock Glottolog 4.x.
+\newblock Max Planck Institute for Evolutionary Anthropology.
+\newblock Dataset.
+
+\bibitem[{List et~al.(2022)List, Forkel, Greenhill, Rzymski, and {Lexibank
+  Consortium}}]{list2022lexibank}
+List, Johann-Mattis, Robert Forkel, Simon~J. Greenhill, Christoph Rzymski, and
+  {Lexibank Consortium}. 2022.
+\newblock Lexibank: A public repository of standardized wordlists with phonetic
+  transcriptions.
+\newblock \emph{arXiv preprint arXiv:2202.02802}.
+
+\bibitem[{Robinson and Foulds(1981)}]{robinson1981rf}
+Robinson, David~F. and Leslie~R. Foulds. 1981.
+\newblock Comparison of phylogenetic trees.
+\newblock \emph{Mathematical Biosciences}, 53(1--2):131--147.
+
+\bibitem[{Saitou and Nei(1987)}]{saitou1987nj}
+Saitou, Naruya and Masatoshi Nei. 1987.
+\newblock The neighbor-joining method: A new method for reconstructing
+  phylogenetic trees.
+\newblock \emph{Molecular Biology and Evolution}, 4(4):406--425.
+
+\bibitem[{Wichmann et~al.(2010)Wichmann, Holman, Bakker, and
+  Brown}]{wichmann2010asjp}
+Wichmann, S{\o}ren, Eric~W. Holman, Dik Bakker, and Cecil~H. Brown. 2010.
+\newblock Evaluating linguistic distance measures.
+\newblock \emph{Physica A: Statistical Mechanics and its Applications},
+  389(17):3632--3639.
+
+\end{thebibliography}
