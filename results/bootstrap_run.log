@@ -1,0 +1,30 @@
+讀取詞表資料...
+使用語言數: 100
+建立 lang×meaning pivot 表...
+語義數: 210
+
+執行 200 次 bootstrap...
+  20/200 完成
+  40/200 完成
+  60/200 完成
+  80/200 完成
+  100/200 完成
+  120/200 完成
+  140/200 完成
+  160/200 完成
+  180/200 完成
+  200/200 完成
+
+計算統計量...
+已儲存距離矩陣
+已儲存共識樹
+已儲存報告: /home/fychao/Austronesian/results/bootstrap_report.md
+
+=== Bootstrap 摘要 ===
+  n_bootstrap: 200
+  n_languages: 100
+  n_meanings: 210
+  stable_pairs_ratio: 0.9997979797979798
+  unstable_pairs_ratio: 0.0
+  mean_cv: 0.01586924697989644
+  median_cv: 0.014670211537252984

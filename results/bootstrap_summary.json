@@ -1,0 +1,9 @@
+{
+  "n_bootstrap": 200,
+  "n_languages": 100,
+  "n_meanings": 210,
+  "stable_pairs_ratio": 0.9997979797979798,
+  "unstable_pairs_ratio": 0.0,
+  "mean_cv": 0.01586924697989644,
+  "median_cv": 0.014670211537252984
+}

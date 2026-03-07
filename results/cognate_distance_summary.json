@@ -1,0 +1,11 @@
+{
+  "n_languages": 100,
+  "n_meanings_with_cognates": 210,
+  "n_valid_pairs": 4752,
+  "mean_csr": 0.27533789877404524,
+  "std_csr": 0.14470978314040908,
+  "mean_cognate_distance": 0.7246621012259549,
+  "median_cognate_distance": 0.7478234537058066,
+  "mantel_r_vs_levenshtein": 0.3112344217654272,
+  "mantel_p_vs_levenshtein": 3.0206707090393266e-107
+}
